@@ -1,22 +1,36 @@
 from glob import glob
-from tqdm import tqdm
+from time import time
 import pandas as pd
 import multiprocessing as mp
+import os
+
+'''
+엑셀형태의 파일을 csv 형태로 변환하며 필요없는 열 제거
+Multiprocess 사용
+'''
 
 
-def worker(number: int, paths: list):
+def work(number: int, path: str):
+    st = time()
     print(f"worker {number} started")
-    for path in tqdm(paths):
-        df = pd.read_excel(path)
-        dist = path.split("\\")[1][:-5] + ".csv"
 
+    file_name = path.split("\\")[1][:-5]
+    dist = "./processed/xlsx_to_csv/" + file_name + ".csv"
+
+    df = pd.read_excel(path)
+
+    if "망" in df.keys():
         df_new = df.drop(["지역", "망", "측정소명"], axis=1)
-        print(df_new.columns)
-        df_new.columns = ["mCode", "mDate", "SO2", "CO", "O3", "NO2", "PM10", "PM25", "address"]
-        print(df_new.columns)
-        exit()
-        df_new.to_csv(dist, index=False, encoding='euc-kr')
-    print(f"worker {number} finished")
+    else:
+        df_new = df.drop(["지역", "측정소명"], axis=1)
+
+    df_new.columns = ["mCode", "mDateTime", "SO2", "CO", "O3", "NO2", "PM10", "PM25", "address"]
+
+    if not os.path.exists("./processed/xlsx_to_csv"):
+        os.mkdir("./processed/xlsx_to_csv")
+    df_new.to_csv(dist, index=False, encoding='euc-kr')
+
+    print(f"worker {number} finished - {(time() - st):.4f}")
 
 
 if __name__ == "__main__":

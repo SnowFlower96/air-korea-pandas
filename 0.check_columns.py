@@ -3,6 +3,10 @@ import pandas as pd
 import multiprocessing as mp
 from time import time
 
+'''
+엑셀형태의 파일을 읽어와 각 파일들이 의도하는 열의 형태를 가지고 있는지 확인하는 파일  
+'''
+
 
 def work(number: int, path: str):
     st = time()

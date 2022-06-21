@@ -6,6 +6,10 @@ import pandas as pd
 from time import time
 from tqdm import tqdm
 
+'''
+수백만개 이상의 데이터를 넣기 위해 sqlalchemy를 사용한 데이터 적재
+'''
+
 
 def create_measure_code_table(engine):
     measure_code_json = json.load(open("./json/measure_code.json", "r", encoding="UTF-8"))
@@ -18,11 +22,11 @@ def create_measure_code_table(engine):
     df.to_sql(name=f"measure_code", con=conn, if_exists='replace', index=False)
     conn.close()
 
-    pyconn = pymysql.connect(host='localhost', user='ssafy', password='ssafy', db='happyhouse', charset='utf8',
+    pyconn = pymysql.connect(host='localhost', user='user', password='password', db='db', charset='utf8',
                              autocommit=True)
     cur = pyconn.cursor()
 
-    alterSql = f"ALTER TABLE `happyhouse`.`measure_code`" \
+    alterSql = f"ALTER TABLE ``measure_code`" \
                "CHANGE COLUMN `mCode` `mCode` VARCHAR(10) NOT NULL ," \
                "CHANGE COLUMN `dongCode` `dongCode` VARCHAR(10) NULL DEFAULT NULL ," \
                "ADD PRIMARY KEY (`mCode`);" \
@@ -53,7 +57,7 @@ def insert_with_tqdm(engine, df, table_name):
 
 # alter Table
 def alter_table(table_name):
-    pyconn = pymysql.connect(host='localhost', user='ssafy', password='ssafy', db='happyhouse', charset='utf8',
+    pyconn = pymysql.connect(host='localhost', user='user', password='password', db='db', charset='utf8',
                              autocommit=True)
     cur = pyconn.cursor()
 
@@ -74,7 +78,7 @@ def alter_table(table_name):
 
 
 if __name__ == "__main__":
-    engine = create_engine("mysql+pymysql://ssafy:ssafy@localhost:3306/happyhouse")
+    engine = create_engine("mysql+pymysql://db:db@localhost:3306/db")
     create_measure_code_table(engine)
     for year in range(2017, 2022):
         # csv파일 읽기

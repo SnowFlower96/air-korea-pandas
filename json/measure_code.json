@@ -1,4146 +1,2346 @@
 {
   "111121": {
-    "address": "서울 중구 덕수궁길 15",
     "dongCode": "1114016600",
-    "sidoName": "서울특별시",
-    "gugunName": "중구",
-    "dongName": "서소문동"
+    "address": "서울 중구 덕수궁길 15"
   },
   "111122": {
-    "address": "서울 용산구 한강대로 405",
     "dongCode": "1117010700",
-    "sidoName": "서울특별시",
-    "gugunName": "용산구",
-    "dongName": "동자동"
+    "address": "서울 용산구 한강대로 405"
   },
   "111123": {
-    "address": "서울 종로구 종로35가길 19",
     "dongCode": "1111016200",
-    "sidoName": "서울특별시",
-    "gugunName": "종로구",
-    "dongName": "효제동"
+    "address": "서울 종로구 종로35가길 19"
   },
   "111124": {
-    "address": "서울 중구 청계천로 184",
     "dongCode": "1114015200",
-    "sidoName": "서울특별시",
-    "gugunName": "중구",
-    "dongName": "주교동"
+    "address": "서울 중구 청계천로 184"
   },
   "111125": {
-    "address": "서울 종로구 종로 169",
     "dongCode": "1111016100",
-    "sidoName": "서울특별시",
-    "gugunName": "종로구",
-    "dongName": "종로4가"
+    "address": "서울 종로구 종로 169"
   },
   "111131": {
-    "address": "서울 용산구 한남대로 136",
     "dongCode": "1117013100",
-    "sidoName": "서울특별시",
-    "gugunName": "용산구",
-    "dongName": "한남동"
+    "address": "서울 용산구 한남대로 136"
   },
   "111141": {
-    "address": "서울특별시 광진구 광나루로 571",
     "dongCode": "1121510300",
-    "sidoName": "서울특별시",
-    "gugunName": "광진구",
-    "dongName": "구의동"
+    "address": "서울특별시 광진구 광나루로 571"
   },
   "111142": {
-    "address": "서울 성동구 뚝섬로3길 18",
     "dongCode": "1120011400",
-    "sidoName": "서울특별시",
-    "gugunName": "성동구",
-    "dongName": "성수동1가"
+    "address": "서울 성동구 뚝섬로3길 18"
   },
   "111143": {
-    "address": "서울 성동구 강변북로 257",
     "dongCode": "1120011400",
-    "sidoName": "서울특별시",
-    "gugunName": "성동구",
-    "dongName": "성수동1가"
+    "address": "서울 성동구 강변북로 257"
   },
   "111151": {
-    "address": "서울 중랑구 용마산로 369",
     "dongCode": "1126010100",
-    "sidoName": "서울특별시",
-    "gugunName": "중랑구",
-    "dongName": "면목동"
+    "address": "서울 중랑구 용마산로 369"
   },
   "111152": {
-    "address": "서울 동대문구 천호대로13길 43",
     "dongCode": "1123010200",
-    "sidoName": "서울특별시",
-    "gugunName": "동대문구",
-    "dongName": "용두동"
+    "address": "서울 동대문구 천호대로13길 43"
   },
   "111154": {
-    "address": "서울 동대문구 홍릉로 1",
     "dongCode": "1123010700",
-    "sidoName": "서울특별시",
-    "gugunName": "동대문구",
-    "dongName": "청량리동"
+    "address": "서울 동대문구 홍릉로 1"
   },
   "111161": {
-    "address": "서울 성북구 삼양로2길 70",
     "dongCode": "1129013400",
-    "sidoName": "서울특별시",
-    "gugunName": "성북구",
-    "dongName": "길음동"
+    "address": "서울 성북구 삼양로2길 70"
   },
   "111162": {
-    "address": "서울 성북구 돈암동 8-164번지",
     "dongCode": "1129010300",
-    "sidoName": "서울특별시",
-    "gugunName": "성북구",
-    "dongName": "돈암동"
+    "address": "서울 성북구 돈암동 8-164번지"
   },
   "111171": {
-    "address": "서울 도봉구 시루봉로2길 34",
     "dongCode": "1132010500",
-    "sidoName": "서울특별시",
-    "gugunName": "도봉구",
-    "dongName": "쌍문동"
+    "address": "서울 도봉구 시루봉로2길 34"
   },
   "111181": {
-    "address": "서울 은평구 진흥로 215",
     "dongCode": "1138010300",
-    "sidoName": "서울특별시",
-    "gugunName": "은평구",
-    "dongName": "불광동"
+    "address": "서울 은평구 진흥로 215"
   },
   "111191": {
-    "address": "서울 서대문구 세검정로4길 32(홍제3동 주민센터)",
     "dongCode": "1141011100",
-    "sidoName": "서울특별시",
-    "gugunName": "서대문구",
-    "dongName": "홍제동"
+    "address": "서울 서대문구 세검정로4길 32(홍제3동 주민센터)"
   },
   "111201": {
-    "address": "서울 마포구 포은로 6길 10",
     "dongCode": "1144012300",
-    "sidoName": "서울특별시",
-    "gugunName": "마포구",
-    "dongName": "망원동"
+    "address": "서울 마포구 포은로 6길 10"
   },
   "111202": {
-    "address": "서울 마포구 노고산동 57-62",
-    "dongCode": "1144012000",
-    "sidoName": "서울특별시",
-    "gugunName": "마포구",
-    "dongName": "서교동"
+    "dongCode": "1144011000",
+    "address": "서울 마포구 노고산동 57-62"
   },
   "111212": {
-    "address": "서울 강서구 강서로 45 다길 71 화곡3동",
     "dongCode": "1150010300",
-    "sidoName": "서울특별시",
-    "gugunName": "강서구",
-    "dongName": "화곡동"
+    "address": "서울 강서구 강서로 45 다길 71 화곡3동"
   },
   "111213": {
-    "address": "서울 강서구 마곡동 727-1091",
-    "dongCode": "1150010400",
-    "sidoName": "서울특별시",
-    "gugunName": "강서구",
-    "dongName": "가양동"
+    "dongCode": "1150010500",
+    "address": "서울 강서구 마곡동 727-1091"
   },
   "111221": {
-    "address": "서울 구로구 가마산로 27길 45",
     "dongCode": "1153010200",
-    "sidoName": "서울특별시",
-    "gugunName": "구로구",
-    "dongName": "구로동"
+    "address": "서울 구로구 가마산로 27길 45"
   },
   "111231": {
-    "address": "서울특별시 영등포구 당산로 123",
     "dongCode": "1156011300",
-    "sidoName": "서울특별시",
-    "gugunName": "영등포구",
-    "dongName": "당산동3가"
+    "address": "서울특별시 영등포구 당산로 123"
   },
   "111232": {
-    "address": "서울 영등포구 영중로 37",
     "dongCode": "1156010500",
-    "sidoName": "서울특별시",
-    "gugunName": "영등포구",
-    "dongName": "영등포동4가"
+    "address": "서울 영등포구 영중로 37"
   },
   "111241": {
-    "address": "서울 동작구 사당로16아길 6",
     "dongCode": "1159010700",
-    "sidoName": "서울특별시",
-    "gugunName": "동작구",
-    "dongName": "사당동"
+    "address": "서울 동작구 사당로16아길 6"
   },
   "111251": {
-    "address": "서울 관악구 신림동길 14",
     "dongCode": "1162010200",
-    "sidoName": "서울특별시",
-    "gugunName": "관악구",
-    "dongName": "신림동"
+    "address": "서울 관악구 신림동길 14"
   },
   "111261": {
-    "address": "서울 강남구 학동로 426",
     "dongCode": "1168010500",
-    "sidoName": "서울특별시",
-    "gugunName": "강남구",
-    "dongName": "삼성동"
+    "address": "서울 강남구 학동로 426"
   },
   "111262": {
-    "address": "서울 서초구 신반포로15길 16",
     "dongCode": "1165010700",
-    "sidoName": "서울특별시",
-    "gugunName": "서초구",
-    "dongName": "반포동"
+    "address": "서울 서초구 신반포로15길 16"
   },
   "111263": {
-    "address": "서울 강남구 도산대로 104",
     "dongCode": "1168010800",
-    "sidoName": "서울특별시",
-    "gugunName": "강남구",
-    "dongName": "논현동"
+    "address": "서울 강남구 도산대로 104"
   },
   "111264": {
-    "address": "서울특별시 서초구 강남대로 201",
     "dongCode": "1165010200",
-    "sidoName": "서울특별시",
-    "gugunName": "서초구",
-    "dongName": "양재동"
+    "address": "서울특별시 서초구 강남대로 201"
   },
   "111273": {
-    "address": "서울 송파구 백제고분로 236",
     "dongCode": "1171010600",
-    "sidoName": "서울특별시",
-    "gugunName": "송파구",
-    "dongName": "삼전동"
+    "address": "서울 송파구 백제고분로 236"
   },
   "111274": {
-    "address": "서울 강동구 구천면로 42길 59",
     "dongCode": "1174010900",
-    "sidoName": "서울특별시",
-    "gugunName": "강동구",
-    "dongName": "천호동"
+    "address": "서울 강동구 구천면로 42길 59"
   },
   "111275": {
-    "address": "서울 강동구 천호대로 1151",
     "dongCode": "1174010500",
-    "sidoName": "서울특별시",
-    "gugunName": "강동구",
-    "dongName": "길동"
+    "address": "서울 강동구 천호대로 1151"
   },
   "111281": {
-    "address": "서울 금천구 금하로21길 20",
     "dongCode": "1154510300",
-    "sidoName": "서울특별시",
-    "gugunName": "금천구",
-    "dongName": "시흥동"
-  },
-  "111291": {
-    "address": "서울 강북구 삼양로 139길 49",
-    "dongCode": "1130510300",
-    "sidoName": "서울특별시",
-    "gugunName": "강북구",
-    "dongName": "수유동"
-  },
-  "111301": {
-    "address": "서울 양천구 중앙로52길 56",
-    "dongCode": "1147010100",
-    "sidoName": "서울특별시",
-    "gugunName": "양천구",
-    "dongName": "신정동"
-  },
-  "111311": {
-    "address": "서울 노원구 상계로 118",
-    "dongCode": "1135010500",
-    "sidoName": "서울특별시",
-    "gugunName": "노원구",
-    "dongName": "상계동"
-  },
-  "111312": {
-    "address": "서울 노원구 화랑로 429",
-    "dongCode": "1135010300",
-    "sidoName": "서울특별시",
-    "gugunName": "노원구",
-    "dongName": "공릉동"
-  },
-  "131111": {
-    "address": "경기 수원시 팔달구 신풍로 23번길 68",
-    "dongCode": "4111513000",
-    "sidoName": "경기도",
-    "gugunName": "수원시 팔달구",
-    "dongName": "신풍동"
-  },
-  "131112": {
-    "address": "경기 수원시 팔달구 효원로 241",
-    "dongCode": "4111514100",
-    "sidoName": "경기도",
-    "gugunName": "수원시 팔달구",
-    "dongName": "인계동"
-  },
-  "131113": {
-    "address": "경기도 수원시 영통구 광교중앙로 216",
-    "dongCode": "4111710400",
-    "sidoName": "경기도",
-    "gugunName": "수원시 영통구",
-    "dongName": "하동"
-  },
-  "131114": {
-    "address": "경기 수원시 영통구 영통로 217번길 12",
-    "dongCode": "4111710500",
-    "sidoName": "경기도",
-    "gugunName": "수원시 영통구",
-    "dongName": "영통동"
-  },
-  "131115": {
-    "address": "경기 수원시 장안구 서부로 2066",
-    "dongCode": "4111113300",
-    "sidoName": "경기도",
-    "gugunName": "수원시 장안구",
-    "dongName": "천천동"
-  },
-  "131116": {
-    "address": "경기 수원시 팔달구 인계동 1047",
-    "dongCode": "4111514100",
-    "sidoName": "경기도",
-    "gugunName": "수원시 팔달구",
-    "dongName": "인계동"
-  },
-  "131117": {
-    "address": "경기 수원시 권선구 서부로 1600",
-    "dongCode": "4111312800",
-    "sidoName": "경기도",
-    "gugunName": "수원시 권선구",
-    "dongName": "고색동"
-  },
-  "131120": {
-    "address": "경기 성남시 분당구 판교동 652-1",
-    "dongCode": "4113510800",
-    "sidoName": "경기도",
-    "gugunName": "성남시 분당구",
-    "dongName": "판교동"
-  },
-  "131121": {
-    "address": "경기 성남시 수정구 희망로 506번길 21",
-    "dongCode": "4113110400",
-    "sidoName": "경기도",
-    "gugunName": "성남시 수정구",
-    "dongName": "단대동"
-  },
-  "131123": {
-    "address": "경기 성남시 분당구 돌마로 242",
-    "dongCode": "4113510300",
-    "sidoName": "경기도",
-    "gugunName": "성남시 분당구",
-    "dongName": "정자동"
-  },
-  "131124": {
-    "address": "경기 성남시 분당구 분당로 50",
-    "dongCode": "4113510200",
-    "sidoName": "경기도",
-    "gugunName": "성남시 분당구",
-    "dongName": "수내동"
-  },
-  "131125": {
-    "address": "경기 성남시 수정구 성남대로 1229",
-    "dongCode": "4113110300",
-    "sidoName": "경기도",
-    "gugunName": "성남시 수정구",
-    "dongName": "수진동"
-  },
-  "131128": {
-    "address": "경기 성남시 분당구 운중로 138번길 10",
-    "dongCode": "4113511500",
-    "sidoName": "경기도",
-    "gugunName": "성남시 분당구",
-    "dongName": "운중동"
-  },
-  "131129": {
-    "address": "경기 성남시 중원구 둔촌대로 425",
-    "dongCode": "4113310500",
-    "sidoName": "경기도",
-    "gugunName": "성남시 중원구",
-    "dongName": "상대원동"
-  },
-  "131131": {
-    "address": "경기 의정부시 범골로 138",
-    "dongCode": "4115010100",
-    "sidoName": "경기도",
-    "gugunName": "의정부시",
-    "dongName": "의정부동"
-  },
-  "131132": {
-    "address": "경기 의정부시 가능로152번길 14",
-    "dongCode": "4115010100",
-    "sidoName": "경기도",
-    "gugunName": "의정부시",
-    "dongName": "의정부동"
-  },
-  "131141": {
-    "address": "경기 안양시 만안구 안양로170번길 23",
-    "dongCode": "4117110100",
-    "sidoName": "경기도",
-    "gugunName": "안양시 만안구",
-    "dongName": "안양동"
-  },
-  "131142": {
-    "address": "경기 안양시 동안구 시민대로 235",
-    "dongCode": "4117310200",
-    "sidoName": "경기도",
-    "gugunName": "안양시 동안구",
-    "dongName": "관양동"
-  },
-  "131145": {
-    "address": "경기 안양시 만안구 안양로 384번길 50",
-    "dongCode": "4117110100",
-    "sidoName": "경기도",
-    "gugunName": "안양시 만안구",
-    "dongName": "안양동"
-  },
-  "131161": {
-    "address": "경기 광명시 시청로 20",
-    "dongCode": "4121010200",
-    "sidoName": "경기도",
-    "gugunName": "광명시",
-    "dongName": "철산동"
-  },
-  "131163": {
-    "address": "경기 광명시 소하일로 7",
-    "dongCode": "4121010400",
-    "sidoName": "경기도",
-    "gugunName": "광명시",
-    "dongName": "소하동"
-  },
-  "131191": {
-    "address": "경기 안산시 단원구 화랑로 387",
-    "dongCode": "4127310100",
-    "sidoName": "경기도",
-    "gugunName": "안산시 단원구",
-    "dongName": "고잔동"
-  },
-  "131192": {
-    "address": "경기 안산시 단원구 산단로 112 근로복지관",
-    "dongCode": "4127310500",
-    "sidoName": "경기도",
-    "gugunName": "안산시 단원구",
-    "dongName": "원시동"
-  },
-  "131194": {
-    "address": "경기도 안산시 단원구 부부로6길 17",
-    "dongCode": "4127310800",
-    "sidoName": "경기도",
-    "gugunName": "안산시 단원구",
-    "dongName": "원곡동"
-  },
-  "131195": {
-    "address": "경기 안산시 상록구 성호로 326",
-    "dongCode": "4127110700",
-    "sidoName": "경기도",
-    "gugunName": "안산시 상록구",
-    "dongName": "부곡동"
-  },
-  "131196": {
-    "address": "경기 안산시 단원구 대부중앙로 97-9",
-    "dongCode": "4127311100",
-    "sidoName": "경기도",
-    "gugunName": "안산시 단원구",
-    "dongName": "대부북동"
-  },
-  "131197": {
-    "address": "경기 안산시 단원구 안산천남로 119",
-    "dongCode": "4127310100",
-    "sidoName": "경기도",
-    "gugunName": "안산시 단원구",
-    "dongName": "고잔동"
-  },
-  "131201": {
-    "address": "경기 과천시 코오롱로 53",
-    "dongCode": "4129010900",
-    "sidoName": "경기도",
-    "gugunName": "과천시",
-    "dongName": "별양동"
-  },
-  "131202": {
-    "address": "경기 과천시 상하벌로 17",
-    "dongCode": "4129010500",
-    "sidoName": "경기도",
-    "gugunName": "과천시",
-    "dongName": "과천동"
-  },
-  "131211": {
-    "address": "경기 구리시 아차산로 439",
-    "dongCode": "4131010400",
-    "sidoName": "경기도",
-    "gugunName": "구리시",
-    "dongName": "교문동"
-  },
-  "131212": {
-    "address": "경기 구리시 동구릉로 217-14",
-    "dongCode": "4131010300",
-    "sidoName": "경기도",
-    "gugunName": "구리시",
-    "dongName": "인창동"
-  },
-  "131222": {
-    "address": "경기도 의왕시 덕영대로 166",
-    "dongCode": "4143010300",
-    "sidoName": "경기도",
-    "gugunName": "의왕시",
-    "dongName": "삼동"
-  },
-  "131223": {
-    "address": "경기 의왕시 시청로 11",
-    "dongCode": "4143010100",
-    "sidoName": "경기도",
-    "gugunName": "의왕시",
-    "dongName": "고천동"
-  },
-  "131231": {
-    "address": "경기 시흥시 정왕대로 233번길 19",
-    "dongCode": "4139013200",
-    "sidoName": "경기도",
-    "gugunName": "시흥시",
-    "dongName": "정왕동"
-  },
-  "131232": {
-    "address": "경기 시흥시 공단1대로 204",
-    "dongCode": "4139013200",
-    "sidoName": "경기도",
-    "gugunName": "시흥시",
-    "dongName": "정왕동"
-  },
-  "131233": {
-    "address": "경기 시흥시 복지로 37",
-    "dongCode": "4139010100",
-    "sidoName": "경기도",
-    "gugunName": "시흥시",
-    "dongName": "대야동"
-  },
-  "131241": {
-    "address": "경기 남양주시 경춘로 1037",
-    "dongCode": "4136010300",
-    "sidoName": "경기도",
-    "gugunName": "남양주시",
-    "dongName": "금곡동"
-  },
-  "131242": {
-    "address": "경기 남양주시 오남읍 진건오남로 806-34",
-    "dongCode": "4136026221",
-    "sidoName": "경기도",
-    "gugunName": "남양주시",
-    "dongName": "오남읍 양지리"
-  },
-  "131341": {
-    "address": "경기 평택시 중앙로 275",
-    "dongCode": "4122011800",
-    "sidoName": "경기도",
-    "gugunName": "평택시",
-    "dongName": "비전동"
-  },
-  "131342": {
-    "address": "경기 평택시 안중읍 안현로 400",
-    "dongCode": "4122025321",
-    "sidoName": "경기도",
-    "gugunName": "평택시",
-    "dongName": "안중읍 안중리"
-  },
-  "131343": {
-    "address": "경기 평택시 포승읍 평택항로184번길 38",
-    "dongCode": "4122025624",
-    "sidoName": "경기도",
-    "gugunName": "평택시",
-    "dongName": "포승읍 만호리"
-  },
-  "131371": {
-    "address": "경기 파주시 후곡로 13",
-    "dongCode": "4148010100",
-    "sidoName": "경기도",
-    "gugunName": "파주시",
-    "dongName": "금촌동"
-  },
-  "131372": {
-    "address": "경기 파주시 와석순환로 470",
-    "dongCode": "4148012200",
-    "sidoName": "경기도",
-    "gugunName": "파주시",
-    "dongName": "와동동"
-  },
-  "131373": {
-    "address": "경기 파주시 군내면 통일촌길",
-    "dongCode": "4148038000",
-    "sidoName": "경기도",
-    "gugunName": "파주시",
-    "dongName": "군내면"
-  },
-  "131381": {
-    "address": "경기 고양시 덕양구 화신로 148 행신배수지",
-    "dongCode": "4128112800",
-    "sidoName": "경기도",
-    "gugunName": "고양시 덕양구",
-    "dongName": "행신동"
-  },
-  "131382": {
-    "address": "경기 고양시 일산동구 위시티로 151",
-    "dongCode": "4128510100",
-    "sidoName": "경기도",
-    "gugunName": "고양시 일산동구",
-    "dongName": "식사동"
-  },
-  "131383": {
-    "address": "경기 고양시 일산동구 장항2동 888",
-    "dongCode": "4128510400",
-    "sidoName": "경기도",
-    "gugunName": "고양시 일산동구",
-    "dongName": "장항동"
-  },
-  "131384": {
-    "address": "경기 고양시 덕양구 신원2로 24",
-    "dongCode": "4128110300",
-    "sidoName": "경기도",
-    "gugunName": "고양시 덕양구",
-    "dongName": "신원동"
-  },
-  "131392": {
-    "address": "경기 광주시 중앙로 128",
-    "dongCode": "4161010100",
-    "sidoName": "경기도",
-    "gugunName": "광주시",
-    "dongName": "경안동"
-  },
-  "131411": {
-    "address": "경기 용인시 처인구 금령로 50",
-    "dongCode": "4146110100",
-    "sidoName": "경기도",
-    "gugunName": "용인시 처인구",
-    "dongName": "김량장동"
-  },
-  "131412": {
-    "address": "경기 용인시 수지구 수지로 342번길3",
-    "dongCode": "4146510100",
-    "sidoName": "경기도",
-    "gugunName": "용인시 수지구",
-    "dongName": "풍덕천동"
-  },
-  "131413": {
-    "address": "경기 용인시 기흥구 관곡로 95",
-    "dongCode": "4146310200",
-    "sidoName": "경기도",
-    "gugunName": "용인시 기흥구",
-    "dongName": "구갈동"
-  },
-  "131414": {
-    "address": "경기 용인시 기흥구 구갈동 505-3",
-    "dongCode": "4146310200",
-    "sidoName": "경기도",
-    "gugunName": "용인시 기흥구",
-    "dongName": "구갈동"
-  },
-  "131441": {
-    "address": "경기 이천시 설성면 신필리",
-    "dongCode": "4150037025",
-    "sidoName": "경기도",
-    "gugunName": "이천시",
-    "dongName": "설성면 신필리"
-  },
-  "131442": {
-    "address": "경기 이천시 영창로 163번길 28",
-    "dongCode": "4150010100",
-    "sidoName": "경기도",
-    "gugunName": "이천시",
-    "dongName": "창전동"
-  },
-  "131451": {
-    "address": "경기 포천시 관인면",
-    "dongCode": "4165040000",
-    "sidoName": "경기도",
-    "gugunName": "포천시",
-    "dongName": "관인면"
-  },
-  "131453": {
-    "address": "경기 포천시 삼육사로 2186번길 11-15",
-    "dongCode": "4165010400",
-    "sidoName": "경기도",
-    "gugunName": "포천시",
-    "dongName": "선단동"
-  },
-  "131471": {
-    "address": "경기 김포시 돌문로 51",
-    "dongCode": "4157010600",
-    "sidoName": "경기도",
-    "gugunName": "김포시",
-    "dongName": "사우동"
-  },
-  "131472": {
-    "address": "경기 김포시 고촌읍 신곡로 152",
-    "dongCode": "4157025322",
-    "sidoName": "경기도",
-    "gugunName": "김포시",
-    "dongName": "고촌읍 풍곡리"
-  },
-  "131473": {
-    "address": "경기도 김포시 월곶면 군하로 263",
-    "dongCode": "4157035021",
-    "sidoName": "경기도",
-    "gugunName": "김포시",
-    "dongName": "월곶면 군하리"
-  },
-  "131501": {
-    "address": "경기 군포시 산본로197번길 36",
-    "dongCode": "4141010100",
-    "sidoName": "경기도",
-    "gugunName": "군포시",
-    "dongName": "당동"
-  },
-  "131502": {
-    "address": "경기 군포시 청백리길 6",
-    "dongCode": "4141010500",
-    "sidoName": "경기도",
-    "gugunName": "군포시",
-    "dongName": "금정동"
-  },
-  "131531": {
-    "address": "경기 오산시 경기동로 51",
-    "dongCode": "4137010100",
-    "sidoName": "경기도",
-    "gugunName": "오산시",
-    "dongName": "오산동"
-  },
-  "131541": {
-    "address": "경기 하남시 대청로 10",
-    "dongCode": "4145010600",
-    "sidoName": "경기도",
-    "gugunName": "하남시",
-    "dongName": "신장동"
-  },
-  "131551": {
-    "address": "경기 화성시 남양읍 남양성지로 192-5",
-    "dongCode": "4159026221",
-    "sidoName": "경기도",
-    "gugunName": "화성시",
-    "dongName": "남양읍 남양리"
-  },
-  "131552": {
-    "address": "경기 화성시 향남읍 발안로 89",
-    "dongCode": "4159025939",
-    "sidoName": "경기도",
-    "gugunName": "화성시",
-    "dongName": "향남읍 행정리"
-  },
-  "131553": {
-    "address": "경기 화성시 동탄반석로 87",
-    "dongCode": "4159012700",
-    "sidoName": "경기도",
-    "gugunName": "화성시",
-    "dongName": "반송동"
-  },
-  "131561": {
-    "address": "경기 양주시 백석읍 꿈나무로 199",
-    "dongCode": "4163025022",
-    "sidoName": "경기도",
-    "gugunName": "양주시",
-    "dongName": "백석읍 오산리"
-  },
-  "131571": {
-    "address": "경기 동두천시 싸리말로 28",
-    "dongCode": "4125010600",
-    "sidoName": "경기도",
-    "gugunName": "동두천시",
-    "dongName": "보산동"
-  },
-  "131581": {
-    "address": "경기 안성시 시청길 25",
-    "dongCode": "4155010100",
-    "sidoName": "경기도",
-    "gugunName": "안성시",
-    "dongName": "봉산동"
-  },
-  "131591": {
-    "address": "경기 여주시 여흥로11번길 26",
-    "dongCode": "4167010700",
-    "sidoName": "경기도",
-    "gugunName": "여주시",
-    "dongName": "하동"
-  },
-  "131601": {
-    "address": "경기 연천군 연천읍 차현로 58",
-    "dongCode": "4180025021",
-    "sidoName": "경기도",
-    "gugunName": "연천군",
-    "dongName": "연천읍 차탄리"
-  },
-  "131611": {
-    "address": "경기도 가평군 가평읍 석봉로 181",
-    "dongCode": "4182025021",
-    "sidoName": "경기도",
-    "gugunName": "가평군",
-    "dongName": "가평읍 읍내리"
-  },
-  "131621": {
-    "address": "경기 양평군 용문면 용문로 395",
-    "dongCode": "4183040024",
-    "sidoName": "경기도",
-    "gugunName": "양평군",
-    "dongName": "용문면 다문리"
-  },
-  "132113": {
-    "address": "강원 춘천시 외솔길 17(석사동 322-1)",
-    "dongCode": "4211012400",
-    "sidoName": "강원도",
-    "gugunName": "춘천시",
-    "dongName": "석사동"
-  },
-  "221112": {
-    "address": "부산 중구 광복로 55번길 10",
-    "dongCode": "2611012700",
-    "sidoName": "부산광역시",
-    "gugunName": "중구",
-    "dongName": "신창동1가"
-  },
-  "221131": {
-    "address": "부산 동구 중앙대로349번길 14",
-    "dongCode": "2617010200",
-    "sidoName": "부산광역시",
-    "gugunName": "동구",
-    "dongName": "수정동"
-  },
-  "221141": {
-    "address": "부산 영도구 전망로 24",
-    "dongCode": "2620012100",
-    "sidoName": "부산광역시",
-    "gugunName": "영도구",
-    "dongName": "동삼동"
-  },
-  "221152": {
-    "address": "부산광역시 부산진구 전포대로209번길 26",
-    "dongCode": "2623010200",
-    "sidoName": "부산광역시",
-    "gugunName": "부산진구",
-    "dongName": "전포동"
-  },
-  "221162": {
-    "address": "부산 동래구 중앙대로1335번길 38",
-    "dongCode": "2626010800",
-    "sidoName": "부산광역시",
-    "gugunName": "동래구",
-    "dongName": "온천동"
-  },
-  "221163": {
-    "address": "부산 동래구 명장로 32",
-    "dongCode": "2626010100",
-    "sidoName": "부산광역시",
-    "gugunName": "동래구",
-    "dongName": "명장동"
-  },
-  "221172": {
-    "address": "부산 남구 수영로 196번길 80",
-    "dongCode": "2629010600",
-    "sidoName": "부산광역시",
-    "gugunName": "남구",
-    "dongName": "대연동"
-  },
-  "221181": {
-    "address": "부산 사상구 대동로 205",
-    "dongCode": "2653010700",
-    "sidoName": "부산광역시",
-    "gugunName": "사상구",
-    "dongName": "학장동"
-  },
-  "221182": {
-    "address": "부산 북구 덕천2길 10",
-    "dongCode": "2632010500",
-    "sidoName": "부산광역시",
-    "gugunName": "북구",
-    "dongName": "구포동"
-  },
-  "221191": {
-    "address": "부산 금정구 청룡로 25",
-    "dongCode": "2641010300",
-    "sidoName": "부산광역시",
-    "gugunName": "금정구",
-    "dongName": "청룡동"
-  },
-  "221192": {
-    "address": "부산 해운대구 양운로 91",
-    "dongCode": "2635010700",
-    "sidoName": "부산광역시",
-    "gugunName": "해운대구",
-    "dongName": "좌동"
-  },
-  "221202": {
-    "address": "부산 사하구 장림로 161번길 2",
-    "dongCode": "2638010500",
-    "sidoName": "부산광역시",
-    "gugunName": "사하구",
-    "dongName": "장림동"
-  },
-  "221221": {
-    "address": "부산 연제구 중앙대로 1001",
-    "dongCode": "2647010200",
-    "sidoName": "부산광역시",
-    "gugunName": "연제구",
-    "dongName": "연산동"
-  },
-  "221231": {
-    "address": "부산 기장군 기장읍 읍내로 69",
-    "dongCode": "2671025021",
-    "sidoName": "부산광역시",
-    "gugunName": "기장군",
-    "dongName": "기장읍 동부리"
-  },
-  "221233": {
-    "address": "부산 기장군 정관읍 용수로 4",
-    "dongCode": "2671025628",
-    "sidoName": "부산광역시",
-    "gugunName": "기장군",
-    "dongName": "정관읍 용수리"
-  },
-  "221241": {
-    "address": "부산 동구 구청로 1",
-    "dongCode": "2617010200",
-    "sidoName": "부산광역시",
-    "gugunName": "동구",
-    "dongName": "수정동"
-  },
-  "221251": {
-    "address": "부산 금정구 부곡로156번길 7",
-    "dongCode": "2641010900",
-    "sidoName": "부산광역시",
-    "gugunName": "금정구",
-    "dongName": "부곡동"
-  },
-  "221271": {
-    "address": "부산 수영구 광안로21번가길 57",
-    "dongCode": "2650010400",
-    "sidoName": "부산광역시",
-    "gugunName": "수영구",
-    "dongName": "광안동"
-  },
-  "221281": {
-    "address": "부산 서구 대신로 150",
-    "dongCode": "2614010600",
-    "sidoName": "부산광역시",
-    "gugunName": "서구",
-    "dongName": "서대신동3가"
-  },
-  "238112": {
-    "address": "경상남도 창원시 마산회원구 봉양로 148",
-    "dongCode": "4812710300",
-    "sidoName": "경상남도",
-    "gugunName": "창원시 마산회원구",
-    "dongName": "봉암동"
-  },
-  "238120": {
-    "address": "울산 동구 대송5길 10",
-    "dongCode": "3117010200",
-    "sidoName": "울산광역시",
-    "gugunName": "동구",
-    "dongName": "화정동"
-  },
-  "238121": {
-    "address": "울산 중구 새즈믄해거리 28",
-    "dongCode": "3111010600",
-    "sidoName": "울산광역시",
-    "gugunName": "중구",
-    "dongName": "성남동"
-  },
-  "238122": {
-    "address": "울산 남구 처용로 260-37",
-    "dongCode": "3114011100",
-    "sidoName": "울산광역시",
-    "gugunName": "남구",
-    "dongName": "부곡동"
-  },
-  "238123": {
-    "address": "울산 남구 부두로 9",
-    "dongCode": "3114011900",
-    "sidoName": "울산광역시",
-    "gugunName": "남구",
-    "dongName": "매암동"
-  },
-  "238124": {
-    "address": "울산 남구 대암로 90번길 27",
-    "dongCode": "3114010800",
-    "sidoName": "울산광역시",
-    "gugunName": "남구",
-    "dongName": "야음동"
-  },
-  "238125": {
-    "address": "울산 남구 삼산중로 131번길 36",
-    "dongCode": "3114010600",
-    "sidoName": "울산광역시",
-    "gugunName": "남구",
-    "dongName": "삼산동"
-  },
-  "238126": {
-    "address": "울산 남구 신정2동(문수로)",
-    "dongCode": "3114010400",
-    "sidoName": "울산광역시",
-    "gugunName": "남구",
-    "dongName": "신정동"
-  },
-  "238127": {
-    "address": "울산 남구 봉월로 20번길 9",
-    "dongCode": "3114010400",
-    "sidoName": "울산광역시",
-    "gugunName": "남구",
-    "dongName": "신정동"
-  },
-  "238128": {
-    "address": "울산광역시 울주군 온산읍 덕신로 229",
-    "dongCode": "3171025032",
-    "sidoName": "울산광역시",
-    "gugunName": "울주군",
-    "dongName": "온산읍 덕신리"
-  },
-  "238129": {
-    "address": "울산 남구 대학로 147번길 38",
-    "dongCode": "3114010100",
-    "sidoName": "울산광역시",
-    "gugunName": "남구",
-    "dongName": "무거동"
-  },
-  "238130": {
-    "address": "울산 북구 염포로 290",
-    "dongCode": "3120012300",
-    "sidoName": "울산광역시",
-    "gugunName": "북구",
-    "dongName": "효문동"
-  },
-  "238131": {
-    "address": "경상남도 진주시 북장대로64번길 14",
-    "dongCode": "4817011300",
-    "sidoName": "경상남도",
-    "gugunName": "진주시",
-    "dongName": "봉곡동"
-  },
-  "238132": {
-    "address": "경남 진주시 진주대로 1052",
-    "dongCode": "4817010900",
-    "sidoName": "경상남도",
-    "gugunName": "진주시",
-    "dongName": "대안동"
-  },
-  "238133": {
-    "address": "경남 진주시 동진로 279",
-    "dongCode": "4817011900",
-    "sidoName": "경상남도",
-    "gugunName": "진주시",
-    "dongName": "상대동"
-  },
-  "238141": {
-    "address": "경상남도 창원시 의창구 우곡로101번길 28",
-    "dongCode": "4812112400",
-    "sidoName": "경상남도",
-    "gugunName": "창원시 의창구",
-    "dongName": "명서동"
-  },
-  "238142": {
-    "address": "경남 창원시 성산구 공단로 303",
-    "dongCode": "4812312900",
-    "sidoName": "경상남도",
-    "gugunName": "창원시 성산구",
-    "dongName": "웅남동"
-  },
-  "238143": {
-    "address": "경남 창원시 성산구 외리로14번길 18",
-    "dongCode": "4812312800",
-    "sidoName": "경상남도",
-    "gugunName": "창원시 성산구",
-    "dongName": "성주동"
-  },
-  "238146": {
-    "address": "경남 창원시 성산구 창이대로 706번길 16-23",
-    "dongCode": "4812313000",
-    "sidoName": "경상남도",
-    "gugunName": "창원시 성산구",
-    "dongName": "사파동"
-  },
-  "238151": {
-    "address": "경남 창원시 진해구 경화로16번길 31",
-    "dongCode": "4812913900",
-    "sidoName": "경상남도",
-    "gugunName": "창원시 진해구",
-    "dongName": "경화동"
-  },
-  "238161": {
-    "address": "경남 하동군 하동읍 군청로 23",
-    "dongCode": "4885025021",
-    "sidoName": "경상남도",
-    "gugunName": "하동군",
-    "dongName": "하동읍 읍내리"
-  },
-  "238181": {
-    "address": "경남 김해시 호계로 517번길 8",
-    "dongCode": "4825010100",
-    "sidoName": "경상남도",
-    "gugunName": "김해시",
-    "dongName": "동상동"
-  },
-  "238182": {
-    "address": "경남 김해시 활천로 303",
-    "dongCode": "4825011900",
-    "sidoName": "경상남도",
-    "gugunName": "김해시",
-    "dongName": "삼방동"
-  },
-  "238191": {
-    "address": "경남 거제시 남부면 저구리",
-    "dongCode": "4831033022",
-    "sidoName": "경상남도",
-    "gugunName": "거제시",
-    "dongName": "남부면 저구리"
-  },
-  "238201": {
-    "address": "경남 거제시 아주동 산164-1",
-    "dongCode": "4831010500",
-    "sidoName": "경상남도",
-    "gugunName": "거제시",
-    "dongName": "아주동"
-  },
-  "238211": {
-    "address": "경남 사천시 사천읍 읍내로 52",
-    "dongCode": "4824025023",
-    "sidoName": "경상남도",
-    "gugunName": "사천시",
-    "dongName": "사천읍 평화리"
-  },
-  "238361": {
-    "address": "경상남도 양산시 북안남5길 21",
-    "dongCode": "4833010400",
-    "sidoName": "경상남도",
-    "gugunName": "양산시",
-    "dongName": "북부동"
-  },
-  "238362": {
-    "address": "경상남도 양산시 삼호9길 11",
-    "dongCode": "4833011400",
-    "sidoName": "경상남도",
-    "gugunName": "양산시",
-    "dongName": "삼호동"
-  },
-  "238371": {
-    "address": "울산 울주군 온산읍 산암로 94",
-    "dongCode": "3171025028",
-    "sidoName": "울산광역시",
-    "gugunName": "울주군",
-    "dongName": "온산읍 대정리"
-  },
-  "238373": {
-    "address": "울산 울주군 청량면 신덕하3길 5",
-    "dongCode": "3171026223",
-    "sidoName": "울산광역시",
-    "gugunName": "울주군",
-    "dongName": "청량읍 상남리"
-  },
-  "238374": {
-    "address": "울산광역시 북구 호수중앙로 14",
-    "dongCode": "3120010100",
-    "sidoName": "울산광역시",
-    "gugunName": "북구",
-    "dongName": "창평동"
-  },
-  "238375": {
-    "address": "울산광역시 울주군 삼남읍 서향교1길 67-12",
-    "dongCode": "3171026521",
-    "sidoName": "울산광역시",
-    "gugunName": "울주군",
-    "dongName": "삼남읍 교동리"
-  },
-  "238376": {
-    "address": "울산 중구 종가로 560",
-    "dongCode": "3111011700",
-    "sidoName": "울산광역시",
-    "gugunName": "중구",
-    "dongName": "약사동"
-  },
-  "238481": {
-    "address": "경상남도 거창군 남상면 인평길 36",
-    "dongCode": "4888037021",
-    "sidoName": "경상남도",
-    "gugunName": "거창군",
-    "dongName": "남상면 무촌리"
-  },
-  "324115": {
-    "address": "광주 동구 서남로 1",
-    "dongCode": "2911011800",
-    "sidoName": "광주광역시",
-    "gugunName": "동구",
-    "dongName": "서석동"
-  },
-  "324121": {
-    "address": "광주 서구 상무대로 1165 (광주시립미술관 상록전시관 단독건물)",
-    "dongCode": "2914010600",
-    "sidoName": "광주광역시",
-    "gugunName": "서구",
-    "dongName": "농성동"
-  },
-  "324123": {
-    "address": "광주 서구 상무자유로 170",
-    "dongCode": "2914012000",
-    "sidoName": "광주광역시",
-    "gugunName": "서구",
-    "dongName": "치평동"
-  },
-  "324133": {
-    "address": "광주 북구 군왕로 141번길 6 (두암보건지소)",
-    "dongCode": "2917011400",
-    "sidoName": "광주광역시",
-    "gugunName": "북구",
-    "dongName": "두암동"
-  },
-  "324134": {
-    "address": "광주 북구 북문대로 79",
-    "dongCode": "2917010900",
-    "sidoName": "광주광역시",
-    "gugunName": "북구",
-    "dongName": "운암동"
-  },
-  "324135": {
-    "address": "광주 북구 첨단과기로 333 (광주테크노파크 벤처지원센터 옥상)",
-    "dongCode": "2917014000",
-    "sidoName": "광주광역시",
-    "gugunName": "북구",
-    "dongName": "대촌동"
-  },
-  "324141": {
-    "address": "광주 광산구 광산로 70",
-    "dongCode": "2920010100",
-    "sidoName": "광주광역시",
-    "gugunName": "광산구",
-    "dongName": "송정동"
-  },
-  "324142": {
-    "address": "광주 광산구 하남산단 6번로 107",
-    "dongCode": "2920020200",
-    "sidoName": "광주광역시",
-    "gugunName": "광산구",
-    "dongName": "오선동"
-  },
-  "324155": {
-    "address": "광주 남구 회서로 21번가길 13",
-    "dongCode": "2915510600",
-    "sidoName": "광주광역시",
-    "gugunName": "남구",
-    "dongName": "주월동"
-  },
-  "335115": {
-    "address": "전주시 완산구 태평3길 43-17",
-    "dongCode": "4511111900",
-    "sidoName": "전라북도",
-    "gugunName": "전주시 완산구",
-    "dongName": "태평동"
-  },
-  "336111": {
-    "address": "전남 목포시 동부로 31번길 20(용당1동 주민센터 옥상)",
-    "dongCode": "4611010100",
-    "sidoName": "전라남도",
-    "gugunName": "목포시",
-    "dongName": "용당동"
-  },
-  "336112": {
-    "address": "전남 목포시 삼향천로 28(옥암동)",
-    "dongCode": "4611016400",
-    "sidoName": "전라남도",
-    "gugunName": "목포시",
-    "dongName": "옥암동"
-  },
-  "336121": {
-    "address": "전라남도 여수시 서교1길 28-1",
-    "dongCode": "4613011300",
-    "sidoName": "전라남도",
-    "gugunName": "여수시",
-    "dongName": "서교동"
-  },
-  "336125": {
-    "address": "전남 여수시 여문1로 71(문수동)",
-    "dongCode": "4613012000",
-    "sidoName": "전라남도",
-    "gugunName": "여수시",
-    "dongName": "문수동"
-  },
-  "336127": {
-    "address": "전남 여수시 무선로 190(선원동)",
-    "dongCode": "4613013500",
-    "sidoName": "전라남도",
-    "gugunName": "여수시",
-    "dongName": "선원동"
-  },
-  "336128": {
-    "address": "전남 여수시 덕충안길 95",
-    "dongCode": "4613012600",
-    "sidoName": "전라남도",
-    "gugunName": "여수시",
-    "dongName": "덕충동"
-  },
-  "336131": {
-    "address": "전남 순천시 장명로 30(장천동)",
-    "dongCode": "4615011900",
-    "sidoName": "전라남도",
-    "gugunName": "순천시",
-    "dongName": "장천동"
-  },
-  "336132": {
-    "address": "전남 순천시 연향번영길 54(연향동)",
-    "dongCode": "4615011400",
-    "sidoName": "전라남도",
-    "gugunName": "순천시",
-    "dongName": "연향동"
-  },
-  "336133": {
-    "address": "전남 순천시 순천만길 513-25(대대동)",
-    "dongCode": "4615013100",
-    "sidoName": "전라남도",
-    "gugunName": "순천시",
-    "dongName": "대대동"
-  },
-  "336134": {
-    "address": "전남 순천시 해룡면 호두리 276-9",
-    "dongCode": "4615031000",
-    "sidoName": "전라남도",
-    "gugunName": "순천시",
-    "dongName": "해룡면"
-  },
-  "336352": {
-    "address": "전남 광양시 중마중앙로 109",
-    "dongCode": "4623010600",
-    "sidoName": "전라남도",
-    "gugunName": "광양시",
-    "dongName": "중동"
-  },
-  "336353": {
-    "address": "전남 광양시 태인길 376(태인동)",
-    "dongCode": "4623010900",
-    "sidoName": "전라남도",
-    "gugunName": "광양시",
-    "dongName": "태인동"
-  },
-  "336354": {
-    "address": "전남 광양시 진상면 신시길 227(섬거리)",
-    "dongCode": "4623034022",
-    "sidoName": "전라남도",
-    "gugunName": "광양시",
-    "dongName": "진상면 섬거리"
-  },
-  "336355": {
-    "address": "전남 광양시 광양읍 인덕로 1100(칠성리)",
-    "dongCode": "4623025023",
-    "sidoName": "전라남도",
-    "gugunName": "광양시",
-    "dongName": "광양읍 칠성리"
-  },
-  "336441": {
-    "address": "전라남도 영암군 삼호읍 대불주거9로 27",
-    "dongCode": "4683025326",
-    "sidoName": "전라남도",
-    "gugunName": "영암군",
-    "dongName": "삼호읍 용앙리"
-  },
-  "336451": {
-    "address": "전남 화순군 북면 송단리",
-    "dongCode": "4679039527",
-    "sidoName": "전라남도",
-    "gugunName": "화순군",
-    "dongName": "백아면 송단리"
-  },
-  "339111": {
-    "address": "제주 제주시 이도2동 1176-1(제주시청)",
-    "dongCode": "5011010400",
-    "sidoName": "제주특별자치도",
-    "gugunName": "제주시",
-    "dongName": "이도이동"
-  },
-  "339112": {
-    "address": "제주 제주시 연동 322-1 번지 제주특별자치도청 제2청사",
-    "dongCode": "5011013700",
-    "sidoName": "제주특별자치도",
-    "gugunName": "제주시",
-    "dongName": "연동"
-  },
-  "339121": {
-    "address": "제주 서귀포시 동홍동 453-1(서귀포소방서)",
-    "dongCode": "5013010500",
-    "sidoName": "제주특별자치도",
-    "gugunName": "서귀포시",
-    "dongName": "동홍동"
-  },
-  "339122": {
-    "address": "제주 서귀포시 성산읍 일주동로 4120번길 7",
-    "dongCode": "5013025922",
-    "sidoName": "제주특별자치도",
-    "gugunName": "서귀포시",
-    "dongName": "성산읍 오조리"
-  },
-  "339312": {
-    "address": "제주 제주시 한경면 고산리",
-    "dongCode": "5011031023",
-    "sidoName": "제주특별자치도",
-    "gugunName": "제주시",
-    "dongName": "한경면 고산리"
-  },
-  "422114": {
-    "address": "대구 중구 수창동 73 (수창초등학교)(달성로 22길 30)",
-    "dongCode": "2711013000",
-    "sidoName": "대구광역시",
-    "gugunName": "중구",
-    "dongName": "수창동"
-  },
-  "422115": {
-    "address": "대구 수성구 지산동 761-11(한국환경공단) (무학로 209)",
-    "dongCode": "2726011200",
-    "sidoName": "대구광역시",
-    "gugunName": "수성구",
-    "dongName": "지산동"
-  },
-  "422121": {
-    "address": "대구 동구 서호동 25-1(안심로49길 70)",
-    "dongCode": "2714011500",
-    "sidoName": "대구광역시",
-    "gugunName": "동구",
-    "dongName": "서호동"
-  },
-  "422132": {
-    "address": "대구 서구 이현동 48-60 (중리초등학교)(국채보상로 135)",
-    "dongCode": "2717010600",
-    "sidoName": "대구광역시",
-    "gugunName": "서구",
-    "dongName": "이현동"
-  },
-  "422133": {
-    "address": "대구 서구 평리3동",
-    "dongCode": "2717010300",
-    "sidoName": "대구광역시",
-    "gugunName": "서구",
-    "dongName": "평리동"
-  },
-  "422141": {
-    "address": "대구 남구 성당로30길55 성명초등학교별관3층옥상",
-    "dongCode": "2720010300",
-    "sidoName": "대구광역시",
-    "gugunName": "남구",
-    "dongName": "대명동"
-  },
-  "422153": {
-    "address": "대구 북구 노원동 3가 262번지(삼영초등학교)(3공단로 14길 31)",
-    "dongCode": "2723010900",
-    "sidoName": "대구광역시",
-    "gugunName": "북구",
-    "dongName": "노원동3가"
-  },
-  "422154": {
-    "address": "대구 동구 신암동 72-1 (신암5동사무소)(아양로 37길 92)",
-    "dongCode": "2714010100",
-    "sidoName": "대구광역시",
-    "gugunName": "동구",
-    "dongName": "신암동"
-  },
-  "422161": {
-    "address": "대구 수성구 만촌2동 934 (동원초등학교)(국채보상로 1000)",
-    "dongCode": "2726010200",
-    "sidoName": "대구광역시",
-    "gugunName": "수성구",
-    "dongName": "만촌동"
-  },
-  "422171": {
-    "address": "대구 달서구 성서공단로 11길 32 대구기계부품연구원 1동 옥상",
-    "dongCode": "2729010500",
-    "sidoName": "대구광역시",
-    "gugunName": "달서구",
-    "dongName": "호림동"
-  },
-  "422201": {
-    "address": "대구광역시 달성군 유가읍 테크노북로6길 20",
-    "dongCode": "2771025924",
-    "sidoName": "대구광역시",
-    "gugunName": "달성군",
-    "dongName": "유가읍 봉리"
-  },
-  "422202": {
-    "address": "대구 달서구 이곡동",
-    "dongCode": "2729010800",
-    "sidoName": "대구광역시",
-    "gugunName": "달서구",
-    "dongName": "이곡동"
-  },
-  "437113": {
-    "address": "경북 포항시 북구 삼흥로 98 북구보건소",
-    "dongCode": "4711312100",
-    "sidoName": "경상북도",
-    "gugunName": "포항시 북구",
-    "dongName": "장성동"
-  },
-  "437114": {
-    "address": "경북 포항시 남구 대도동 111-6(상대동평생학습관)",
-    "dongCode": "4711110200",
-    "sidoName": "경상북도",
-    "gugunName": "포항시 남구",
-    "dongName": "대도동"
-  },
-  "437115": {
-    "address": "경북 포항시 남구 대송면 장동홍계길19 (대송면사무소 내)",
-    "dongCode": "4711131026",
-    "sidoName": "경상북도",
-    "gugunName": "포항시 남구",
-    "dongName": "대송면 송동리"
-  },
-  "437131": {
-    "address": "경상북도 김천시 평화순환길 291",
-    "dongCode": "4715010500",
-    "sidoName": "경상북도",
-    "gugunName": "김천시",
-    "dongName": "평화동"
-  },
-  "437141": {
-    "address": "경북 안동시 퇴계로 115 (명륜동)",
-    "dongCode": "4717010400",
-    "sidoName": "경상북도",
-    "gugunName": "안동시",
-    "dongName": "명륜동"
-  },
-  "437151": {
-    "address": "경북 구미시 공단동 256-18 (근로자종합복지회)",
-    "dongCode": "4719011300",
-    "sidoName": "경상북도",
-    "gugunName": "구미시",
-    "dongName": "공단동"
-  },
-  "437152": {
-    "address": "경북 구미시 원평동 56-4(구미중앙로 24)",
-    "dongCode": "4719010100",
-    "sidoName": "경상북도",
-    "gugunName": "구미시",
-    "dongName": "원평동"
-  },
-  "437153": {
-    "address": "경북 구미시 형곡동 142(구미시립도서관)",
-    "dongCode": "4719010900",
-    "sidoName": "경상북도",
-    "gugunName": "구미시",
-    "dongName": "형곡동"
-  },
-  "437154": {
-    "address": "경상북도 구미시 산동읍 첨단기업1로 17",
-    "dongCode": "4719025626",
-    "sidoName": "경상북도",
-    "gugunName": "구미시",
-    "dongName": "산동읍 봉산리"
-  },
-  "437161": {
-    "address": "경북 영주시 가흥로 263",
-    "dongCode": "4721010500",
-    "sidoName": "경상북도",
-    "gugunName": "영주시",
-    "dongName": "가흥동"
-  },
-  "437171": {
-    "address": "경북 경산시 중방동 708-5 남매로 158",
-    "dongCode": "4729011700",
-    "sidoName": "경상북도",
-    "gugunName": "경산시",
-    "dongName": "중방동"
-  },
-  "437371": {
-    "address": "경북 영덕군 지품면 신안리",
-    "dongCode": "4777034052",
-    "sidoName": "경상북도",
-    "gugunName": "영덕군",
-    "dongName": "지품면 신안리"
-  },
-  "437401": {
-    "address": "경북 영천시 화북면",
-    "dongCode": "4723034000",
-    "sidoName": "경상북도",
-    "gugunName": "영천시",
-    "dongName": "화북면"
-  },
-  "437411": {
-    "address": "경상북도 의성군 안계면 위양2길 9-26",
-    "dongCode": "4773043032",
-    "sidoName": "경상북도",
-    "gugunName": "의성군",
-    "dongName": "안계면 위양리"
-  },
-  "437541": {
-    "address": "경북 울릉군 서면 태하리",
-    "dongCode": "4794031026",
-    "sidoName": "경상북도",
-    "gugunName": "울릉군",
-    "dongName": "서면 태하리"
-  },
-  "525111": {
-    "address": "대전 대덕구 대전로 1331번길 75(태아산업(주))",
-    "dongCode": "3023010300",
-    "sidoName": "대전광역시",
-    "gugunName": "대덕구",
-    "dongName": "읍내동"
-  },
-  "525112": {
-    "address": "대전 대덕구 문평동로 18번길 34(문평동 119안전센터)",
-    "dongCode": "3023011300",
-    "sidoName": "대전광역시",
-    "gugunName": "대덕구",
-    "dongName": "문평동"
-  },
-  "525121": {
-    "address": "대전 중구 보문로 20번길 38(문창동 주민센터)",
-    "dongCode": "3014010600",
-    "sidoName": "대전광역시",
-    "gugunName": "중구",
-    "dongName": "문창동"
-  },
-  "525141": {
-    "address": "대전 유성구 대학로 407 보건환경연구원",
-    "dongCode": "3020012400",
-    "sidoName": "대전광역시",
-    "gugunName": "유성구",
-    "dongName": "구성동"
-  },
-  "525142": {
-    "address": "대전 유성구 노은동로 87번길 89(노은1동 주민센터)",
-    "dongCode": "3020011900",
-    "sidoName": "대전광역시",
-    "gugunName": "유성구",
-    "dongName": "노은동"
-  },
-  "525151": {
-    "address": "대전 중구 중앙로 58",
-    "dongCode": "3014010500",
-    "sidoName": "대전광역시",
-    "gugunName": "중구",
-    "dongName": "대흥동"
-  },
-  "525161": {
-    "address": "대전 동구 계족로 368번길 70(성남동 주민센터)",
-    "dongCode": "3011011600",
-    "sidoName": "대전광역시",
-    "gugunName": "동구",
-    "dongName": "성남동"
-  },
-  "525171": {
-    "address": "대전 서구 정림동로 10(정림동 주민센터)",
-    "dongCode": "3017010400",
-    "sidoName": "대전광역시",
-    "gugunName": "서구",
-    "dongName": "정림동"
-  },
-  "525172": {
-    "address": "대전 서구 둔산서로 84(근로자 종합복지회관)",
-    "dongCode": "3017011200",
-    "sidoName": "대전광역시",
-    "gugunName": "서구",
-    "dongName": "둔산동"
-  },
-  "525173": {
-    "address": "대전 서구 월평동160-5",
-    "dongCode": "3017011300",
-    "sidoName": "대전광역시",
-    "gugunName": "서구",
-    "dongName": "월평동"
-  },
-  "533112": {
-    "address": "충북 청주시 흥덕구 직지대로 393(송정동)",
-    "dongCode": "4311311600",
-    "sidoName": "충청북도",
-    "gugunName": "청주시 흥덕구",
-    "dongName": "송정동"
-  },
-  "533113": {
-    "address": "충북 청주시 청원구 사천동 233-223번지(사뜸로 61번길 88-14), 청주청원도서관 옥상(2층)",
-    "dongCode": "4311410400",
-    "sidoName": "충청북도",
-    "gugunName": "청주시 청원구",
-    "dongName": "사천동"
-  },
-  "533114": {
-    "address": "충북 청주시 상당구 교동로139번길 20",
-    "dongCode": "4311112100",
-    "sidoName": "충청북도",
-    "gugunName": "청주시 상당구",
-    "dongName": "용담동"
-  },
-  "533115": {
-    "address": "충북 청주시 상당구 용암동 1590(중흥로 29), 용암1동 주민센터 3층 옥상",
-    "dongCode": "4311112400",
-    "sidoName": "충청북도",
-    "gugunName": "청주시 상당구",
-    "dongName": "용암동"
-  },
-  "533116": {
-    "address": "충북 청주시 흥덕구 복대동",
-    "dongCode": "4311311400",
-    "sidoName": "충청북도",
-    "gugunName": "청주시 흥덕구",
-    "dongName": "복대동"
-  },
-  "534111": {
-    "address": "충남 천안시 동남구 복자1길 24 문성어린이집",
-    "dongCode": "4413110200",
-    "sidoName": "충청남도",
-    "gugunName": "천안시 동남구",
-    "dongName": "성황동"
-  },
-  "534112": {
-    "address": "충남 천안시 백석동 555-57번지(백성농공단지)",
-    "dongCode": "4413310300",
-    "sidoName": "충청남도",
-    "gugunName": "천안시 서북구",
-    "dongName": "백석동"
-  },
-  "534114": {
-    "address": "충남 천안시 서북구 성성동",
-    "dongCode": "4413310500",
-    "sidoName": "충청남도",
-    "gugunName": "천안시 서북구",
-    "dongName": "성성동"
-  },
-  "534341": {
-    "address": "충남 공주시 사곡면 마곡사로",
-    "dongCode": "4415039000",
-    "sidoName": "충청남도",
-    "gugunName": "공주시",
-    "dongName": "사곡면"
-  },
-  "534342": {
-    "address": "충남 공주시 봉황로 1",
-    "dongCode": "4415010200",
-    "sidoName": "충청남도",
-    "gugunName": "공주시",
-    "dongName": "봉황동"
-  },
-  "534411": {
-    "address": "충남 부여군 부여읍 사비로 36",
-    "dongCode": "4476025028",
-    "sidoName": "충청남도",
-    "gugunName": "부여군",
-    "dongName": "부여읍 동남리"
-  },
-  "534422": {
-    "address": "충청남도 서산시 중앙로 38-1",
-    "dongCode": "4421010200",
-    "sidoName": "충청남도",
-    "gugunName": "서산시",
-    "dongName": "동문동"
-  },
-  "534431": {
-    "address": "충청남도 당진시 시청1로 1",
-    "dongCode": "4427010600",
-    "sidoName": "충청남도",
-    "gugunName": "당진시",
-    "dongName": "수청동"
-  },
-  "534432": {
-    "address": "충청남도 당진시 송악읍 사둘구지길 3",
-    "dongCode": "4427025340",
-    "sidoName": "충청남도",
-    "gugunName": "당진시",
-    "dongName": "송악읍 정곡리"
-  },
-  "534441": {
-    "address": "충남 아산시 모종동 573-2",
-    "dongCode": "4420011300",
-    "sidoName": "충청남도",
-    "gugunName": "아산시",
-    "dongName": "모종동"
-  },
-  "534451": {
-    "address": "충남 논산시 시민로",
-    "dongCode": "4423010400",
-    "sidoName": "충청남도",
-    "gugunName": "논산시",
-    "dongName": "부창동"
-  },
-  "534461": {
-    "address": "충남 태안군 소원면 파도길",
-    "dongCode": "4482534000",
-    "sidoName": "충청남도",
-    "gugunName": "태안군",
-    "dongName": "소원면"
-  },
-  "534462": {
-    "address": "충남 태안군 이원면 분지길",
-    "dongCode": "4482536000",
-    "sidoName": "충청남도",
-    "gugunName": "태안군",
-    "dongName": "이원면"
-  },
-  "534463": {
-    "address": "충남 태안군 태안읍 군청6길",
-    "dongCode": "4482525000",
-    "sidoName": "충청남도",
-    "gugunName": "태안군",
-    "dongName": "태안읍"
-  },
-  "534471": {
-    "address": "충남 예산군 예산읍 신흥길 63",
-    "dongCode": "4481025021",
-    "sidoName": "충청남도",
-    "gugunName": "예산군",
-    "dongName": "예산읍 예산리"
-  },
-  "534481": {
-    "address": "충남 보령시 중앙로 142-16",
-    "dongCode": "4418010100",
-    "sidoName": "충청남도",
-    "gugunName": "보령시",
-    "dongName": "대천동"
-  },
-  "534491": {
-    "address": "충남 홍성군 홍성읍 내포로 136번길",
-    "dongCode": "4480025000",
-    "sidoName": "충청남도",
-    "gugunName": "홍성군",
-    "dongName": "홍성읍"
-  },
-  "534501": {
-    "address": "충남 금산군 금산읍 비호로 69",
-    "dongCode": "4471025024",
-    "sidoName": "충청남도",
-    "gugunName": "금산군",
-    "dongName": "금산읍 상리"
-  },
-  "534502": {
-    "address": "충남 청양군 청양읍 칠갑산로7길 54",
-    "dongCode": "4479025021",
-    "sidoName": "충청남도",
-    "gugunName": "청양군",
-    "dongName": "청양읍 읍내리"
-  },
-  "541111": {
-    "address": "세종 조치원읍 군청로 87-16(신흥동)",
-    "dongCode": "3611025029",
-    "sidoName": "세종특별자치시",
-    "gugunName": "세종특별자치시",
-    "dongName": "조치원읍 신흥리"
-  },
-  "541112": {
-    "address": "세종특별자치시 보듬3로 114",
-    "dongCode": "3611011300",
-    "sidoName": "세종특별자치시",
-    "gugunName": "세종특별자치시",
-    "dongName": "아름동"
-  },
-  "632121": {
-    "address": "강원 원주시 충정길 12(학성동 206-6)",
-    "dongCode": "4213010900",
-    "sidoName": "강원도",
-    "gugunName": "원주시",
-    "dongName": "학성동"
-  },
-  "632122": {
-    "address": "강원도 원주시 배울로 215",
-    "dongCode": "4213011700",
-    "sidoName": "강원도",
-    "gugunName": "원주시",
-    "dongName": "반곡동"
-  },
-  "632132": {
-    "address": "강원 강릉시 경강로 2179(옥천동 327-2)",
-    "dongCode": "4215010900",
-    "sidoName": "강원도",
-    "gugunName": "강릉시",
-    "dongName": "옥천동"
-  },
-  "632151": {
-    "address": "강원 동해시 천곡로 77(천곡동 806)",
-    "dongCode": "4217010100",
-    "sidoName": "강원도",
-    "gugunName": "동해시",
-    "dongName": "천곡동"
-  },
-  "632161": {
-    "address": "강원 삼척시 남양길 11(남양동 331-9)",
-    "dongCode": "4223012000",
-    "sidoName": "강원도",
-    "gugunName": "삼척시",
-    "dongName": "남양동"
-  },
-  "632371": {
-    "address": "강원 정선군 북평면 남평리",
-    "dongCode": "4277034023",
-    "sidoName": "강원도",
-    "gugunName": "정선군",
-    "dongName": "북평면 남평리"
-  },
-  "632421": {
-    "address": "강원 고성군 간성읍",
-    "dongCode": "4282025000",
-    "sidoName": "강원도",
-    "gugunName": "고성군",
-    "dongName": "간성읍"
-  },
-  "632431": {
-    "address": "강원 횡성군 강림면 강림리(치악산)",
-    "dongCode": "4273038021",
-    "sidoName": "강원도",
-    "gugunName": "횡성군",
-    "dongName": "강림면 강림리"
-  },
-  "633122": {
-    "address": "충북 충주시 호암동 562(충주시 청소년수련원 옥상)(중원대로 3324)",
-    "dongCode": "4313010700",
-    "sidoName": "충청북도",
-    "gugunName": "충주시",
-    "dongName": "호암동"
-  },
-  "633123": {
-    "address": "충북 충주시 칠금동 874번지(칠금동 주민센터 옥상)(칠금 중랑로 37)",
-    "dongCode": "4313011600",
-    "sidoName": "충청북도",
-    "gugunName": "충주시",
-    "dongName": "칠금동"
-  },
-  "633131": {
-    "address": "충북 제천시 장락동 672-8(내제로 318),(시립도서관 주차장 옆, 화단)",
-    "dongCode": "4315011600",
-    "sidoName": "충청북도",
-    "gugunName": "제천시",
-    "dongName": "장락동"
-  },
-  "633211": {
-    "address": "충청북도 청주시 청원구 오창읍 오창대로 197",
-    "dongCode": "4311425346",
-    "sidoName": "충청북도",
-    "gugunName": "청주시 청원구",
-    "dongName": "오창읍 구룡리"
-  },
-  "633311": {
-    "address": "충북 단양군 매포읍 평동리 1274(평동33길 3),(매포 보건지소 마당)",
-    "dongCode": "4380025327",
-    "sidoName": "충청북도",
-    "gugunName": "단양군",
-    "dongName": "매포읍 평동리"
-  },
-  "633361": {
-    "address": "충북 괴산군 청천면 송문로 덕평길",
-    "dongCode": "4376036000",
-    "sidoName": "충청북도",
-    "gugunName": "괴산군",
-    "dongName": "청천면"
-  },
-  "633411": {
-    "address": "충북 진천군 진천읍 상산로 65 읍내리 370-1",
-    "dongCode": "4375025024",
-    "sidoName": "충청북도",
-    "gugunName": "진천군",
-    "dongName": "진천읍 읍내리"
-  },
-  "633461": {
-    "address": "충북 음성군 금왕읍 무극로",
-    "dongCode": "4377025300",
-    "sidoName": "충청북도",
-    "gugunName": "음성군",
-    "dongName": "금왕읍"
-  },
-  "634111": {
-    "address": "충북 옥천군 옥천읍 중앙로 99(옥천군청 통합관제 센터 옥상)",
-    "dongCode": "4373025038",
-    "sidoName": "충청북도",
-    "gugunName": "옥천군",
-    "dongName": "옥천읍 삼양리"
-  },
-  "735111": {
-    "address": "전북 전주시 완산구 용리로 107",
-    "dongCode": "4511113700",
-    "sidoName": "전라북도",
-    "gugunName": "전주시 완산구",
-    "dongName": "삼천동1가"
-  },
-  "735114": {
-    "address": "전라북도 전주시 덕진구 서귀로 107",
-    "dongCode": "4511311000",
-    "sidoName": "전라북도",
-    "gugunName": "전주시 덕진구",
-    "dongName": "팔복동3가"
-  },
-  "735116": {
-    "address": "전주시 덕진구 가리내로",
-    "dongCode": "4511310500",
-    "sidoName": "전라북도",
-    "gugunName": "전주시 덕진구",
-    "dongName": "덕진동1가"
-  },
-  "735121": {
-    "address": "전라북도 군산시 대학로 215",
-    "dongCode": "4513011000",
-    "sidoName": "전라북도",
-    "gugunName": "군산시",
-    "dongName": "문화동"
-  },
-  "735122": {
-    "address": "전북 군산시 외항1길 222. (롯데주류) 3층옥상",
-    "dongCode": "4513014600",
-    "sidoName": "전라북도",
-    "gugunName": "군산시",
-    "dongName": "소룡동"
-  },
-  "735123": {
-    "address": "전라북도 군산시 번영로 339-5",
-    "dongCode": "4513013900",
-    "sidoName": "전라북도",
-    "gugunName": "군산시",
-    "dongName": "개정동"
-  },
-  "735132": {
-    "address": "전북 익산시 인북로 32길 1 (익산시의회)",
-    "dongCode": "4514011300",
-    "sidoName": "전라북도",
-    "gugunName": "익산시",
-    "dongName": "남중동"
-  },
-  "735133": {
-    "address": "전북 익산시 무왕로 1338. 익산소방서",
-    "dongCode": "4514012700",
-    "sidoName": "전라북도",
-    "gugunName": "익산시",
-    "dongName": "팔봉동"
-  },
-  "735134": {
-    "address": "전북 익산시 배산로 189-10",
-    "dongCode": "4514011500",
-    "sidoName": "전라북도",
-    "gugunName": "익산시",
-    "dongName": "모현동2가"
-  },
-  "735141": {
-    "address": "전북 정읍시 조곡천1길 7. 여성문화관 옥상",
-    "dongCode": "4518010500",
-    "sidoName": "전라북도",
-    "gugunName": "정읍시",
-    "dongName": "연지동"
-  },
-  "735151": {
-    "address": "전라북도 남원시 비석길 72",
-    "dongCode": "4519010300",
-    "sidoName": "전라북도",
-    "gugunName": "남원시",
-    "dongName": "죽항동"
-  },
-  "735161": {
-    "address": "전라북도 고창군 고창읍 월곡공원1길 36",
-    "dongCode": "4579025023",
-    "sidoName": "전라북도",
-    "gugunName": "고창군",
-    "dongName": "고창읍 월곡리"
-  },
-  "735171": {
-    "address": "전북 부안군 행안면 변산로 16",
-    "dongCode": "4580033021",
-    "sidoName": "전라북도",
-    "gugunName": "부안군",
-    "dongName": "행안면 역리"
-  },
-  "735172": {
-    "address": "전북 부안군 변산면 새만금로",
-    "dongCode": "4580036000",
-    "sidoName": "전라북도",
-    "gugunName": "부안군",
-    "dongName": "변산면"
-  },
-  "735181": {
-    "address": "전북 김제시 요촌중길 50",
-    "dongCode": "4521010100",
-    "sidoName": "전라북도",
-    "gugunName": "김제시",
-    "dongName": "요촌동"
-  },
-  "735191": {
-    "address": "전북 완주군 고산면 고산로 69-13",
-    "dongCode": "4571036021",
-    "sidoName": "전라북도",
-    "gugunName": "완주군",
-    "dongName": "고산면 읍내리"
-  },
-  "735201": {
-    "address": "전북 진안군 진안읍 진무로 1189",
-    "dongCode": "4572025021",
-    "sidoName": "전라북도",
-    "gugunName": "진안군",
-    "dongName": "진안읍 군상리"
-  },
-  "735351": {
-    "address": "전북 임실군 운암면 선거리",
-    "dongCode": "4575032022",
-    "sidoName": "전라북도",
-    "gugunName": "임실군",
-    "dongName": "운암면 선거리"
-  },
-  "823611": {
-    "address": "인천 중구 서해대로 471(신흥동 2가)",
-    "dongCode": "2811012700",
-    "sidoName": "인천광역시",
-    "gugunName": "중구",
-    "dongName": "신흥동2가"
-  },
-  "823621": {
-    "address": "인천 동구 금곡로 67(송림동)",
-    "dongCode": "2814010700",
-    "sidoName": "인천광역시",
-    "gugunName": "동구",
-    "dongName": "송림동"
-  },
-  "823631": {
-    "address": "인천 남동구 구월말로 7(구월동)",
-    "dongCode": "2820010100",
-    "sidoName": "인천광역시",
-    "gugunName": "남동구",
-    "dongName": "구월동"
-  },
-  "823632": {
-    "address": "인천 미추홀구 독정안길 26",
-    "dongCode": "2817710100",
-    "sidoName": "인천광역시",
-    "gugunName": "미추홀구",
-    "dongName": "숭의동"
-  },
-  "823633": {
-    "address": "인천 미추홀구 주안6동",
-    "dongCode": "2817710500",
-    "sidoName": "인천광역시",
-    "gugunName": "미추홀구",
-    "dongName": "주안동"
-  },
-  "823634": {
-    "address": "인천 부평구 광장로 지하15(부평동)",
-    "dongCode": "2823710100",
-    "sidoName": "인천광역시",
-    "gugunName": "부평구",
-    "dongName": "부평동"
-  },
-  "823641": {
-    "address": "인천 부평구 부평대로88번길 19(부평동)",
-    "dongCode": "2823710100",
-    "sidoName": "인천광역시",
-    "gugunName": "부평구",
-    "dongName": "부평동"
-  },
-  "823651": {
-    "address": "인천 서구 심곡로 98(심곡동)",
-    "dongCode": "2826010700",
-    "sidoName": "인천광역시",
-    "gugunName": "서구",
-    "dongName": "심곡동"
-  },
-  "823652": {
-    "address": "인천 서구 검단로502번길 15(마전동)",
-    "dongCode": "2826011300",
-    "sidoName": "인천광역시",
-    "gugunName": "서구",
-    "dongName": "마전동"
-  },
-  "823662": {
-    "address": "인천 계양구 계양산로134번길 18(계산동)",
-    "dongCode": "2824510200",
-    "sidoName": "인천광역시",
-    "gugunName": "계양구",
-    "dongName": "계산동"
-  },
-  "823671": {
-    "address": "인천 남동구 은봉로 82",
-    "dongCode": "2820011000",
-    "sidoName": "인천광역시",
-    "gugunName": "남동구",
-    "dongName": "논현동"
-  },
-  "823681": {
-    "address": "인천 서구 거북로 116(석남동)",
-    "dongCode": "2826011000",
-    "sidoName": "인천광역시",
-    "gugunName": "서구",
-    "dongName": "석남동"
-  },
-  "823691": {
-    "address": "인천 강화군 송해면 전망대로 29(솔정리)",
-    "dongCode": "2871039021",
-    "sidoName": "인천광역시",
-    "gugunName": "강화군",
-    "dongName": "송해면 솔정리"
-  },
-  "823701": {
-    "address": "인천 연수구 원인재로 115(동춘동)",
-    "dongCode": "2818510500",
-    "sidoName": "인천광역시",
-    "gugunName": "연수구",
-    "dongName": "동춘동"
-  },
-  "823702": {
-    "address": "인천 중구 영종대로 85(운서동)",
-    "dongCode": "2811014700",
-    "sidoName": "인천광역시",
-    "gugunName": "중구",
-    "dongName": "운서동"
-  },
-  "823703": {
-    "address": "인천 동구 수문통로 77",
-    "dongCode": "2814010300",
-    "sidoName": "인천광역시",
-    "gugunName": "동구",
-    "dongName": "송현동"
-  },
-  "823704": {
-    "address": "인천 남동구 청능대로611번길 54(논현동)",
-    "dongCode": "2820011000",
-    "sidoName": "인천광역시",
-    "gugunName": "남동구",
-    "dongName": "논현동"
-  },
-  "823801": {
-    "address": "인천 서구 고산후로121번길 7(원당동)",
-    "dongCode": "2826011500",
-    "sidoName": "인천광역시",
-    "gugunName": "서구",
-    "dongName": "원당동"
-  },
-  "831151": {
-    "address": "경기 부천시 경인옛로 73",
-    "dongCode": "4119011000",
-    "sidoName": "경기도",
-    "gugunName": "부천시",
-    "dongName": "소사본동"
-  },
-  "831152": {
-    "address": "경기 부천시 삼작로 109",
-    "dongCode": "4119012300",
-    "sidoName": "경기도",
-    "gugunName": "부천시",
-    "dongName": "삼정동"
-  },
-  "831153": {
-    "address": "경기 부천시 심중로 121",
-    "dongCode": "4119010800",
-    "sidoName": "경기도",
-    "gugunName": "부천시",
-    "dongName": "중동"
-  },
-  "831154": {
-    "address": "경기 부천시 성오로 172",
-    "dongCode": "4119011700",
-    "sidoName": "경기도",
-    "gugunName": "부천시",
-    "dongName": "오정동"
-  },
-  "831155": {
-    "address": "경기 부천시 송내대로 262",
-    "dongCode": "4119010800",
-    "sidoName": "경기도",
-    "gugunName": "부천시",
-    "dongName": "중동"
-  },
-  "831481": {
-    "address": "인천 강화군 삼산면 석모리",
-    "dongCode": "2871041021",
-    "sidoName": "인천광역시",
-    "gugunName": "강화군",
-    "dongName": "삼산면 석모리"
-  },
-  "831491": {
-    "address": "인천 옹진군 덕적면 진리",
-    "dongCode": "2872035022",
-    "sidoName": "인천광역시",
-    "gugunName": "옹진군",
-    "dongName": "덕적면 진리"
-  },
-  "831492": {
-    "address": "인천 옹진군 백령면 연화리",
-    "dongCode": "2872033024",
-    "sidoName": "인천광역시",
-    "gugunName": "옹진군",
-    "dongName": "백령면 연화리"
-  },
-  "131454": {
-    "address": "경기도 포천시 일동면 화동로1099번길 30",
-    "dongCode": "4165037023",
-    "sidoName": "경기도",
-    "gugunName": "포천시",
-    "dongName": "일동면 기산리"
-  },
-  "238401": {
-    "address": "경상남도 밀양시 중앙로 346",
-    "dongCode": "4827010100",
-    "sidoName": "경상남도",
-    "gugunName": "밀양시",
-    "dongName": "내일동"
-  },
-  "238411": {
-    "address": "경상남도 통영시 안개4길 53",
-    "dongCode": "4822011100",
-    "sidoName": "경상남도",
-    "gugunName": "통영시",
-    "dongName": "무전동"
-  },
-  "534433": {
-    "address": "충남 당진시 송산면 유곡로 342-27",
-    "dongCode": "4427039032",
-    "sidoName": "충청남도",
-    "gugunName": "당진시",
-    "dongName": "송산면 동곡리"
-  },
-  "534442": {
-    "address": "충남 아산시 배방읍 배방로 38",
-    "dongCode": "4420025324",
-    "sidoName": "충청남도",
-    "gugunName": "아산시",
-    "dongName": "배방읍 공수리"
-  },
-  "336141": {
-    "address": "전남 나주시 빛가람로 719",
-    "dongCode": "4617013400",
-    "sidoName": "전라남도",
-    "gugunName": "나주시",
-    "dongName": "빛가람동"
-  },
-  "336151": {
-    "address": "전라남도 담양군 담양읍 면앙정로 730",
-    "dongCode": "4671025022",
-    "sidoName": "전라남도",
-    "gugunName": "담양군",
-    "dongName": "담양읍 천변리"
-  },
-  "336161": {
-    "address": "전남 장성군 장성읍 영천로 211",
-    "dongCode": "4688025024",
-    "sidoName": "전라남도",
-    "gugunName": "장성군",
-    "dongName": "장성읍 영천리"
-  },
-  "437181": {
-    "address": "경북 상주시 북천로 63",
-    "dongCode": "4725013300",
-    "sidoName": "경상북도",
-    "gugunName": "상주시",
-    "dongName": "만산동"
-  },
-  "437191": {
-    "address": "경북 칠곡군 왜관읍 관문로1길 30",
-    "dongCode": "4785025023",
-    "sidoName": "경상북도",
-    "gugunName": "칠곡군",
-    "dongName": "왜관읍 매원리"
-  },
-  "632171": {
-    "address": "강원 평창군 평창읍 종부로 61(종부리 504)",
-    "dongCode": "4276025025",
-    "sidoName": "강원도",
-    "gugunName": "평창군",
-    "dongName": "평창읍 종부리"
-  },
-  "823706": {
-    "address": "인천 연수구 갯벌로 12",
-    "dongCode": "2818510600",
-    "sidoName": "인천광역시",
-    "gugunName": "연수구",
-    "dongName": "송도동"
-  },
-  "131562": {
-    "address": "경기 양주시 고읍남로 205",
-    "dongCode": "4163010600",
-    "sidoName": "경기도",
-    "gugunName": "양주시",
-    "dongName": "광사동"
-  },
-  "221212": {
-    "address": "부산 강서구 녹산산업중로 333",
-    "dongCode": "2644010900",
-    "sidoName": "부산광역시",
-    "gugunName": "강서구",
-    "dongName": "송정동"
-  },
-  "422203": {
-    "address": "대구 수성구 노변공원로 52",
-    "dongCode": "2726011400",
-    "sidoName": "대구광역시",
-    "gugunName": "수성구",
-    "dongName": "시지동"
-  },
-  "422204": {
-    "address": "대구 달서구 월배로 131",
-    "dongCode": "2729011700",
-    "sidoName": "대구광역시",
-    "gugunName": "달서구",
-    "dongName": "진천동"
-  },
-  "534115": {
-    "address": "충남 천안시 서북구 성거읍 천흥8길 7",
-    "dongCode": "4413325322",
-    "sidoName": "충청남도",
-    "gugunName": "천안시 서북구",
-    "dongName": "성거읍 천흥리"
-  },
-  "534434": {
-    "address": "충남 당진시 시청1로 1",
-    "dongCode": "4427010600",
-    "sidoName": "충청남도",
-    "gugunName": "당진시",
-    "dongName": "수청동"
-  },
-  "534443": {
-    "address": "충남 아산시 도고면 기곡리 296-4",
-    "dongCode": "4420040000",
-    "sidoName": "충청남도",
-    "gugunName": "아산시",
-    "dongName": "도고면"
-  },
-  "534444": {
-    "address": "충남 아산시 둔포면 석곡리 1481",
-    "dongCode": "4420036032",
-    "sidoName": "충청남도",
-    "gugunName": "아산시",
-    "dongName": "둔포면 석곡리"
-  },
-  "534445": {
-    "address": "충남 아산시 인주면 인주산단로 23-28",
-    "dongCode": "4420038024",
-    "sidoName": "충청남도",
-    "gugunName": "아산시",
-    "dongName": "인주면 걸매리"
-  },
-  "534510": {
-    "address": "충남 계룡시 엄사면 번영7길 17",
-    "dongCode": "4425031521",
-    "sidoName": "충청남도",
-    "gugunName": "계룡시",
-    "dongName": "엄사면 엄사리"
-  },
-  "633471": {
-    "address": "충북 영동군 영동읍 계산로2길 25",
-    "dongCode": "4374025021",
-    "sidoName": "충청북도",
-    "gugunName": "영동군",
-    "dongName": "영동읍 계산리"
-  },
-  "633481": {
-    "address": "충북 증평군 증평읍 송산리 123-2",
-    "dongCode": "4374525000",
-    "sidoName": "충청북도",
-    "gugunName": "증평군",
-    "dongName": "증평읍"
-  },
-  "735520": {
-    "address": "충남 서천군 서천읍 서천로14번길 20",
-    "dongCode": "4477025321",
-    "sidoName": "충청남도",
-    "gugunName": "서천군",
-    "dongName": "서천읍 군사리"
-  },
-  "735521": {
-    "address": "충남 서천군 서면 서인로 761",
-    "dongCode": "4477041026",
-    "sidoName": "충청남도",
-    "gugunName": "서천군",
-    "dongName": "서면 신합리"
-  },
-  "131243": {
-    "address": "경기 남양주시 별내중앙로 148",
-    "dongCode": "4136011100",
-    "sidoName": "경기도",
-    "gugunName": "남양주시",
-    "dongName": "별내동"
-  },
-  "238381": {
-    "address": "울산 동구 진성4길 45 전하2동",
-    "dongCode": "3117010400",
-    "sidoName": "울산광역시",
-    "gugunName": "동구",
-    "dongName": "전하동"
-  },
-  "336361": {
-    "address": "전남 해남군 해남읍 남부순환로 114",
-    "dongCode": "4682025024",
-    "sidoName": "전라남도",
-    "gugunName": "해남군",
-    "dongName": "해남읍 고도리"
-  },
-  "534482": {
-    "address": "충남 보령시 주교면 울계큰길 396",
-    "dongCode": "4418041021",
-    "sidoName": "충청남도",
-    "gugunName": "보령시",
-    "dongName": "주교면 주교리"
-  },
-  "541113": {
-    "address": "세종 누리로 27",
-    "dongCode": "3611010600",
-    "sidoName": "세종특별자치시",
-    "gugunName": "세종특별자치시",
-    "dongName": "한솔동"
-  },
-  "735115": {
-    "address": "전북 전주시 덕진구 동부대로 1183",
-    "dongCode": "4511312200",
-    "sidoName": "전라북도",
-    "gugunName": "전주시 덕진구",
-    "dongName": "송천동2가"
-  },
-  "735142": {
-    "address": "전북 정읍시 신태인읍 신태인중앙로 14",
-    "dongCode": "4518025021",
-    "sidoName": "전라북도",
-    "gugunName": "정읍시",
-    "dongName": "신태인읍 신태인리"
-  },
-  "735361": {
-    "address": "전북 임실군 임실읍 봉황로 144",
-    "dongCode": "4575025022",
-    "sidoName": "전라북도",
-    "gugunName": "임실군",
-    "dongName": "임실읍 이도리"
-  },
-  "131244": {
-    "address": "경기 남양주시 화도읍 비룡로 59",
-    "dongCode": "4136025621",
-    "sidoName": "경기도",
-    "gugunName": "남양주시",
-    "dongName": "화도읍 마석우리"
-  },
-  "131385": {
-    "address": "경기 고양시 일산서구 주엽로 104",
-    "dongCode": "4128710200",
-    "sidoName": "경기도",
-    "gugunName": "고양시 일산서구",
-    "dongName": "주엽동"
-  },
-  "131554": {
-    "address": "경기 화성시 우정읍 쌍봉로 109-14",
-    "dongCode": "4159025632",
-    "sidoName": "경기도",
-    "gugunName": "화성시",
-    "dongName": "우정읍 조암리"
-  },
-  "131555": {
-    "address": "경기 화성시 동탄순환대로22길 13",
-    "dongCode": "4159013000",
-    "sidoName": "경기도",
-    "gugunName": "화성시",
-    "dongName": "청계동"
-  },
-  "221282": {
-    "address": "부산 사상구 삼덕로 83",
-    "dongCode": "2653010300",
-    "sidoName": "부산광역시",
-    "gugunName": "사상구",
-    "dongName": "덕포동"
-  },
-  "238421": {
-    "address": "경남 고성군 고성읍 중앙로 35",
-    "dongCode": "4882025021",
-    "sidoName": "경상남도",
-    "gugunName": "고성군",
-    "dongName": "고성읍 성내리"
-  },
-  "238431": {
-    "address": "경남 거창군 거창읍 거열로 90",
-    "dongCode": "4888025021",
-    "sidoName": "경상남도",
-    "gugunName": "거창군",
-    "dongName": "거창읍 상림리"
-  },
-  "238441": {
-    "address": "경남 함안군 가야읍 함안대로 505",
-    "dongCode": "4873025021",
-    "sidoName": "경상남도",
-    "gugunName": "함안군",
-    "dongName": "가야읍 말산리"
-  },
-  "238451": {
-    "address": "경남 함양군 함양읍 고운로 35",
-    "dongCode": "4887025021",
-    "sidoName": "경상남도",
-    "gugunName": "함양군",
-    "dongName": "함양읍 운림리"
-  },
-  "238461": {
-    "address": "경남 남해군 남해읍 남해대로 2745",
-    "dongCode": "4884025023",
-    "sidoName": "경상남도",
-    "gugunName": "남해군",
-    "dongName": "남해읍 남변리"
-  },
-  "336221": {
-    "address": "전남 여수시 화양면 평촌길 2-6",
-    "dongCode": "4613033026",
-    "sidoName": "전라남도",
-    "gugunName": "여수시",
-    "dongName": "화양면 화동리"
-  },
-  "336222": {
-    "address": "전남 여수시 율촌면 동산개길 2",
-    "dongCode": "4613032021",
-    "sidoName": "전라남도",
-    "gugunName": "여수시",
-    "dongName": "율촌면 조화리"
-  },
-  "336223": {
-    "address": "전남 여수시 상암로 601-1",
-    "dongCode": "4613015000",
-    "sidoName": "전라남도",
-    "gugunName": "여수시",
-    "dongName": "상암동"
-  },
-  "534423": {
-    "address": "충남 서산시 대산읍 충의로 1942",
-    "dongCode": "4421025021",
-    "sidoName": "충청남도",
-    "gugunName": "서산시",
-    "dongName": "대산읍 대산리"
-  },
-  "541114": {
-    "address": "세종 부강면 부강외천로 20",
-    "dongCode": "3611033021",
-    "sidoName": "세종특별자치시",
-    "gugunName": "세종특별자치시",
-    "dongName": "부강면 부강리"
-  },
-  "632124": {
-    "address": "강원 원주시 문막읍 건등로 11",
-    "dongCode": "4213025026",
-    "sidoName": "강원도",
-    "gugunName": "원주시",
-    "dongName": "문막읍 건등리"
-  },
-  "735371": {
-    "address": "전북 무주군 무주읍 향학로 49",
-    "dongCode": "4573025021",
-    "sidoName": "전라북도",
-    "gugunName": "무주군",
-    "dongName": "무주읍 읍내리"
+    "address": "서울 금천구 금하로21길 20"
   },
   "111282": {
-    "address": "서울 금천구 독산동 996-9",
     "dongCode": "1154510200",
-    "sidoName": "서울특별시",
-    "gugunName": "금천구",
-    "dongName": "독산동"
+    "address": "서울 금천구 독산동 996-9"
   },
-  "131344": {
-    "address": "경기 평택시 지산2로 113",
-    "dongCode": "4122011000",
-    "sidoName": "경기도",
-    "gugunName": "평택시",
-    "dongName": "지산동"
+  "111291": {
+    "dongCode": "1130510300",
+    "address": "서울 강북구 삼양로 139길 49"
   },
-  "221901": {
-    "address": "부산 동구 충장대로 314",
-    "dongCode": "2617010300",
-    "sidoName": "부산광역시",
-    "gugunName": "동구",
-    "dongName": "좌천동"
+  "111301": {
+    "dongCode": "1147010100",
+    "address": "서울 양천구 중앙로52길 56"
   },
-  "221902": {
-    "address": "부산 강서구 신항남로 416",
-    "dongCode": "2644011900",
-    "sidoName": "부산광역시",
-    "gugunName": "강서구",
-    "dongName": "성북동"
+  "111311": {
+    "dongCode": "1135010500",
+    "address": "서울 노원구 상계로 118"
   },
-  "336135": {
-    "address": "전남 순천시 해룡면 매안로 162",
-    "dongCode": "4615031022",
-    "sidoName": "전라남도",
-    "gugunName": "순천시",
-    "dongName": "해룡면 신대리"
+  "111312": {
+    "dongCode": "1135010300",
+    "address": "서울 노원구 화랑로 429"
   },
-  "336461": {
-    "address": "전남 영광군 영광읍 물무로2길 61",
-    "dongCode": "4687025021",
-    "sidoName": "전라남도",
-    "gugunName": "영광군",
-    "dongName": "영광읍 무령리"
+  "131111": {
+    "dongCode": "4111513000",
+    "address": "경기 수원시 팔달구 신풍로 23번길 68"
   },
-  "336471": {
-    "address": "전남 장흥군 장흥읍 흥성로 23",
-    "dongCode": "4680025037",
-    "sidoName": "전라남도",
-    "gugunName": "장흥군",
-    "dongName": "장흥읍 건산리"
+  "131112": {
+    "dongCode": "4111514100",
+    "address": "경기 수원시 팔달구 효원로 241"
   },
-  "336481": {
-    "address": "전남 진도군 진도읍 진도대로 7195",
-    "dongCode": "4690025021",
-    "sidoName": "전라남도",
-    "gugunName": "진도군",
-    "dongName": "진도읍 동외리"
+  "131113": {
+    "dongCode": "4111710400",
+    "address": "경기도 수원시 영통구 광교중앙로 216"
   },
-  "336491": {
-    "address": "전남 완도군 신지면 신지로 567",
-    "dongCode": "4689032022",
-    "sidoName": "전라남도",
-    "gugunName": "완도군",
-    "dongName": "신지면 대곡리"
+  "131114": {
+    "dongCode": "4111710500",
+    "address": "경기 수원시 영통구 영통로 217번길 12"
   },
-  "336501": {
-    "address": "전남 함평군 함평읍 중앙길 39",
-    "dongCode": "4686025023",
-    "sidoName": "전라남도",
-    "gugunName": "함평군",
-    "dongName": "함평읍 내교리"
+  "131115": {
+    "dongCode": "4111113300",
+    "address": "경기 수원시 장안구 서부로 2066"
   },
-  "339131": {
-    "address": "제주 서귀포시 대정읍 동일하모로149번길 21-8",
-    "dongCode": "5013025022",
-    "sidoName": "제주특별자치도",
-    "gugunName": "서귀포시",
-    "dongName": "대정읍 하모리"
+  "131116": {
+    "dongCode": "4111514100",
+    "address": "경기 수원시 팔달구 인계동 1047"
   },
-  "437402": {
-    "address": "경북 영천시 시청로 23",
-    "dongCode": "4723010500",
-    "sidoName": "경상북도",
-    "gugunName": "영천시",
-    "dongName": "문외동"
-  },
-  "525143": {
-    "address": "대전 유성구 도안대로 398",
-    "dongCode": "3020011500",
-    "sidoName": "대전광역시",
-    "gugunName": "유성구",
-    "dongName": "상대동"
-  },
-  "525162": {
-    "address": "대전 동구 동구청로 36",
-    "dongCode": "3011013900",
-    "sidoName": "대전광역시",
-    "gugunName": "동구",
-    "dongName": "대성동"
-  },
-  "632372": {
-    "address": "강원 정선군 정선읍 정선로 1331",
-    "dongCode": "4277025021",
-    "sidoName": "강원도",
-    "gugunName": "정선군",
-    "dongName": "정선읍 봉양리"
-  },
-  "632432": {
-    "address": "강원 횡성군 횡성읍 중앙로 30",
-    "dongCode": "4273025022",
-    "sidoName": "강원도",
-    "gugunName": "횡성군",
-    "dongName": "횡성읍 읍하리"
-  },
-  "632441": {
-    "address": "강원 고성군 간성읍 수성로 160",
-    "dongCode": "4282025025",
-    "sidoName": "강원도",
-    "gugunName": "고성군",
-    "dongName": "간성읍 상리"
-  },
-  "632451": {
-    "address": "강원 양양군 양양읍 남문로 39",
-    "dongCode": "4283025024",
-    "sidoName": "강원도",
-    "gugunName": "양양군",
-    "dongName": "양양읍 군행리"
-  },
-  "632472": {
-    "address": "강원 철원군 갈말읍 삼부연로 51",
-    "dongCode": "4278025621",
-    "sidoName": "강원도",
-    "gugunName": "철원군",
-    "dongName": "갈말읍 신철원리"
-  },
-  "633213": {
-    "address": "충북 청주시 서원구 원흥로 81",
-    "dongCode": "4311210400",
-    "sidoName": "충청북도",
-    "gugunName": "청주시 서원구",
-    "dongName": "산남동"
-  },
-  "633214": {
-    "address": "충북 청주시 흥덕구 오송읍 오송생명로 150",
-    "dongCode": "4311325026",
-    "sidoName": "충청북도",
-    "gugunName": "청주시 흥덕구",
-    "dongName": "오송읍 연제리"
-  },
-  "633362": {
-    "address": "충북 괴산군 괴산읍 서부리 377-1",
-    "dongCode": "4376025000",
-    "sidoName": "충청북도",
-    "gugunName": "괴산군",
-    "dongName": "괴산읍"
-  },
-  "633491": {
-    "address": "충북 보은군 보은읍 삼산로 50",
-    "dongCode": "4372025021",
-    "sidoName": "충청북도",
-    "gugunName": "보은군",
-    "dongName": "보은읍 삼산리"
-  },
-  "735162": {
-    "address": "전북 고창군 심원면 심원로 211",
-    "dongCode": "4579039028",
-    "sidoName": "전라북도",
-    "gugunName": "고창군",
-    "dongName": "심원면 월산리"
-  },
-  "735381": {
-    "address": "전북 순창군 순창읍 경천로 33",
-    "dongCode": "4577025021",
-    "sidoName": "전라북도",
-    "gugunName": "순창군",
-    "dongName": "순창읍 순화리"
-  },
-  "735391": {
-    "address": "전북 장수군 장수읍 호비로 10",
-    "dongCode": "4574025021",
-    "sidoName": "전라북도",
-    "gugunName": "장수군",
-    "dongName": "장수읍 장수리"
+  "131117": {
+    "dongCode": "4111312800",
+    "address": "경기 수원시 권선구 서부로 1600"
   },
   "131118": {
-    "address": "경기도 수원시 권선구 칠보로 161",
-    "dongCode": "4111313500",
-    "sidoName": "경기도",
-    "gugunName": "수원시 권선구",
-    "dongName": "호매실동"
-  },
-  "131415": {
-    "address": "경기도 용인시 처인구 모현읍 독점로 31-6",
-    "dongCode": "4146125322",
-    "sidoName": "경기도",
-    "gugunName": "용인시 처인구",
-    "dongName": "모현읍 갈담리"
-  },
-  "131416": {
-    "address": "경기도 용인시 처인구 이동읍 경기동로 673",
-    "dongCode": "4146125621",
-    "sidoName": "경기도",
-    "gugunName": "용인시 처인구",
-    "dongName": "이동읍 송전리"
-  },
-  "131417": {
-    "address": "경기도 용인시 처인구 백암면 백암로185번길 8-11",
-    "dongCode": "4146135021",
-    "sidoName": "경기도",
-    "gugunName": "용인시 처인구",
-    "dongName": "백암면 백암리"
-  },
-  "131443": {
-    "address": "경기 이천시 장호원읍 오남리 27",
-    "dongCode": "4150025000",
-    "sidoName": "경기도",
-    "gugunName": "이천시",
-    "dongName": "장호원읍"
-  },
-  "131532": {
-    "address": "경기도 오산시 금암로 7",
-    "dongCode": "4137010700",
-    "sidoName": "경기도",
-    "gugunName": "오산시",
-    "dongName": "금암동"
-  },
-  "132402": {
-    "address": "강원도 양구군 양구읍 관공서로 33",
-    "dongCode": "4280025022",
-    "sidoName": "강원도",
-    "gugunName": "양구군",
-    "dongName": "양구읍 중리"
-  },
-  "221283": {
-    "address": "부산광역시 부산진구 개금온정로17번길 51",
-    "dongCode": "2623011100",
-    "sidoName": "부산광역시",
-    "gugunName": "부산진구",
-    "dongName": "개금동"
-  },
-  "221284": {
-    "address": "부산 사하구 제석로 41",
-    "dongCode": "2638010200",
-    "sidoName": "부산광역시",
-    "gugunName": "사하구",
-    "dongName": "당리동"
-  },
-  "238152": {
-    "address": "경남 창원시 마산합포구 월영동16길 22",
-    "dongCode": "4812515800",
-    "sidoName": "경상남도",
-    "gugunName": "창원시 마산합포구",
-    "dongName": "해운동"
-  },
-  "238184": {
-    "address": "경남 김해시 진영읍 김해대로365번길 6-24",
-    "dongCode": "4825025026",
-    "sidoName": "경상남도",
-    "gugunName": "김해시",
-    "dongName": "진영읍 진영리"
-  },
-  "238471": {
-    "address": "경남 산청군 산청읍 산엔청로 6",
-    "dongCode": "4886025022",
-    "sidoName": "경상남도",
-    "gugunName": "산청군",
-    "dongName": "산청읍 옥산리"
-  },
-  "238491": {
-    "address": "경남 의령군 의령읍 의병로8길 44",
-    "dongCode": "4872025021",
-    "sidoName": "경상남도",
-    "gugunName": "의령군",
-    "dongName": "의령읍 서동리"
-  },
-  "238501": {
-    "address": "경남 창녕군 창녕읍 우포2로 1189-35",
-    "dongCode": "4874025022",
-    "sidoName": "경상남도",
-    "gugunName": "창녕군",
-    "dongName": "창녕읍 교리"
-  },
-  "238511": {
-    "address": "경남 합천군 합천읍 중앙로 61",
-    "dongCode": "4889025021",
-    "sidoName": "경상남도",
-    "gugunName": "합천군",
-    "dongName": "합천읍 합천리"
-  },
-  "336452": {
-    "address": "전라남도 화순군 화순읍 동헌길 9-24",
-    "dongCode": "4679025025",
-    "sidoName": "전라남도",
-    "gugunName": "화순군",
-    "dongName": "화순읍 훈리"
-  },
-  "336511": {
-    "address": "전라남도 고흥군 고흥읍 터미널길 11",
-    "dongCode": "4677025026",
-    "sidoName": "전라남도",
-    "gugunName": "고흥군",
-    "dongName": "고흥읍 남계리"
-  },
-  "336521": {
-    "address": "전라남도 신안군 안좌면 중부로 860",
-    "dongCode": "4691040044",
-    "sidoName": "전라남도",
-    "gugunName": "신안군",
-    "dongName": "안좌면 읍동리"
-  },
-  "336531": {
-    "address": "전라남도 무안군 무안읍 성내1길 2",
-    "dongCode": "4684025021",
-    "sidoName": "전라남도",
-    "gugunName": "무안군",
-    "dongName": "무안읍 성내리"
-  },
-  "336541": {
-    "address": "전라남도 강진군 강진읍 동성로 72",
-    "dongCode": "4681025021",
-    "sidoName": "전라남도",
-    "gugunName": "강진군",
-    "dongName": "강진읍 동성리"
-  },
-  "336551": {
-    "address": "전남 곡성군 곡성읍 학정3길 6",
-    "dongCode": "4672025022",
-    "sidoName": "전라남도",
-    "gugunName": "곡성군",
-    "dongName": "곡성읍 학정리"
-  },
-  "336561": {
-    "address": "전남 구례군 구례읍 동편제길 30",
-    "dongCode": "4673025023",
-    "sidoName": "전라남도",
-    "gugunName": "구례군",
-    "dongName": "구례읍 백련리"
-  },
-  "336571": {
-    "address": "전남 보성군 벌교읍 체육공원길 35",
-    "dongCode": "4678025321",
-    "sidoName": "전라남도",
-    "gugunName": "보성군",
-    "dongName": "벌교읍 벌교리"
-  },
-  "422205": {
-    "address": "대구광역시 달성군 다사읍 매곡로12길 37",
-    "dongCode": "2771025628",
-    "sidoName": "대구광역시",
-    "gugunName": "달성군",
-    "dongName": "다사읍 매곡리"
-  },
-  "437117": {
-    "address": "경북 포항시 남구 축항로 55",
-    "dongCode": "4711110400",
-    "sidoName": "경상북도",
-    "gugunName": "포항시 남구",
-    "dongName": "송도동"
-  },
-  "437118": {
-    "address": "경북 포항시 남구 오천읍 냉천로320번길 4-11",
-    "dongCode": "4711125621",
-    "sidoName": "경상북도",
-    "gugunName": "포항시 남구",
-    "dongName": "오천읍 원리"
-  },
-  "437119": {
-    "address": "경북 포항시 남구 신항로 10",
-    "dongCode": "4711110500",
-    "sidoName": "경상북도",
-    "gugunName": "포항시 남구",
-    "dongName": "청림동"
-  },
-  "437123": {
-    "address": "경북 경주시 경감로 587-18",
-    "dongCode": "4713013500",
-    "sidoName": "경상북도",
-    "gugunName": "경주시",
-    "dongName": "천군동"
-  },
-  "437124": {
-    "address": "경북 경주시 안강읍 비화동길 9-40",
-    "dongCode": "4713025333",
-    "sidoName": "경상북도",
-    "gugunName": "경주시",
-    "dongName": "안강읍 안강리"
-  },
-  "437125": {
-    "address": "경북 경주시 외동읍 입실로3길 31",
-    "dongCode": "4713025921",
-    "sidoName": "경상북도",
-    "gugunName": "경주시",
-    "dongName": "외동읍 입실리"
-  },
-  "437132": {
-    "address": "경북 김천시 공단2길 30-22",
-    "dongCode": "4715011700",
-    "sidoName": "경상북도",
-    "gugunName": "김천시",
-    "dongName": "대광동"
-  },
-  "437421": {
-    "address": "경상북도 울진군 울진읍 읍내10길 19",
-    "dongCode": "4793025021",
-    "sidoName": "경상북도",
-    "gugunName": "울진군",
-    "dongName": "울진읍 읍내리"
-  },
-  "437431": {
-    "address": "경상북도 봉화군 석포면 석포로1길 55",
-    "dongCode": "4792039021",
-    "sidoName": "경상북도",
-    "gugunName": "봉화군",
-    "dongName": "석포면 석포리"
-  },
-  "437542": {
-    "address": "경북 울릉군 울릉읍 도동2길 65",
-    "dongCode": "4794025024",
-    "sidoName": "경상북도",
-    "gugunName": "울릉군",
-    "dongName": "울릉읍 도동리"
-  },
-  "437551": {
-    "address": "경북 고령군 대가야읍 성산로 46",
-    "dongCode": "4783025324",
-    "sidoName": "경상북도",
-    "gugunName": "고령군",
-    "dongName": "대가야읍 장기리"
-  },
-  "534492": {
-    "address": "충청남도 홍성군 홍북읍 홍예공원로 8",
-    "dongCode": "4480025625",
-    "sidoName": "충청남도",
-    "gugunName": "홍성군",
-    "dongName": "홍북읍 신경리"
-  },
-  "632461": {
-    "address": "강원도 속초시 중앙시장로 43",
-    "dongCode": "4221010300",
-    "sidoName": "강원도",
-    "gugunName": "속초시",
-    "dongName": "중앙동"
-  },
-  "632481": {
-    "address": "강원도 홍천군 홍천읍 연봉동로 27",
-    "dongCode": "4272025029",
-    "sidoName": "강원도",
-    "gugunName": "홍천군",
-    "dongName": "홍천읍 연봉리"
-  },
-  "632491": {
-    "address": "강원도 영월군 영월읍 팔괴로 7-3",
-    "dongCode": "4275025022",
-    "sidoName": "강원도",
-    "gugunName": "영월군",
-    "dongName": "영월읍 하송리"
-  },
-  "632501": {
-    "address": "강원도 화천군 화천읍 화천새싹길 45",
-    "dongCode": "4279025021",
-    "sidoName": "강원도",
-    "gugunName": "화천군",
-    "dongName": "화천읍 아리"
-  },
-  "632511": {
-    "address": "강원도 태백시 태붐로 21",
-    "dongCode": "4219010100",
-    "sidoName": "강원도",
-    "gugunName": "태백시",
-    "dongName": "황지동"
-  },
-  "632521": {
-    "address": "강원도 인제군 인제읍 비봉로44번길 93",
-    "dongCode": "4281025022",
-    "sidoName": "강원도",
-    "gugunName": "인제군",
-    "dongName": "인제읍 남북리"
-  },
-  "633462": {
-    "address": "충청북도 음성군 음성읍 중앙로 49",
-    "dongCode": "4377025021",
-    "sidoName": "충청북도",
-    "gugunName": "음성군",
-    "dongName": "음성읍 읍내리"
-  },
-  "735522": {
-    "address": "충청남도 서천군 장항읍 장산로 297",
-    "dongCode": "4477025024",
-    "sidoName": "충청남도",
-    "gugunName": "서천군",
-    "dongName": "장항읍 신창리"
-  },
-  "823802": {
-    "address": "인천 강화군 길상면 강화동로 15-1",
-    "dongCode": "2871033021",
-    "sidoName": "인천광역시",
-    "gugunName": "강화군",
-    "dongName": "길상면 온수리"
-  },
-  "823803": {
-    "address": "인천 부평구 충선로 262",
-    "dongCode": "2823710500",
-    "sidoName": "인천광역시",
-    "gugunName": "부평구",
-    "dongName": "삼산동"
-  },
-  "131234": {
-    "address": "경기도 시흥시 솔고개길 33",
-    "dongCode": "4139012600",
-    "sidoName": "경기도",
-    "gugunName": "시흥시",
-    "dongName": "목감동"
-  },
-  "131474": {
-    "address": "경기 김포시 양촌읍 양곡2로30번길 46",
-    "dongCode": "4157025621",
-    "sidoName": "경기도",
-    "gugunName": "김포시",
-    "dongName": "양촌읍 양곡리"
-  },
-  "339211": {
-    "address": "제주특별자치도 제주시 1100로 3348",
-    "dongCode": "5011012200",
-    "sidoName": "제주특별자치도",
-    "gugunName": "제주시",
-    "dongName": "노형동"
-  },
-  "131374": {
-    "address": "경기도 파주시 파주읍 교육길 13",
-    "dongCode": "4148025327",
-    "sidoName": "경기도",
-    "gugunName": "파주시",
-    "dongName": "파주읍 연풍리"
-  },
-  "131444": {
-    "address": "경기도 이천시 부발읍 무촌로 117",
-    "dongCode": "4150025321",
-    "sidoName": "경기도",
-    "gugunName": "이천시",
-    "dongName": "부발읍 무촌리"
-  },
-  "131592": {
-    "address": "경기도 여주시 대신면 율촌1길 12-10",
-    "dongCode": "4167035037",
-    "sidoName": "경기도",
-    "gugunName": "여주시",
-    "dongName": "대신면 율촌리"
-  },
-  "324124": {
-    "address": "광주광역시 남구 덕남길 7",
-    "dongCode": "2915510700",
-    "sidoName": "광주광역시",
-    "gugunName": "남구",
-    "dongName": "노대동"
-  },
-  "324148": {
-    "address": "광주광역시 광산구 평동산단로 184-1",
-    "dongCode": "2920014600",
-    "sidoName": "광주광역시",
-    "gugunName": "광산구",
-    "dongName": "월전동"
-  },
-  "339123": {
-    "address": "제주특별자치도 서귀포시 남원읍 남한로 67",
-    "dongCode": "5013025321",
-    "sidoName": "제주특별자치도",
-    "gugunName": "서귀포시",
-    "dongName": "남원읍 남원리"
-  },
-  "437201": {
-    "address": "경북 영덕군 영덕읍 삼근길 6-7",
-    "dongCode": "4777025022",
-    "sidoName": "경상북도",
-    "gugunName": "영덕군",
-    "dongName": "영덕읍 화개리"
-  },
-  "534116": {
-    "address": "충남 천안시 동남구 천안천변길 127",
-    "dongCode": "4413111600",
-    "sidoName": "충청남도",
-    "gugunName": "천안시 동남구",
-    "dongName": "신방동"
-  },
-  "534424": {
-    "address": "충남 서산시 성연면 마루들길 15",
-    "dongCode": "4421036025",
-    "sidoName": "충청남도",
-    "gugunName": "서산시",
-    "dongName": "성연면 평리"
-  },
-  "633215": {
-    "address": "충청북도 청주시 상당구 가덕면 보청대로 4650",
-    "dongCode": "4311133027",
-    "sidoName": "충청북도",
-    "gugunName": "청주시 상당구",
-    "dongName": "가덕면 인차리"
-  },
-  "633312": {
-    "address": "충북 단양군 단성면 충혼로 52-1",
-    "dongCode": "4380036025",
-    "sidoName": "충청북도",
-    "gugunName": "단양군",
-    "dongName": "단성면 하방리"
-  },
-  "633313": {
-    "address": "충청북도 단양군 단양읍 별곡6길 26",
-    "dongCode": "4380025025",
-    "sidoName": "충청북도",
-    "gugunName": "단양군",
-    "dongName": "단양읍 별곡리"
-  },
-  "735124": {
-    "address": "전북 군산시 옥산면 산성로 200",
-    "dongCode": "4513031021",
-    "sidoName": "전라북도",
-    "gugunName": "군산시",
-    "dongName": "옥산면 옥산리"
-  },
-  "735125": {
-    "address": "전북 군산시 새만금북로 43",
-    "dongCode": "4513014800",
-    "sidoName": "전라북도",
-    "gugunName": "군산시",
-    "dongName": "비응도동"
-  },
-  "735131": {
-    "address": "전북 익산시 삼기면 황금로 513",
-    "dongCode": "4514043021",
-    "sidoName": "전라북도",
-    "gugunName": "익산시",
-    "dongName": "삼기면 간촌리"
-  },
-  "735135": {
-    "address": "전북 익산시 용동면 용동1길 80-4",
-    "dongCode": "4514044024",
-    "sidoName": "전라북도",
-    "gugunName": "익산시",
-    "dongName": "용동면 대조리"
-  },
-  "735136": {
-    "address": "전라북도 익산시 함열읍 함열중앙로 83",
-    "dongCode": "4514025021",
-    "sidoName": "전라북도",
-    "gugunName": "익산시",
-    "dongName": "함열읍 와리"
-  },
-  "735192": {
-    "address": "전라북도 완주군 봉동읍 삼봉로 933",
-    "dongCode": "4571025328",
-    "sidoName": "전라북도",
-    "gugunName": "완주군",
-    "dongName": "봉동읍 장기리"
-  },
-  "831493": {
-    "address": "인천광역시 옹진군 영흥면 영흥로251번길 90",
-    "dongCode": "2872036022",
-    "sidoName": "인천광역시",
-    "gugunName": "옹진군",
-    "dongName": "영흥면 내리"
-  },
-  "437133": {
-    "address": "경북 김천시 혁신4로 21",
-    "dongCode": "4715012000",
-    "sidoName": "경상북도",
-    "gugunName": "김천시",
-    "dongName": "율곡동"
+    "dongCode": "4111313400",
+    "address": "경기도 수원시 권선구 칠보로1번길 62"
+  },
+  "131120": {
+    "dongCode": "4113510800",
+    "address": "경기 성남시 분당구 판교동 652-1"
+  },
+  "131121": {
+    "dongCode": "4113110400",
+    "address": "경기 성남시 수정구 희망로 506번길 21"
+  },
+  "131123": {
+    "dongCode": "4113510300",
+    "address": "경기 성남시 분당구 돌마로 242"
+  },
+  "131124": {
+    "dongCode": "4113510200",
+    "address": "경기 성남시 분당구 분당로 50"
+  },
+  "131125": {
+    "dongCode": "4113110300",
+    "address": "경기 성남시 수정구 성남대로 1229"
+  },
+  "131128": {
+    "dongCode": "4113511500",
+    "address": "경기 성남시 분당구 운중로 138번길 10"
+  },
+  "131129": {
+    "dongCode": "4113310500",
+    "address": "경기 성남시 중원구 둔촌대로 425"
+  },
+  "131131": {
+    "dongCode": "4115010100",
+    "address": "경기 의정부시 범골로 138"
+  },
+  "131132": {
+    "dongCode": "4115010100",
+    "address": "경기 의정부시 가능로152번길 14"
   },
   "131133": {
-    "address": "경기도 의정부시 민락로243번길 94",
     "dongCode": "4115010600",
-    "sidoName": "경기도",
-    "gugunName": "의정부시",
-    "dongName": "민락동"
-  },
-  "131235": {
-    "address": "경기도 시흥시 시청로 20",
-    "dongCode": "4139012900",
-    "sidoName": "경기도",
-    "gugunName": "시흥시",
-    "dongName": "장현동"
-  },
-  "131245": {
-    "address": "경기도 남양주시 경춘로 433",
-    "dongCode": "4136011200",
-    "sidoName": "경기도",
-    "gugunName": "남양주시",
-    "dongName": "다산동"
-  },
-  "131345": {
-    "address": "경기도 평택시 청북읍 안청로2길 60",
-    "dongCode": "4122025924",
-    "sidoName": "경기도",
-    "gugunName": "평택시",
-    "dongName": "청북읍 옥길리"
-  },
-  "131394": {
-    "address": "경기도 광주시 오포읍 오포로859번길 29",
-    "dongCode": "4161025025",
-    "sidoName": "경기도",
-    "gugunName": "광주시",
-    "dongName": "오포읍 추자리"
-  },
-  "131475": {
-    "address": "경기도 김포시 김포한강2로24번길 93",
-    "dongCode": "4157010400",
-    "sidoName": "경기도",
-    "gugunName": "김포시",
-    "dongName": "장기동"
-  },
-  "131542": {
-    "address": "경기도 하남시 아리수로 531",
-    "dongCode": "4145010900",
-    "sidoName": "경기도",
-    "gugunName": "하남시",
-    "dongName": "망월동"
-  },
-  "131556": {
-    "address": "경기도 화성시 수노을중앙로 178",
-    "dongCode": "4159014000",
-    "sidoName": "경기도",
-    "gugunName": "화성시",
-    "dongName": "새솔동"
-  },
-  "131557": {
-    "address": "경기도 화성시 봉담읍 샘마을1길 8-4",
-    "dongCode": "4159025321",
-    "sidoName": "경기도",
-    "gugunName": "화성시",
-    "dongName": "봉담읍 상리"
-  },
-  "131558": {
-    "address": "경기도 화성시 서신면 궁평항로 1702",
-    "dongCode": "4159035029",
-    "sidoName": "경기도",
-    "gugunName": "화성시",
-    "dongName": "서신면 매화리"
-  },
-  "131583": {
-    "address": "경기도 안성시 공도읍 공도4로 8",
-    "dongCode": "4155025029",
-    "sidoName": "경기도",
-    "gugunName": "안성시",
-    "dongName": "공도읍 만정리"
-  },
-  "131584": {
-    "address": "경기도 안성시 죽산면 남부길 60",
-    "dongCode": "4155040021",
-    "sidoName": "경기도",
-    "gugunName": "안성시",
-    "dongName": "죽산면 죽산리"
-  },
-  "131612": {
-    "address": "경기도 가평군 설악면 한서로 8",
-    "dongCode": "4182031021",
-    "sidoName": "경기도",
-    "gugunName": "가평군",
-    "dongName": "설악면 신천리"
-  },
-  "131622": {
-    "address": "경기도 양평군 양평읍 마유산로 17",
-    "dongCode": "4183025021",
-    "sidoName": "경기도",
-    "gugunName": "양평군",
-    "dongName": "양평읍 양근리"
-  },
-  "131991": {
-    "address": "경기 연천군 중면 횡산리 산108-1",
-    "dongCode": "4180037022",
-    "sidoName": "경기도",
-    "gugunName": "연천군",
-    "dongName": "중면 횡산리"
-  },
-  "132118": {
-    "address": "강원도 춘천시 사우4길 26",
-    "dongCode": "4211011800",
-    "sidoName": "강원도",
-    "gugunName": "춘천시",
-    "dongName": "우두동"
-  },
-  "132119": {
-    "address": "강원도 춘천시 경춘로 2370",
-    "dongCode": "4211012100",
-    "sidoName": "강원도",
-    "gugunName": "춘천시",
-    "dongName": "온의동"
-  },
-  "132901": {
-    "address": "강원도 동해시 대동로 210",
-    "dongCode": "4217010300",
-    "sidoName": "강원도",
-    "gugunName": "동해시",
-    "dongName": "송정동"
-  },
-  "132902": {
-    "address": "강원도 동해시 임항로 121",
-    "dongCode": "4217011100",
-    "sidoName": "강원도",
-    "gugunName": "동해시",
-    "dongName": "발한동"
-  },
-  "132991": {
-    "address": "강원도 철원군 철원읍 산명리 1345",
-    "dongCode": "4278025000",
-    "sidoName": "강원도",
-    "gugunName": "철원군",
-    "dongName": "철원읍"
-  },
-  "132992": {
-    "address": "강원도 화천군 화천읍 풍산리 산269",
-    "dongCode": "4279025000",
-    "sidoName": "강원도",
-    "gugunName": "화천군",
-    "dongName": "화천읍"
-  },
-  "132993": {
-    "address": "강원도 고성군 수동면 신탄리 산6번지",
-    "dongCode": "4282034000",
-    "sidoName": "강원도",
-    "gugunName": "고성군",
-    "dongName": "수동면"
-  },
-  "132994": {
-    "address": "강원도 고성군 수동면 외면리 산14번지",
-    "dongCode": "4282034000",
-    "sidoName": "강원도",
-    "gugunName": "고성군",
-    "dongName": "수동면"
-  },
-  "221142": {
-    "address": "부산광역시 영도구 청학남로13번길 18",
-    "dongCode": "2620012000",
-    "sidoName": "부산광역시",
-    "gugunName": "영도구",
-    "dongName": "청학동"
-  },
-  "221183": {
-    "address": "부산광역시 북구 용당로16번길 22",
-    "dongCode": "2632010200",
-    "sidoName": "부산광역시",
-    "gugunName": "북구",
-    "dongName": "화명동"
-  },
-  "221213": {
-    "address": "부산광역시 강서구 명지동 3513-3",
-    "dongCode": "2644010400",
-    "sidoName": "부산광역시",
-    "gugunName": "강서구",
-    "dongName": "명지동"
-  },
-  "221253": {
-    "address": "부산광역시 금정구 금사로 217",
-    "dongCode": "2641011200",
-    "sidoName": "부산광역시",
-    "gugunName": "금정구",
-    "dongName": "회동동"
-  },
-  "221903": {
-    "address": "부산광역시 강서구 신항남로 354",
-    "dongCode": "2644011900",
-    "sidoName": "부산광역시",
-    "gugunName": "강서구",
-    "dongName": "성북동"
-  },
-  "238377": {
-    "address": "울산광역시 울주군 웅촌면 새초천길 12",
-    "dongCode": "3171034023",
-    "sidoName": "울산광역시",
-    "gugunName": "울주군",
-    "dongName": "웅촌면 곡천리"
-  },
-  "238378": {
-    "address": "울산광역시 울주군 범서읍 당앞로 14-50",
-    "dongCode": "3171025922",
-    "sidoName": "울산광역시",
-    "gugunName": "울주군",
-    "dongName": "범서읍 천상리"
-  },
-  "238901": {
-    "address": "경상남도 창원시 성산구 적현로 424",
-    "dongCode": "4812312100",
-    "sidoName": "경상남도",
-    "gugunName": "창원시 성산구",
-    "dongName": "귀곡동"
-  },
-  "238902": {
-    "address": "울산 남구 매암로 96",
-    "dongCode": "3114011900",
-    "sidoName": "울산광역시",
-    "gugunName": "남구",
-    "dongName": "매암동"
-  },
-  "324136": {
-    "address": "광주광역시 북구 모룡대길 68",
-    "dongCode": "2917012700",
-    "sidoName": "광주광역시",
-    "gugunName": "북구",
-    "dongName": "일곡동"
-  },
-  "324143": {
-    "address": "광주광역시 광산구 우산동 1026-2",
-    "dongCode": "2920010900",
-    "sidoName": "광주광역시",
-    "gugunName": "광산구",
-    "dongName": "우산동"
-  },
-  "336442": {
-    "address": "전라남도 영암군 영암읍 낭주로 202-2",
-    "dongCode": "4683025026",
-    "sidoName": "전라남도",
-    "gugunName": "영암군",
-    "dongName": "영암읍 역리"
-  },
-  "336462": {
-    "address": "전남 영광군 낙월면 영외리 산 118",
-    "dongCode": "4687038000",
-    "sidoName": "전라남도",
-    "gugunName": "영광군",
-    "dongName": "낙월면"
-  },
-  "336522": {
-    "address": "전라남도 신안군 흑산면 홍도1길 51-3",
-    "dongCode": "4691036029",
-    "sidoName": "전라남도",
-    "gugunName": "신안군",
-    "dongName": "흑산면 홍도리"
-  },
-  "336523": {
-    "address": "전남 신안군 흑산면 가거도리 산 4",
-    "dongCode": "4691036000",
-    "sidoName": "전라남도",
-    "gugunName": "신안군",
-    "dongName": "흑산면"
-  },
-  "336901": {
-    "address": "전남 영암군 삼호읍 용당리 2169-1",
-    "dongCode": "4683025300",
-    "sidoName": "전라남도",
-    "gugunName": "영암군",
-    "dongName": "삼호읍"
-  },
-  "336902": {
-    "address": "전남 광양시 컨부두로 316",
-    "dongCode": "4623010200",
-    "sidoName": "전라남도",
-    "gugunName": "광양시",
-    "dongName": "황길동"
-  },
-  "336903": {
-    "address": "전남 여수시 여객선터미널길 17",
-    "dongCode": "4613010800",
-    "sidoName": "전라남도",
-    "gugunName": "여수시",
-    "dongName": "교동"
-  },
-  "422206": {
-    "address": "대구광역시 달서구 구마로26길 62",
-    "dongCode": "2729012400",
-    "sidoName": "대구광역시",
-    "gugunName": "달서구",
-    "dongName": "본동"
-  },
-  "437202": {
-    "address": "경상북도 영덕군 강구면 강구리 167",
-    "dongCode": "4777031000",
-    "sidoName": "경상북도",
-    "gugunName": "영덕군",
-    "dongName": "강구면"
-  },
-  "437211": {
-    "address": "경북 문경시 시청2길 45",
-    "dongCode": "4728011000",
-    "sidoName": "경상북도",
-    "gugunName": "문경시",
-    "dongName": "모전동"
-  },
-  "437221": {
-    "address": "경상북도 성주군 성주읍 성주로 3258",
-    "dongCode": "4784025024",
-    "sidoName": "경상북도",
-    "gugunName": "성주군",
-    "dongName": "성주읍 성산리"
-  },
-  "437412": {
-    "address": "경북 의성군 의성읍 군청길 31",
-    "dongCode": "4773025021",
-    "sidoName": "경상북도",
-    "gugunName": "의성군",
-    "dongName": "의성읍 후죽리"
-  },
-  "437561": {
-    "address": "경북 군위군 군위읍 군청로 158",
-    "dongCode": "4772025021",
-    "sidoName": "경상북도",
-    "gugunName": "군위군",
-    "dongName": "군위읍 동부리"
-  },
-  "437571": {
-    "address": "경상북도 영양군 영양읍 군청길 37",
-    "dongCode": "4776025022",
-    "sidoName": "경상북도",
-    "gugunName": "영양군",
-    "dongName": "영양읍 서부리"
-  },
-  "437581": {
-    "address": "경상북도 예천군 호명면 행복7길 25-4",
-    "dongCode": "4790036046",
-    "sidoName": "경상북도",
-    "gugunName": "예천군",
-    "dongName": "호명면 산합리"
-  },
-  "437591": {
-    "address": "경북 청도군 화양읍 도주관로 159",
-    "dongCode": "4782025021",
-    "sidoName": "경상북도",
-    "gugunName": "청도군",
-    "dongName": "화양읍 동상리"
-  },
-  "437901": {
-    "address": "경북 포항시 남구 신항로 99-98",
-    "dongCode": "4711110500",
-    "sidoName": "경상북도",
-    "gugunName": "포항시 남구",
-    "dongName": "청림동"
-  },
-  "534343": {
-    "address": "충청남도 공주시 탄천면 안터새말길 34",
-    "dongCode": "4415032024",
-    "sidoName": "충청남도",
-    "gugunName": "공주시",
-    "dongName": "탄천면 안영리"
-  },
-  "534452": {
-    "address": "충청남도 논산시 연무읍 안심로 50",
-    "dongCode": "4423025321",
-    "sidoName": "충청남도",
-    "gugunName": "논산시",
-    "dongName": "연무읍 마산리"
-  },
-  "534464": {
-    "address": "충남 태안군 근흥면 가의도길 44-71번지",
-    "dongCode": "4482533029",
-    "sidoName": "충청남도",
-    "gugunName": "태안군",
-    "dongName": "근흥면 가의도리"
-  },
-  "534484": {
-    "address": "충남 보령시 오천면 외연도리 산64",
-    "dongCode": "4418032000",
-    "sidoName": "충청남도",
-    "gugunName": "보령시",
-    "dongName": "오천면"
-  },
-  "534503": {
-    "address": "충청남도 청양군 정산면 칠갑산로 1861",
-    "dongCode": "4479033021",
-    "sidoName": "충청남도",
-    "gugunName": "청양군",
-    "dongName": "정산면 서정리"
-  },
-  "534901": {
-    "address": "충청남도 당진시 신평면 매산리 975",
-    "dongCode": "4427038000",
-    "sidoName": "충청남도",
-    "gugunName": "당진시",
-    "dongName": "신평면"
-  },
-  "534902": {
-    "address": "충남 서산시 대산읍 대죽리 1114",
-    "dongCode": "4421025000",
-    "sidoName": "충청남도",
-    "gugunName": "서산시",
-    "dongName": "대산읍"
-  },
-  "534903": {
-    "address": "충남 서천군 장항읍 장산로 270-3",
-    "dongCode": "4477025024",
-    "sidoName": "충청남도",
-    "gugunName": "서천군",
-    "dongName": "장항읍 신창리"
-  },
-  "633124": {
-    "address": "충청북도 충주시 중앙탑면 기업도시로 237",
-    "dongCode": "4313038526",
-    "sidoName": "충청북도",
-    "gugunName": "충주시",
-    "dongName": "중앙탑면 용전리"
-  },
-  "633125": {
-    "address": "충청북도 충주시 살미면 세성양지말길 41",
-    "dongCode": "4313031021",
-    "sidoName": "충청북도",
-    "gugunName": "충주시",
-    "dongName": "살미면 세성리"
-  },
-  "633132": {
-    "address": "충청북도 제천시 청풍호로8길 7",
-    "dongCode": "4315011000",
-    "sidoName": "충청북도",
-    "gugunName": "제천시",
-    "dongName": "영천동"
-  },
-  "633133": {
-    "address": "충청북도 제천시 청풍면 청풍호로 2115",
-    "dongCode": "4315032041",
-    "sidoName": "충청북도",
-    "gugunName": "제천시",
-    "dongName": "청풍면 물태리"
-  },
-  "633363": {
-    "address": "충청북도 괴산군 감물면 충민로신대길 13",
-    "dongCode": "4376031026",
-    "sidoName": "충청북도",
-    "gugunName": "괴산군",
-    "dongName": "감물면 광전리"
-  },
-  "633412": {
-    "address": "충청북도 진천군 덕산읍 대월로 90",
-    "dongCode": "4375025325",
-    "sidoName": "충청북도",
-    "gugunName": "진천군",
-    "dongName": "덕산읍 두촌리"
-  },
-  "633463": {
-    "address": "충청북도 음성군 소이면 소이로 409",
-    "dongCode": "4377031021",
-    "sidoName": "충청북도",
-    "gugunName": "음성군",
-    "dongName": "소이면 대장리"
-  },
-  "735117": {
-    "address": "전라북도 전주시 덕진구 중동로 150",
-    "dongCode": "4511313200",
-    "sidoName": "전라북도",
-    "gugunName": "전주시 덕진구",
-    "dongName": "장동"
-  },
-  "735601": {
-    "address": "경상북도 청송군 청송읍 금월로 230",
-    "dongCode": "4775025023",
-    "sidoName": "경상북도",
-    "gugunName": "청송군",
-    "dongName": "청송읍 금곡리"
-  },
-  "735901": {
-    "address": "전북 군산시 서해로 194",
-    "dongCode": "4513014600",
-    "sidoName": "전라북도",
-    "gugunName": "군산시",
-    "dongName": "소룡동"
-  },
-  "823612": {
-    "address": "인천광역시 중구 서해대로 365-1",
-    "dongCode": "2811011800",
-    "sidoName": "인천광역시",
-    "gugunName": "중구",
-    "dongName": "항동7가"
-  },
-  "823613": {
-    "address": "인천광역시 중구 하늘중앙로 132",
-    "dongCode": "2811014500",
-    "sidoName": "인천광역시",
-    "gugunName": "중구",
-    "dongName": "중산동"
-  },
-  "823636": {
-    "address": "인천광역시 남동구 남동대로 668",
-    "dongCode": "2820010100",
-    "sidoName": "인천광역시",
-    "gugunName": "남동구",
-    "dongName": "구월동"
-  },
-  "823637": {
-    "address": "인천광역시 미추홀구 구월남로 27",
-    "dongCode": "2817710500",
-    "sidoName": "인천광역시",
-    "gugunName": "미추홀구",
-    "dongName": "주안동"
-  },
-  "823653": {
-    "address": "인천광역시 서구 중봉대로 274",
-    "dongCode": "2826011000",
-    "sidoName": "인천광역시",
-    "gugunName": "서구",
-    "dongName": "석남동"
-  },
-  "823672": {
-    "address": "인천광역시 남동구 서창남로 101",
-    "dongCode": "2820010500",
-    "sidoName": "인천광역시",
-    "gugunName": "남동구",
-    "dongName": "서창동"
-  },
-  "823707": {
-    "address": "인천광역시 연수구 센트럴로 350",
-    "dongCode": "2818510600",
-    "sidoName": "인천광역시",
-    "gugunName": "연수구",
-    "dongName": "송도동"
-  },
-  "823902": {
-    "address": "인천 중구 항동7가 1-48",
-    "dongCode": "2811012400",
-    "sidoName": "인천광역시",
-    "gugunName": "중구",
-    "dongName": "신포동"
-  },
-  "831494": {
-    "address": "인천 옹진군 연평면 연평리 631",
-    "dongCode": "2872038021",
-    "sidoName": "인천광역시",
-    "gugunName": "옹진군",
-    "dongName": "연평면 연평리"
-  },
-  "831495": {
-    "address": "인천 옹진군 덕적면 울도리 85번지",
-    "dongCode": "2872035000",
-    "sidoName": "인천광역시",
-    "gugunName": "옹진군",
-    "dongName": "덕적면"
-  },
-  "131395": {
-    "address": "경기도 광주시 곤지암읍 광여로 59",
-    "dongCode": "4161025921",
-    "sidoName": "경기도",
-    "gugunName": "광주시",
-    "dongName": "곤지암읍 곤지암리"
-  },
-  "131593": {
-    "address": "경기도 여주시 가남읍 태평중앙1길 20",
-    "dongCode": "4167025021",
-    "sidoName": "경기도",
-    "gugunName": "여주시",
-    "dongName": "가남읍 태평리"
-  },
-  "238113": {
-    "address": "경상남도 창원시 마산회원구 내서읍 광려로 8",
-    "dongCode": "4812725028",
-    "sidoName": "경상남도",
-    "gugunName": "창원시 마산회원구",
-    "dongName": "내서읍 삼계리"
-  },
-  "238134": {
-    "address": "경상남도 진주시 정촌면 예하리 1340",
-    "dongCode": "4817032000",
-    "sidoName": "경상남도",
-    "gugunName": "진주시",
-    "dongName": "정촌면"
-  },
-  "238203": {
-    "address": "경상남도 거제시 계룡로 125",
-    "dongCode": "4831010900",
-    "sidoName": "경상남도",
-    "gugunName": "거제시",
-    "dongName": "고현동"
-  },
-  "238212": {
-    "address": "경상남도 사천시 향촌5길 28",
-    "dongCode": "4824011600",
-    "sidoName": "경상남도",
-    "gugunName": "사천시",
-    "dongName": "향촌동"
-  },
-  "238363": {
-    "address": "경상남도 양산시 물금읍 황산로 384",
-    "dongCode": "4833025321",
-    "sidoName": "경상남도",
-    "gugunName": "양산시",
-    "dongName": "물금읍 물금리"
-  },
-  "238379": {
-    "address": "울산광역시 중구 태화동 310",
-    "dongCode": "3111011200",
-    "sidoName": "울산광역시",
-    "gugunName": "중구",
-    "dongName": "다운동"
-  },
-  "437203": {
-    "address": "경상북도 영덕군 영해면 예주3길 7",
-    "dongCode": "4777036030",
-    "sidoName": "경상북도",
-    "gugunName": "영덕군",
-    "dongName": "영해면 성내리"
-  },
-  "525144": {
-    "address": "대전광역시 유성구 테크노중앙로 88",
-    "dongCode": "3020014600",
-    "sidoName": "대전광역시",
-    "gugunName": "유성구",
-    "dongName": "관평동"
-  },
-  "131246": {
-    "address": "경기도 남양주시 와부읍 도곡길 7",
-    "dongCode": "4136025022",
-    "sidoName": "경기도",
-    "gugunName": "남양주시",
-    "dongName": "와부읍 도곡리"
-  },
-  "131247": {
-    "address": "경기도 남양주시 진접읍 금강로 1509-26",
-    "dongCode": "4136025321",
-    "sidoName": "경기도",
-    "gugunName": "남양주시",
-    "dongName": "진접읍 장현리"
-  },
-  "336572": {
-    "address": "전라남도 보성군 보성읍 현충로 42-36",
-    "dongCode": "4678025028",
-    "sidoName": "전라남도",
-    "gugunName": "보성군",
-    "dongName": "보성읍 원봉리"
-  },
-  "339113": {
-    "address": "제주특별자치도 제주시 조천읍 조천18길 11-1",
-    "dongCode": "5011025923",
-    "sidoName": "제주특별자치도",
-    "gugunName": "제주시",
-    "dongName": "조천읍 조천리"
-  },
-  "339114": {
-    "address": "제주특별자치도 제주시 한림읍 한림중앙로 71-9",
-    "dongCode": "5011025024",
-    "sidoName": "제주특별자치도",
-    "gugunName": "제주시",
-    "dongName": "한림읍 한림리"
-  },
-  "735126": {
-    "address": "전라북도 군산시 옥도면 말도2길 29",
-    "dongCode": "4513039030",
-    "sidoName": "전라북도",
-    "gugunName": "군산시",
-    "dongName": "옥도면 말도리"
-  },
-  "735362": {
-    "address": "전라북도 임실군 관촌면 사선1길 13",
-    "dongCode": "4575038026",
-    "sidoName": "전라북도",
-    "gugunName": "임실군",
-    "dongName": "관촌면 관촌리"
+    "address": "경기도 의정부시 민락로243번길 94"
+  },
+  "131141": {
+    "dongCode": "4117110100",
+    "address": "경기도 안양시 만안구 문예로36번길 16"
+  },
+  "131142": {
+    "dongCode": "4117310200",
+    "address": "경기 안양시 동안구 시민대로 235"
   },
   "131144": {
-    "address": "경기도 안양시 동안구 경수대로 504",
     "dongCode": "4117310400",
-    "sidoName": "경기도",
-    "gugunName": "안양시 동안구",
-    "dongName": "호계동"
+    "address": "경기도 안양시 동안구 경수대로 504"
+  },
+  "131145": {
+    "dongCode": "4117110100",
+    "address": "경기 안양시 만안구 안양로 384번길 50"
+  },
+  "131161": {
+    "dongCode": "4121010200",
+    "address": "경기 광명시 시청로 20"
+  },
+  "131163": {
+    "dongCode": "4121010400",
+    "address": "경기 광명시 소하일로 7"
+  },
+  "131191": {
+    "dongCode": "4127310100",
+    "address": "경기 안산시 단원구 화랑로 387"
+  },
+  "131192": {
+    "dongCode": "4127310500",
+    "address": "경기 안산시 단원구 산단로 112 근로복지관"
   },
   "131193": {
-    "address": "경기도 안산시 상록구 오목로7길 15",
     "dongCode": "4127110400",
-    "sidoName": "경기도",
-    "gugunName": "안산시 상록구",
-    "dongName": "본오동"
+    "address": "경기도 안산시 상록구 오목로7길 15"
+  },
+  "131194": {
+    "dongCode": "4127310800",
+    "address": "경기도 안산시 단원구 부부로6길 17"
+  },
+  "131195": {
+    "dongCode": "4127110700",
+    "address": "경기 안산시 상록구 성호로 326"
+  },
+  "131196": {
+    "dongCode": "4127311100",
+    "address": "경기 안산시 단원구 대부중앙로 97-9"
+  },
+  "131197": {
+    "dongCode": "4127310100",
+    "address": "경기 안산시 단원구 안산천남로 119"
+  },
+  "131201": {
+    "dongCode": "4129010900",
+    "address": "경기 과천시 코오롱로 53"
+  },
+  "131211": {
+    "dongCode": "4131010400",
+    "address": "경기 구리시 아차산로 439"
+  },
+  "131212": {
+    "dongCode": "4131010300",
+    "address": "경기 구리시 동구릉로 217-14"
+  },
+  "131222": {
+    "dongCode": "4143010300",
+    "address": "경기도 의왕시 덕영대로 166"
+  },
+  "131223": {
+    "dongCode": "4143010100",
+    "address": "경기 의왕시 시청로 11"
+  },
+  "131231": {
+    "dongCode": "4139013200",
+    "address": "경기 시흥시 정왕대로 233번길 19"
+  },
+  "131232": {
+    "dongCode": "4139013200",
+    "address": "경기 시흥시 공단1대로 204"
+  },
+  "131233": {
+    "dongCode": "4139010100",
+    "address": "경기 시흥시 복지로 37"
+  },
+  "131234": {
+    "dongCode": "4139012600",
+    "address": "경기도 시흥시 솔고개길 33"
+  },
+  "131235": {
+    "dongCode": "4139012900",
+    "address": "경기도 시흥시 시청로 20"
   },
   "131236": {
-    "address": "경기도 시흥시 서해안로 277",
     "dongCode": "4139013200",
-    "sidoName": "경기도",
-    "gugunName": "시흥시",
-    "dongName": "정왕동"
+    "address": "경기도 시흥시 서해안로 277"
   },
   "131237": {
-    "address": "경기도 시흥시 배곧4로 102",
     "dongCode": "4139013500",
-    "sidoName": "경기도",
-    "gugunName": "시흥시",
-    "dongName": "배곧동"
+    "address": "경기도 시흥시 배곧4로 102"
+  },
+  "131241": {
+    "dongCode": "4136010300",
+    "address": "경기 남양주시 경춘로 1037"
+  },
+  "131242": {
+    "dongCode": "4136026221",
+    "address": "경기 남양주시 오남읍 진건오남로 806-34"
+  },
+  "131243": {
+    "dongCode": "4136011100",
+    "address": "경기도 남양주시 별내중앙로 148"
+  },
+  "131244": {
+    "dongCode": "4136025621",
+    "address": "경기도 남양주시 화도읍 비룡로 59"
+  },
+  "131245": {
+    "dongCode": "4136011200",
+    "address": "경기도 남양주시 경춘로 433"
+  },
+  "131246": {
+    "dongCode": "4136025022",
+    "address": "경기도 남양주시 와부읍 도곡길 7"
+  },
+  "131247": {
+    "dongCode": "4136025321",
+    "address": "경기도 남양주시 진접읍 금강로 1509-26"
+  },
+  "131341": {
+    "dongCode": "4122011800",
+    "address": "경기 평택시 중앙로 275"
+  },
+  "131342": {
+    "dongCode": "4122025321",
+    "address": "경기 평택시 안중읍 안현로 400"
+  },
+  "131343": {
+    "dongCode": "4122025624",
+    "address": "경기 평택시 포승읍 평택항로184번길 38"
+  },
+  "131344": {
+    "dongCode": "4122011000",
+    "address": "경기도 평택시 지산2로 113"
+  },
+  "131345": {
+    "dongCode": "4122025924",
+    "address": "경기도 평택시 청북읍 안청로2길 60"
+  },
+  "131371": {
+    "dongCode": "4148010100",
+    "address": "경기 파주시 후곡로 13"
+  },
+  "131372": {
+    "dongCode": "4148012200",
+    "address": "경기 파주시 와석순환로 470"
+  },
+  "131373": {
+    "dongCode": "4148038000",
+    "address": "경기 파주시 군내면 통일촌길"
+  },
+  "131374": {
+    "dongCode": "4148025327",
+    "address": "경기도 파주시 파주읍 교육길 13"
+  },
+  "131381": {
+    "dongCode": "4128112800",
+    "address": "경기 고양시 덕양구 화신로 148 행신배수지"
+  },
+  "131382": {
+    "dongCode": "4128510100",
+    "address": "경기 고양시 일산동구 위시티로 151"
+  },
+  "131383": {
+    "dongCode": "4128510400",
+    "address": "경기 고양시 일산동구 장항2동 888"
+  },
+  "131384": {
+    "dongCode": "4128110300",
+    "address": "경기 고양시 덕양구 신원2로 24"
+  },
+  "131385": {
+    "dongCode": "4128710200",
+    "address": "경기도 고양시 일산서구 주엽로 104"
+  },
+  "131392": {
+    "dongCode": "4161010100",
+    "address": "경기 광주시 중앙로 128"
+  },
+  "131394": {
+    "dongCode": "4161025025",
+    "address": "경기도 광주시 오포읍 오포로859번길 29"
+  },
+  "131395": {
+    "dongCode": "4161025921",
+    "address": "경기도 광주시 곤지암읍 광여로 59"
+  },
+  "131411": {
+    "dongCode": "4146110100",
+    "address": "경기 용인시 처인구 금령로 50"
+  },
+  "131412": {
+    "dongCode": "4146510100",
+    "address": "경기 용인시 수지구 수지로 342번길3"
+  },
+  "131413": {
+    "dongCode": "4146310200",
+    "address": "경기 용인시 기흥구 관곡로 95"
+  },
+  "131414": {
+    "dongCode": "4146310200",
+    "address": "경기 용인시 기흥구 구갈동 505-3"
+  },
+  "131415": {
+    "dongCode": "4146125322",
+    "address": "경기도 용인시 처인구 모현읍 독점로 31-6"
+  },
+  "131416": {
+    "dongCode": "4146125621",
+    "address": "경기도 용인시 처인구 이동읍 경기동로 673"
+  },
+  "131417": {
+    "dongCode": "4146135021",
+    "address": "경기도 용인시 처인구 백암면 백암로185번길 8-11"
+  },
+  "131441": {
+    "dongCode": "4150037025",
+    "address": "경기 이천시 설성면 신필리"
+  },
+  "131442": {
+    "dongCode": "4150010100",
+    "address": "경기 이천시 영창로 163번길 28"
+  },
+  "131443": {
+    "dongCode": "4150025022",
+    "address": "경기 이천시 장호원읍 오남리 27"
+  },
+  "131444": {
+    "dongCode": "4150025321",
+    "address": "경기도 이천시 부발읍 무촌로 117"
+  },
+  "131451": {
+    "dongCode": "4165040000",
+    "address": "경기 포천시 관인면"
+  },
+  "131453": {
+    "dongCode": "4165010400",
+    "address": "경기 포천시 삼육사로 2186번길 11-15"
+  },
+  "131454": {
+    "dongCode": "4165037023",
+    "address": "경기도 포천시 일동면 화동로1099번길 30"
+  },
+  "131471": {
+    "dongCode": "4157010600",
+    "address": "경기 김포시 돌문로 51"
+  },
+  "131472": {
+    "dongCode": "4157025322",
+    "address": "경기 김포시 고촌읍 신곡로 152"
+  },
+  "131473": {
+    "dongCode": "4157035021",
+    "address": "경기도 김포시 월곶면 군하로 263"
+  },
+  "131474": {
+    "dongCode": "4157025621",
+    "address": "경기 김포시 양촌읍 양곡2로30번길 46"
+  },
+  "131475": {
+    "dongCode": "4157010400",
+    "address": "경기도 김포시 김포한강2로24번길 93"
+  },
+  "131501": {
+    "dongCode": "4141010100",
+    "address": "경기 군포시 산본로197번길 36"
+  },
+  "131502": {
+    "dongCode": "4141010500",
+    "address": "경기 군포시 청백리길 6"
+  },
+  "131531": {
+    "dongCode": "4137010100",
+    "address": "경기 오산시 경기동로 51"
+  },
+  "131532": {
+    "dongCode": "4137010700",
+    "address": "경기도 오산시 금암로 7"
+  },
+  "131541": {
+    "dongCode": "4145010600",
+    "address": "경기 하남시 대청로 10"
+  },
+  "131542": {
+    "dongCode": "4145010900",
+    "address": "경기도 하남시 아리수로 531"
+  },
+  "131551": {
+    "dongCode": "4159026221",
+    "address": "경기 화성시 남양읍 남양성지로 192-5"
+  },
+  "131552": {
+    "dongCode": "4159025939",
+    "address": "경기 화성시 향남읍 발안로 89"
+  },
+  "131553": {
+    "dongCode": "4159012700",
+    "address": "경기 화성시 동탄반석로 87"
+  },
+  "131554": {
+    "dongCode": "4159025632",
+    "address": "경기도 화성시 우정읍 쌍봉로 109-14"
+  },
+  "131555": {
+    "dongCode": "4159013000",
+    "address": "경기도 화성시 동탄순환대로22길 13"
+  },
+  "131556": {
+    "dongCode": "4159014000",
+    "address": "경기도 화성시 수노을중앙로 178"
+  },
+  "131557": {
+    "dongCode": "4159025321",
+    "address": "경기도 화성시 봉담읍 샘마을1길 8-4"
+  },
+  "131558": {
+    "dongCode": "4159035029",
+    "address": "경기도 화성시 서신면 궁평항로 1702"
+  },
+  "131561": {
+    "dongCode": "4163025022",
+    "address": "경기 양주시 백석읍 꿈나무로 199"
+  },
+  "131562": {
+    "dongCode": "4163010600",
+    "address": "경기 양주시 고읍남로 205"
+  },
+  "131571": {
+    "dongCode": "4125010600",
+    "address": "경기 동두천시 싸리말로 28"
+  },
+  "131581": {
+    "dongCode": "4155010100",
+    "address": "경기 안성시 시청길 25"
+  },
+  "131583": {
+    "dongCode": "4155025029",
+    "address": "경기도 안성시 공도읍 공도4로 8"
+  },
+  "131584": {
+    "dongCode": "4155040021",
+    "address": "경기도 안성시 죽산면 남부길 60"
+  },
+  "131591": {
+    "dongCode": "4167010700",
+    "address": "경기 여주시 여흥로11번길 26"
+  },
+  "131592": {
+    "dongCode": "4167035037",
+    "address": "경기도 여주시 대신면 율촌1길 12-10"
+  },
+  "131593": {
+    "dongCode": "4167025021",
+    "address": "경기도 여주시 가남읍 태평중앙1길 20"
+  },
+  "131601": {
+    "dongCode": "4180025021",
+    "address": "경기 연천군 연천읍 차현로 58"
+  },
+  "131611": {
+    "dongCode": "4182025021",
+    "address": "경기도 가평군 가평읍 석봉로 181"
+  },
+  "131612": {
+    "dongCode": "4182031021",
+    "address": "경기도 가평군 설악면 한서로 8"
+  },
+  "131621": {
+    "dongCode": "4183040024",
+    "address": "경기 양평군 용문면 용문로 395"
+  },
+  "131622": {
+    "dongCode": "4183025021",
+    "address": "경기도 양평군 양평읍 마유산로 17"
+  },
+  "131991": {
+    "dongCode": "4180037022",
+    "address": "경기 연천군 중면 횡산리 산108-1"
+  },
+  "132113": {
+    "dongCode": "4211012400",
+    "address": "강원 춘천시 외솔길 17(석사동 322-1)"
+  },
+  "132118": {
+    "dongCode": "4211011800",
+    "address": "강원도 춘천시 사우4길 26"
+  },
+  "132119": {
+    "dongCode": "4211012100",
+    "address": "강원도 춘천시 경춘로 2370"
+  },
+  "132402": {
+    "dongCode": "4280025022",
+    "address": "강원도 양구군 양구읍 관공서로 33"
+  },
+  "132901": {
+    "dongCode": "4217010300",
+    "address": "강원도 동해시 대동로 210"
+  },
+  "132902": {
+    "dongCode": "4217011100",
+    "address": "강원도 동해시 임항로 121"
+  },
+  "132991": {
+    "dongCode": "4278025031",
+    "address": "강원도 철원군 철원읍 산명리 1345"
+  },
+  "132992": {
+    "dongCode": "4279025026",
+    "address": "강원도 화천군 화천읍 풍산리 산269"
+  },
+  "132993": {
+    "dongCode": "4282034026",
+    "address": "강원도 고성군 수동면 신탄리 산6번지"
+  },
+  "132994": {
+    "dongCode": "4282034022",
+    "address": "강원도 고성군 수동면 외면리 산14번지"
+  },
+  "221112": {
+    "dongCode": "2611012700",
+    "address": "부산 중구 광복로 55번길 10"
+  },
+  "221131": {
+    "dongCode": "2617010200",
+    "address": "부산 동구 중앙대로349번길 14"
+  },
+  "221141": {
+    "dongCode": "2620012100",
+    "address": "부산 영도구 전망로 24"
+  },
+  "221142": {
+    "dongCode": "2620012000",
+    "address": "부산광역시 영도구 청학남로13번길 18"
+  },
+  "221152": {
+    "dongCode": "2623010200",
+    "address": "부산광역시 부산진구 전포대로209번길 26"
+  },
+  "221162": {
+    "dongCode": "2626010800",
+    "address": "부산 동래구 중앙대로1335번길 38"
+  },
+  "221163": {
+    "dongCode": "2626010100",
+    "address": "부산 동래구 명장로 32"
+  },
+  "221172": {
+    "dongCode": "2629010600",
+    "address": "부산 남구 수영로 196번길 80"
+  },
+  "221181": {
+    "dongCode": "2653010700",
+    "address": "부산 사상구 대동로 205"
+  },
+  "221182": {
+    "dongCode": "2632010500",
+    "address": "부산 북구 덕천2길 10"
+  },
+  "221183": {
+    "dongCode": "2632010200",
+    "address": "부산광역시 북구 용당로16번길 22"
   },
   "221184": {
-    "address": "부산광역시 사상구 모덕로 2",
     "dongCode": "2653010100",
-    "sidoName": "부산광역시",
-    "gugunName": "사상구",
-    "dongName": "삼락동"
+    "address": "부산광역시 사상구 모덕로 2"
+  },
+  "221191": {
+    "dongCode": "2641010300",
+    "address": "부산 금정구 청룡로 25"
+  },
+  "221192": {
+    "dongCode": "2635010700",
+    "address": "부산 해운대구 양운로 91"
+  },
+  "221202": {
+    "dongCode": "2638010500",
+    "address": "부산 사하구 장림로 161번길 2"
+  },
+  "221211": {
+    "dongCode": "2644010100",
+    "address": "부산광역시 강서구 체육공원로 43"
+  },
+  "221213": {
+    "dongCode": "2644010400",
+    "address": "부산광역시 강서구 명지동 3513-3"
+  },
+  "221221": {
+    "dongCode": "2647010200",
+    "address": "부산 연제구 중앙대로 1001"
+  },
+  "221231": {
+    "dongCode": "2671025021",
+    "address": "부산 기장군 기장읍 읍내로 69"
+  },
+  "221233": {
+    "dongCode": "2671025628",
+    "address": "부산 기장군 정관읍 용수로 4"
+  },
+  "221241": {
+    "dongCode": "2617010200",
+    "address": "부산 동구 구청로 1"
+  },
+  "221251": {
+    "dongCode": "2641010900",
+    "address": "부산 금정구 부곡로156번길 7"
+  },
+  "221253": {
+    "dongCode": "2641011200",
+    "address": "부산광역시 금정구 금사로 217"
+  },
+  "221271": {
+    "dongCode": "2650010400",
+    "address": "부산 수영구 광안로21번가길 57"
+  },
+  "221281": {
+    "dongCode": "2614010600",
+    "address": "부산 서구 대신로 150"
+  },
+  "221282": {
+    "dongCode": "2653010300",
+    "address": "부산 사상구 삼덕로 83"
+  },
+  "221283": {
+    "dongCode": "2623011100",
+    "address": "부산광역시 부산진구 개금온정로17번길 51"
+  },
+  "221284": {
+    "dongCode": "2638010200",
+    "address": "부산 사하구 제석로 41"
+  },
+  "221901": {
+    "dongCode": "2617010300",
+    "address": "부산 동구 충장대로 314"
+  },
+  "221902": {
+    "dongCode": "2644011900",
+    "address": "부산 강서구 신항남로 416"
+  },
+  "221903": {
+    "dongCode": "2644011900",
+    "address": "부산광역시 강서구 신항남로 354"
+  },
+  "238112": {
+    "dongCode": "4812710300",
+    "address": "경상남도 창원시 마산회원구 봉양로 148"
+  },
+  "238113": {
+    "dongCode": "4812725028",
+    "address": "경상남도 창원시 마산회원구 내서읍 광려로 8"
+  },
+  "238120": {
+    "dongCode": "3117010200",
+    "address": "울산 동구 대송5길 10"
+  },
+  "238121": {
+    "dongCode": "3111010600",
+    "address": "울산 중구 새즈믄해거리 28"
+  },
+  "238122": {
+    "dongCode": "3114011100",
+    "address": "울산 남구 처용로 260-37"
+  },
+  "238123": {
+    "dongCode": "3114011900",
+    "address": "울산 남구 부두로 9"
+  },
+  "238124": {
+    "dongCode": "3114010800",
+    "address": "울산 남구 대암로 90번길 27"
+  },
+  "238125": {
+    "dongCode": "3114010600",
+    "address": "울산 남구 삼산중로 131번길 36"
+  },
+  "238126": {
+    "dongCode": "",
+    "address": "울산 남구 신정2동(문수로)"
+  },
+  "238127": {
+    "dongCode": "3114010400",
+    "address": "울산 남구 봉월로 20번길 9"
+  },
+  "238128": {
+    "dongCode": "3171025032",
+    "address": "울산광역시 울주군 온산읍 덕신로 229"
+  },
+  "238129": {
+    "dongCode": "3114010100",
+    "address": "울산 남구 대학로 147번길 38"
+  },
+  "238130": {
+    "dongCode": "3120012300",
+    "address": "울산 북구 염포로 290"
+  },
+  "238131": {
+    "dongCode": "4817011300",
+    "address": "경상남도 진주시 북장대로64번길 14"
+  },
+  "238132": {
+    "dongCode": "4817010900",
+    "address": "경남 진주시 진주대로 1052"
+  },
+  "238133": {
+    "dongCode": "4817011900",
+    "address": "경남 진주시 동진로 279"
+  },
+  "238134": {
+    "dongCode": "4817032025",
+    "address": "경상남도 진주시 정촌면 예하리 1340"
+  },
+  "238141": {
+    "dongCode": "4812112400",
+    "address": "경상남도 창원시 의창구 우곡로101번길 28"
+  },
+  "238142": {
+    "dongCode": "4812312900",
+    "address": "경남 창원시 성산구 공단로 303"
+  },
+  "238143": {
+    "dongCode": "4812312800",
+    "address": "경남 창원시 성산구 외리로14번길 18"
+  },
+  "238146": {
+    "dongCode": "4812313000",
+    "address": "경남 창원시 성산구 창이대로 706번길 16-23"
+  },
+  "238151": {
+    "dongCode": "4812913900",
+    "address": "경남 창원시 진해구 경화로16번길 31"
+  },
+  "238152": {
+    "dongCode": "4812515800",
+    "address": "경남 창원시 마산합포구 월영동16길 22"
+  },
+  "238161": {
+    "dongCode": "4885025021",
+    "address": "경남 하동군 하동읍 군청로 23"
   },
   "238162": {
-    "address": "경상남도 하동군 금성면 금성중앙길 14",
     "dongCode": "4885042022",
-    "sidoName": "경상남도",
-    "gugunName": "하동군",
-    "dongName": "금성면 궁항리"
+    "address": "경상남도 하동군 금성면 금성중앙길 14"
+  },
+  "238181": {
+    "dongCode": "4825010100",
+    "address": "경남 김해시 호계로 517번길 8"
+  },
+  "238182": {
+    "dongCode": "4825011900",
+    "address": "경남 김해시 활천로 303"
+  },
+  "238184": {
+    "dongCode": "4825025026",
+    "address": "경남 김해시 진영읍 김해대로365번길 6-24"
   },
   "238185": {
-    "address": "경상남도 김해시 김해대로 2515",
     "dongCode": "4825011700",
-    "sidoName": "경상남도",
-    "gugunName": "김해시",
-    "dongName": "삼정동"
+    "address": "경상남도 김해시 김해대로 2515"
+  },
+  "238191": {
+    "dongCode": "4831033022",
+    "address": "경남 거제시 남부면 저구리"
+  },
+  "238201": {
+    "dongCode": "4831010500",
+    "address": "경남 거제시 아주동 산164-1"
+  },
+  "238203": {
+    "dongCode": "4831010900",
+    "address": "경상남도 거제시 계룡로 125"
+  },
+  "238211": {
+    "dongCode": "4824025023",
+    "address": "경남 사천시 사천읍 읍내로 52"
+  },
+  "238212": {
+    "dongCode": "4824011600",
+    "address": "경상남도 사천시 향촌5길 28"
+  },
+  "238361": {
+    "dongCode": "4833010400",
+    "address": "경상남도 양산시 북안남5길 21"
+  },
+  "238362": {
+    "dongCode": "4833011400",
+    "address": "경상남도 양산시 삼호9길 11"
+  },
+  "238363": {
+    "dongCode": "4833025321",
+    "address": "경상남도 양산시 물금읍 황산로 384"
+  },
+  "238371": {
+    "dongCode": "3171025028",
+    "address": "울산 울주군 온산읍 산암로 94"
+  },
+  "238373": {
+    "dongCode": "3171026223",
+    "address": "울산 울주군 청량면 신덕하3길 5"
+  },
+  "238374": {
+    "dongCode": "3120010100",
+    "address": "울산광역시 북구 호수중앙로 14"
+  },
+  "238375": {
+    "dongCode": "3171026521",
+    "address": "울산광역시 울주군 삼남읍 서향교1길 67-12"
+  },
+  "238376": {
+    "dongCode": "3111011700",
+    "address": "울산 중구 종가로 560"
+  },
+  "238377": {
+    "dongCode": "3171034023",
+    "address": "울산광역시 울주군 웅촌면 새초천길 12"
+  },
+  "238378": {
+    "dongCode": "3171025922",
+    "address": "울산광역시 울주군 범서읍 당앞로 14-50"
+  },
+  "238379": {
+    "dongCode": "3111011100",
+    "address": "울산광역시 중구 태화동 310"
+  },
+  "238381": {
+    "dongCode": "3117010400",
+    "address": "울산광역시 동구 진성4길 45"
+  },
+  "238401": {
+    "dongCode": "4827010100",
+    "address": "경상남도 밀양시 중앙로 346"
+  },
+  "238411": {
+    "dongCode": "4822011100",
+    "address": "경상남도 통영시 안개4길 53"
+  },
+  "238421": {
+    "dongCode": "4882025021",
+    "address": "경상남도 고성군 고성읍 중앙로 35"
+  },
+  "238431": {
+    "dongCode": "4888025021",
+    "address": "경남 거창군 거창읍 거열로 90"
+  },
+  "238441": {
+    "dongCode": "4873025021",
+    "address": "경남 함안군 가야읍 함안대로 505"
+  },
+  "238451": {
+    "dongCode": "4887025021",
+    "address": "경상남도 함양군 함양읍 고운로 35"
+  },
+  "238461": {
+    "dongCode": "4884025023",
+    "address": "경상남도 남해군 남해읍 남해대로 2745"
+  },
+  "238471": {
+    "dongCode": "4886025022",
+    "address": "경남 산청군 산청읍 산엔청로 6"
+  },
+  "238481": {
+    "dongCode": "4888037021",
+    "address": "경상남도 거창군 남상면 인평길 36"
+  },
+  "238491": {
+    "dongCode": "4872025021",
+    "address": "경남 의령군 의령읍 의병로8길 44"
+  },
+  "238501": {
+    "dongCode": "4874025022",
+    "address": "경남 창녕군 창녕읍 우포2로 1189-35"
+  },
+  "238511": {
+    "dongCode": "4889025021",
+    "address": "경상남도 합천군 합천읍 대야로 888-20"
+  },
+  "238901": {
+    "dongCode": "4812312100",
+    "address": "경상남도 창원시 성산구 적현로 424"
+  },
+  "238902": {
+    "dongCode": "3114011900",
+    "address": "울산 남구 매암로 96"
+  },
+  "324115": {
+    "dongCode": "2911011800",
+    "address": "광주 동구 서남로 1"
+  },
+  "324121": {
+    "dongCode": "2914010600",
+    "address": "광주 서구 상무대로 1165 (광주시립미술관 상록전시관 단독건물)"
+  },
+  "324123": {
+    "dongCode": "2914012000",
+    "address": "광주 서구 상무자유로 170"
+  },
+  "324124": {
+    "dongCode": "2915510700",
+    "address": "광주광역시 남구 덕남길 7"
+  },
+  "324133": {
+    "dongCode": "2917011400",
+    "address": "광주 북구 군왕로 141번길 6 (두암보건지소)"
+  },
+  "324134": {
+    "dongCode": "2917010900",
+    "address": "광주 북구 북문대로 79"
+  },
+  "324135": {
+    "dongCode": "2917014000",
+    "address": "광주 북구 첨단과기로 333 (광주테크노파크 벤처지원센터 옥상)"
+  },
+  "324136": {
+    "dongCode": "2917012700",
+    "address": "광주광역시 북구 모룡대길 68"
+  },
+  "324142": {
+    "dongCode": "2920020200",
+    "address": "광주 광산구 하남산단 6번로 107"
+  },
+  "324143": {
+    "dongCode": "2920010900",
+    "address": "광주광역시 광산구 우산동 1026-2"
+  },
+  "324148": {
+    "dongCode": "2920014600",
+    "address": "광주광역시 광산구 평동산단로 184-1"
+  },
+  "324155": {
+    "dongCode": "2915510600",
+    "address": "광주 남구 회서로 21번가길 13"
+  },
+  "335115": {
+    "dongCode": "4511114700",
+    "address": "전북 전주시 완산구 물왕멀3길 29"
+  },
+  "336111": {
+    "dongCode": "4611010100",
+    "address": "전남 목포시 동부로 31번길 20(용당1동 주민센터 옥상)"
+  },
+  "336112": {
+    "dongCode": "4611016400",
+    "address": "전남 목포시 삼향천로 28(옥암동)"
+  },
+  "336121": {
+    "dongCode": "4613011300",
+    "address": "전라남도 여수시 서교1길 28-1"
+  },
+  "336125": {
+    "dongCode": "4613012000",
+    "address": "전남 여수시 여문1로 71(문수동)"
+  },
+  "336127": {
+    "dongCode": "4613013500",
+    "address": "전남 여수시 무선로 190(선원동)"
+  },
+  "336128": {
+    "dongCode": "4613012600",
+    "address": "전남 여수시 덕충안길 95"
+  },
+  "336131": {
+    "dongCode": "4615011900",
+    "address": "전남 순천시 장명로 30(장천동)"
+  },
+  "336132": {
+    "dongCode": "4615011400",
+    "address": "전남 순천시 연향번영길 54(연향동)"
+  },
+  "336133": {
+    "dongCode": "4615013100",
+    "address": "전남 순천시 순천만길 513-25(대대동)"
+  },
+  "336134": {
+    "dongCode": "4615031030",
+    "address": "전남 순천시 해룡면 호두리 276-9"
+  },
+  "336135": {
+    "dongCode": "4615031022",
+    "address": "전라남도 순천시 해룡면 매안로 162"
+  },
+  "336141": {
+    "dongCode": "4617013400",
+    "address": "전남 나주시 빛가람로 719"
+  },
+  "336151": {
+    "dongCode": "4671025022",
+    "address": "전라남도 담양군 담양읍 면앙정로 730"
+  },
+  "336161": {
+    "dongCode": "4688025024",
+    "address": "전남 장성군 장성읍 영천로 211"
+  },
+  "336221": {
+    "dongCode": "4613033026",
+    "address": "전라남도 여수시 화양면 평촌길 2-6"
+  },
+  "336222": {
+    "dongCode": "4613032021",
+    "address": "전라남도 여수시 율촌면 동산개길 2"
+  },
+  "336223": {
+    "dongCode": "4613015000",
+    "address": "전라남도 여수시 상암로 601-1"
+  },
+  "336352": {
+    "dongCode": "4623010600",
+    "address": "전남 광양시 중마중앙로 109"
+  },
+  "336353": {
+    "dongCode": "4623010900",
+    "address": "전남 광양시 태인길 376(태인동)"
+  },
+  "336354": {
+    "dongCode": "4623034022",
+    "address": "전남 광양시 진상면 신시길 227(섬거리)"
+  },
+  "336355": {
+    "dongCode": "4623025023",
+    "address": "전남 광양시 광양읍 인덕로 1100(칠성리)"
+  },
+  "336361": {
+    "dongCode": "4682025024",
+    "address": "전라남도 해남군 해남읍 남부순환로 114"
+  },
+  "336441": {
+    "dongCode": "4683025326",
+    "address": "전라남도 영암군 삼호읍 대불주거9로 27"
+  },
+  "336442": {
+    "dongCode": "4683025026",
+    "address": "전라남도 영암군 영암읍 낭주로 202-2"
+  },
+  "336451": {
+    "dongCode": "4679039527",
+    "address": "전남 화순군 북면 송단리"
+  },
+  "336452": {
+    "dongCode": "4679025025",
+    "address": "전라남도 화순군 화순읍 동헌길 9-24"
+  },
+  "336461": {
+    "dongCode": "4687025021",
+    "address": "전라남도 영광군 영광읍 물무로2길 61"
+  },
+  "336462": {
+    "dongCode": "4687038027",
+    "address": "전남 영광군 낙월면 영외리 산 118"
+  },
+  "336471": {
+    "dongCode": "4680025037",
+    "address": "전라남도 장흥군 장흥읍 흥성로 23"
+  },
+  "336481": {
+    "dongCode": "4690025021",
+    "address": "전라남도 진도군 진도읍 진도대로 7195"
+  },
+  "336491": {
+    "dongCode": "4689032022",
+    "address": "전라남도 완도군 신지면 신지로 567"
+  },
+  "336501": {
+    "dongCode": "4686025023",
+    "address": "전라남도 함평군 함평읍 중앙길 39"
+  },
+  "336511": {
+    "dongCode": "4677025026",
+    "address": "전라남도 고흥군 고흥읍 터미널길 11"
+  },
+  "336521": {
+    "dongCode": "4691040044",
+    "address": "전라남도 신안군 안좌면 중부로 860"
+  },
+  "336522": {
+    "dongCode": "4691036029",
+    "address": "전라남도 신안군 흑산면 홍도1길 51-3"
+  },
+  "336523": {
+    "dongCode": "4691036032",
+    "address": "전남 신안군 흑산면 가거도리 산 4"
+  },
+  "336531": {
+    "dongCode": "4684025021",
+    "address": "전라남도 무안군 무안읍 성내1길 2"
+  },
+  "336541": {
+    "dongCode": "4681025021",
+    "address": "전라남도 강진군 강진읍 동성로 72"
+  },
+  "336551": {
+    "dongCode": "4672025022",
+    "address": "전남 곡성군 곡성읍 학정3길 6"
+  },
+  "336561": {
+    "dongCode": "4673025023",
+    "address": "전남 구례군 구례읍 동편제길 30"
+  },
+  "336571": {
+    "dongCode": "4678025321",
+    "address": "전남 보성군 벌교읍 체육공원길 35"
+  },
+  "336572": {
+    "dongCode": "4678025028",
+    "address": "전라남도 보성군 보성읍 현충로 42-36"
+  },
+  "336901": {
+    "dongCode": "4683025329",
+    "address": "전남 영암군 삼호읍 용당리 2169-1"
+  },
+  "336902": {
+    "dongCode": "4623010200",
+    "address": "전남 광양시 컨부두로 316"
+  },
+  "336903": {
+    "dongCode": "4613010800",
+    "address": "전남 여수시 여객선터미널길 17"
+  },
+  "339111": {
+    "dongCode": "5011010400",
+    "address": "제주 제주시 이도2동 1176-1(제주시청)"
+  },
+  "339112": {
+    "dongCode": "5011013700",
+    "address": "제주 제주시 연동 322-1 번지 제주특별자치도청 제2청사"
+  },
+  "339113": {
+    "dongCode": "5011025923",
+    "address": "제주특별자치도 제주시 조천읍 조천18길 11-1"
+  },
+  "339114": {
+    "dongCode": "5011025024",
+    "address": "제주특별자치도 제주시 한림읍 한림중앙로 71-9"
+  },
+  "339121": {
+    "dongCode": "5013010500",
+    "address": "제주 서귀포시 동홍동 453-1(서귀포소방서)"
+  },
+  "339122": {
+    "dongCode": "5013025922",
+    "address": "제주 서귀포시 성산읍 일주동로 4120번길 7"
+  },
+  "339123": {
+    "dongCode": "5013025321",
+    "address": "제주특별자치도 서귀포시 남원읍 남한로 67"
+  },
+  "339131": {
+    "dongCode": "5013025022",
+    "address": "제주특별자치도 서귀포시 대정읍 동일하모로149번길 21-8"
+  },
+  "339211": {
+    "dongCode": "5011012200",
+    "address": "제주특별자치도 제주시 1100로 3348"
+  },
+  "339312": {
+    "dongCode": "5011031023",
+    "address": "제주 제주시 한경면 고산리"
+  },
+  "422114": {
+    "dongCode": "2711013000",
+    "address": "대구 중구 수창동 73 (수창초등학교)(달성로 22길 30)"
+  },
+  "422115": {
+    "dongCode": "2726011200",
+    "address": "대구 수성구 지산동 761-11(한국환경공단) (무학로 209)"
+  },
+  "422121": {
+    "dongCode": "2714011500",
+    "address": "대구 동구 서호동 25-1(안심로49길 70)"
+  },
+  "422132": {
+    "dongCode": "2717010600",
+    "address": "대구 서구 이현동 48-60 (중리초등학교)(국채보상로 135)"
+  },
+  "422133": {
+    "dongCode": "",
+    "address": "대구 서구 평리3동"
+  },
+  "422141": {
+    "dongCode": "2720010300",
+    "address": "대구 남구 성당로30길55 성명초등학교별관3층옥상"
+  },
+  "422154": {
+    "dongCode": "2714010100",
+    "address": "대구 동구 신암동 72-1 (신암5동사무소)(아양로 37길 92)"
   },
   "422158": {
-    "address": "대구광역시 북구 연암로 40",
     "dongCode": "2723011100",
-    "sidoName": "대구광역시",
-    "gugunName": "북구",
-    "dongName": "산격동"
+    "address": "대구광역시 북구 연암로 40"
+  },
+  "422161": {
+    "dongCode": "2726010200",
+    "address": "대구 수성구 만촌2동 934 (동원초등학교)(국채보상로 1000)"
+  },
+  "422171": {
+    "dongCode": "2729010500",
+    "address": "대구 달서구 성서공단로 11길 32 대구기계부품연구원 1동 옥상"
+  },
+  "422201": {
+    "dongCode": "2771025924",
+    "address": "대구광역시 달성군 유가읍 테크노북로6길 20"
+  },
+  "422202": {
+    "dongCode": "2729010800",
+    "address": "대구 달서구 이곡동"
+  },
+  "422203": {
+    "dongCode": "2726011400",
+    "address": "대구광역시 수성구 노변공원로 52"
+  },
+  "422204": {
+    "dongCode": "2729011700",
+    "address": "대구광역시 달서구 월배로 131"
+  },
+  "422205": {
+    "dongCode": "2771025628",
+    "address": "대구광역시 달성군 다사읍 매곡로12길 37"
+  },
+  "422206": {
+    "dongCode": "2729012400",
+    "address": "대구광역시 달서구 구마로26길 62"
   },
   "422207": {
-    "address": "대구광역시 서구 서대구로3길 46",
     "dongCode": "2717010100",
-    "sidoName": "대구광역시",
-    "gugunName": "서구",
-    "dongName": "내당동"
+    "address": "대구광역시 서구 서대구로3길 46"
   },
   "422208": {
-    "address": "대구광역시 북구 옥산로17길 21",
     "dongCode": "2723010600",
-    "sidoName": "대구광역시",
-    "gugunName": "북구",
-    "dongName": "침산동"
+    "address": "대구광역시 북구 옥산로17길 21"
   },
   "422209": {
-    "address": "대구광역시 달성군 화원읍 인흥1길 12",
     "dongCode": "2771025025",
-    "sidoName": "대구광역시",
-    "gugunName": "달성군",
-    "dongName": "화원읍 명곡리"
+    "address": "대구광역시 달성군 화원읍 인흥1길 12"
   },
   "437111": {
-    "address": "경상북도 포항시 북구 새천년대로 906",
     "dongCode": "4711311800",
-    "sidoName": "경상북도",
-    "gugunName": "포항시 북구",
-    "dongName": "우현동"
+    "address": "경상북도 포항시 북구 새천년대로 906"
+  },
+  "437113": {
+    "dongCode": "4711312100",
+    "address": "경북 포항시 북구 삼흥로 98 북구보건소"
+  },
+  "437114": {
+    "dongCode": "4711110200",
+    "address": "경북 포항시 남구 대도동 111-6(상대동평생학습관)"
+  },
+  "437115": {
+    "dongCode": "4711131026",
+    "address": "경북 포항시 남구 대송면 장동홍계길19 (대송면사무소 내)"
+  },
+  "437117": {
+    "dongCode": "4711110400",
+    "address": "경북 포항시 남구 축항로 55"
+  },
+  "437118": {
+    "dongCode": "4711125621",
+    "address": "경북 포항시 남구 오천읍 냉천로320번길 4-11"
+  },
+  "437119": {
+    "dongCode": "4711110500",
+    "address": "경북 포항시 남구 신항로 10"
   },
   "437120": {
-    "address": "경상북도 포항시 남구 연일읍 동문로 67",
     "dongCode": "4711125323",
-    "sidoName": "경상북도",
-    "gugunName": "포항시 남구",
-    "dongName": "연일읍 동문리"
+    "address": "경상북도 포항시 남구 연일읍 동문로 67"
   },
   "437121": {
-    "address": "경상북도 포항시 남구 인덕로 52",
     "dongCode": "4711111200",
-    "sidoName": "경상북도",
-    "gugunName": "포항시 남구",
-    "dongName": "인덕동"
+    "address": "경상북도 포항시 남구 인덕로 52"
+  },
+  "437123": {
+    "dongCode": "4713013500",
+    "address": "경북 경주시 경감로 587-18"
+  },
+  "437124": {
+    "dongCode": "4713025333",
+    "address": "경북 경주시 안강읍 비화동길 9-40"
+  },
+  "437125": {
+    "dongCode": "4713025921",
+    "address": "경북 경주시 외동읍 입실로3길 31"
+  },
+  "437131": {
+    "dongCode": "4715010500",
+    "address": "경상북도 김천시 평화순환길 291"
+  },
+  "437132": {
+    "dongCode": "4715011700",
+    "address": "경북 김천시 공단2길 30-22"
+  },
+  "437133": {
+    "dongCode": "4715012000",
+    "address": "경북 김천시 혁신4로 21"
+  },
+  "437141": {
+    "dongCode": "4717010400",
+    "address": "경북 안동시 퇴계로 115 (명륜동)"
+  },
+  "437151": {
+    "dongCode": "4719011300",
+    "address": "경북 구미시 공단동 256-18 (근로자종합복지회)"
+  },
+  "437152": {
+    "dongCode": "4719010100",
+    "address": "경북 구미시 원평동 56-4(구미중앙로 24)"
+  },
+  "437153": {
+    "dongCode": "4719010900",
+    "address": "경북 구미시 형곡동 142(구미시립도서관)"
+  },
+  "437154": {
+    "dongCode": "4719025626",
+    "address": "경상북도 구미시 산동읍 첨단기업1로 17"
   },
   "437156": {
-    "address": "경상북도 구미시 이계북로 149",
     "dongCode": "4719012300",
-    "sidoName": "경상북도",
-    "gugunName": "구미시",
-    "dongName": "진평동"
+    "address": "경상북도 구미시 이계북로 149"
+  },
+  "437161": {
+    "dongCode": "4721010500",
+    "address": "경북 영주시 가흥로 263"
+  },
+  "437171": {
+    "dongCode": "4729011700",
+    "address": "경북 경산시 중방동 708-5 남매로 158"
   },
   "437172": {
-    "address": "경상북도 경산시 하양읍 하양로 119-1",
     "dongCode": "4729025021",
-    "sidoName": "경상북도",
-    "gugunName": "경산시",
-    "dongName": "하양읍 금락리"
+    "address": "경상북도 경산시 하양읍 하양로 119-1"
+  },
+  "437181": {
+    "dongCode": "4725013300",
+    "address": "경북 상주시 북천로 63"
+  },
+  "437191": {
+    "dongCode": "4785025023",
+    "address": "경북 칠곡군 왜관읍 관문로1길 30"
+  },
+  "437201": {
+    "dongCode": "4777025022",
+    "address": "경북 영덕군 영덕읍 삼근길 6-7"
+  },
+  "437202": {
+    "dongCode": "4777031031",
+    "address": "경상북도 영덕군 강구면 강구리 167"
+  },
+  "437203": {
+    "dongCode": "4777036030",
+    "address": "경상북도 영덕군 영해면 예주3길 7"
+  },
+  "437211": {
+    "dongCode": "4728011000",
+    "address": "경북 문경시 시청2길 45"
+  },
+  "437221": {
+    "dongCode": "4784025024",
+    "address": "경상북도 성주군 성주읍 성주로 3258"
+  },
+  "437371": {
+    "dongCode": "4777034052",
+    "address": "경북 영덕군 지품면 신안리"
+  },
+  "437401": {
+    "dongCode": "4723034000",
+    "address": "경북 영천시 화북면"
+  },
+  "437402": {
+    "dongCode": "4723010500",
+    "address": "경북 영천시 시청로 23"
+  },
+  "437411": {
+    "dongCode": "4773043032",
+    "address": "경상북도 의성군 안계면 위양2길 9-26"
+  },
+  "437412": {
+    "dongCode": "4773025021",
+    "address": "경북 의성군 의성읍 군청길 31"
+  },
+  "437421": {
+    "dongCode": "4793025021",
+    "address": "경상북도 울진군 울진읍 읍내10길 19"
+  },
+  "437431": {
+    "dongCode": "4792039021",
+    "address": "경상북도 봉화군 석포면 석포로1길 55"
   },
   "437432": {
-    "address": "경상북도 봉화군 봉화읍 봉화로 1111",
     "dongCode": "4792025031",
-    "sidoName": "경상북도",
-    "gugunName": "봉화군",
-    "dongName": "봉화읍 내성리"
+    "address": "경상북도 봉화군 봉화읍 봉화로 1111"
+  },
+  "437541": {
+    "dongCode": "4794031026",
+    "address": "경북 울릉군 서면 태하리"
+  },
+  "437542": {
+    "dongCode": "4794025024",
+    "address": "경북 울릉군 울릉읍 도동2길 65"
+  },
+  "437551": {
+    "dongCode": "4783025324",
+    "address": "경북 고령군 대가야읍 성산로 46"
+  },
+  "437561": {
+    "dongCode": "4772025021",
+    "address": "경북 군위군 군위읍 군청로 158"
+  },
+  "437571": {
+    "dongCode": "4776025022",
+    "address": "경상북도 영양군 영양읍 군청길 37"
+  },
+  "437581": {
+    "dongCode": "4790036046",
+    "address": "경상북도 예천군 호명면 행복7길 25-4"
+  },
+  "437591": {
+    "dongCode": "4782025021",
+    "address": "경북 청도군 화양읍 도주관로 159"
+  },
+  "437901": {
+    "dongCode": "4711110500",
+    "address": "경북 포항시 남구 신항로 99-98"
+  },
+  "525111": {
+    "dongCode": "3023010300",
+    "address": "대전 대덕구 대전로 1331번길 75(태아산업(주))"
+  },
+  "525112": {
+    "dongCode": "3023011300",
+    "address": "대전 대덕구 문평동로 18번길 34(문평동 119안전센터)"
+  },
+  "525121": {
+    "dongCode": "3014010600",
+    "address": "대전 중구 보문로 20번길 38(문창동 주민센터)"
+  },
+  "525141": {
+    "dongCode": "3020012400",
+    "address": "대전 유성구 대학로 407 보건환경연구원"
+  },
+  "525142": {
+    "dongCode": "3020011900",
+    "address": "대전 유성구 노은동로 87번길 89(노은1동 주민센터)"
+  },
+  "525143": {
+    "dongCode": "3020011500",
+    "address": "대전광역시 유성구 도안대로 398"
+  },
+  "525144": {
+    "dongCode": "3020014600",
+    "address": "대전광역시 유성구 테크노중앙로 88"
+  },
+  "525151": {
+    "dongCode": "3014010500",
+    "address": "대전 중구 중앙로 58"
+  },
+  "525161": {
+    "dongCode": "3011011600",
+    "address": "대전 동구 계족로 368번길 70(성남동 주민센터)"
+  },
+  "525162": {
+    "dongCode": "3011013900",
+    "address": "대전광역시 동구 동구청로 36"
+  },
+  "525171": {
+    "dongCode": "3017010400",
+    "address": "대전 서구 정림동로 10(정림동 주민센터)"
+  },
+  "525172": {
+    "dongCode": "3017011200",
+    "address": "대전 서구 둔산서로 84(근로자 종합복지회관)"
+  },
+  "525173": {
+    "dongCode": "3017011300",
+    "address": "대전 서구 월평동160-5"
+  },
+  "533112": {
+    "dongCode": "4311311600",
+    "address": "충북 청주시 흥덕구 직지대로 393(송정동)"
+  },
+  "533113": {
+    "dongCode": "4311410400",
+    "address": "충북 청주시 청원구 사천동 233-223번지(사뜸로 61번길 88-14), 청주청원도서관 옥상(2층)"
+  },
+  "533114": {
+    "dongCode": "4311112100",
+    "address": "충북 청주시 상당구 교동로139번길 20"
+  },
+  "533115": {
+    "dongCode": "4311112400",
+    "address": "충북 청주시 상당구 용암동 1590(중흥로 29), 용암1동 주민센터 3층 옥상"
+  },
+  "533116": {
+    "dongCode": "4311311400",
+    "address": "충북 청주시 흥덕구 복대동"
+  },
+  "534111": {
+    "dongCode": "4413110200",
+    "address": "충남 천안시 동남구 복자1길 24 문성어린이집"
+  },
+  "534112": {
+    "dongCode": "4413310300",
+    "address": "충남 천안시 백석동 555-57번지(백성농공단지)"
+  },
+  "534114": {
+    "dongCode": "4413310500",
+    "address": "충남 천안시 서북구 성성동"
+  },
+  "534115": {
+    "dongCode": "4413325322",
+    "address": "충청남도 천안시 서북구 성거읍 천흥8길 7"
+  },
+  "534116": {
+    "dongCode": "4413111600",
+    "address": "충남 천안시 동남구 천안천변길 127"
+  },
+  "534341": {
+    "dongCode": "4415039000",
+    "address": "충남 공주시 사곡면 마곡사로"
+  },
+  "534342": {
+    "dongCode": "4415010200",
+    "address": "충남 공주시 봉황로 1"
+  },
+  "534343": {
+    "dongCode": "4415032024",
+    "address": "충청남도 공주시 탄천면 안터새말길 34"
+  },
+  "534411": {
+    "dongCode": "4476025028",
+    "address": "충남 부여군 부여읍 사비로 36"
+  },
+  "534422": {
+    "dongCode": "4421010200",
+    "address": "충청남도 서산시 중앙로 38-1"
+  },
+  "534423": {
+    "dongCode": "4421025021",
+    "address": "충청남도 서산시 대산읍 충의로 1942"
+  },
+  "534424": {
+    "dongCode": "4421036025",
+    "address": "충남 서산시 성연면 마루들길 15"
+  },
+  "534433": {
+    "dongCode": "4427039032",
+    "address": "충남 당진시 송산면 유곡로 342-27"
+  },
+  "534434": {
+    "dongCode": "4427010600",
+    "address": "충남 당진시 시청1로 1"
+  },
+  "534441": {
+    "dongCode": "4420011300",
+    "address": "충남 아산시 모종동 573-2"
+  },
+  "534442": {
+    "dongCode": "4420025324",
+    "address": "충남 아산시 배방읍 배방로 38"
+  },
+  "534443": {
+    "dongCode": "4420040036",
+    "address": "충남 아산시 도고면 기곡리 296-4"
+  },
+  "534444": {
+    "dongCode": "4420036032",
+    "address": "충청남도 아산시 둔포면 중앙공원로 43"
+  },
+  "534445": {
+    "dongCode": "4420038024",
+    "address": "충청남도 아산시 인주면 인주산단로 23-28"
   },
   "534446": {
-    "address": "충청남도 아산시 배방읍 장재리 2116",
-    "dongCode": "4420025300",
-    "sidoName": "충청남도",
-    "gugunName": "아산시",
-    "dongName": "배방읍"
+    "dongCode": "4420025331",
+    "address": "충청남도 아산시 배방읍 장재리 2116"
+  },
+  "534451": {
+    "dongCode": "4423010400",
+    "address": "충남 논산시 시민로"
+  },
+  "534452": {
+    "dongCode": "4423025321",
+    "address": "충청남도 논산시 연무읍 안심로 50"
   },
   "534453": {
-    "address": "충청남도 논산시 성동면 산업단지로5길 73-28",
     "dongCode": "4423031026",
-    "sidoName": "충청남도",
-    "gugunName": "논산시",
-    "dongName": "성동면 원남리"
+    "address": "충청남도 논산시 성동면 산업단지로5길 73-28"
+  },
+  "534461": {
+    "dongCode": "4482534000",
+    "address": "충남 태안군 소원면 파도길"
+  },
+  "534462": {
+    "dongCode": "4482536000",
+    "address": "충남 태안군 이원면 분지길"
+  },
+  "534463": {
+    "dongCode": "4482525000",
+    "address": "충남 태안군 태안읍 군청6길"
+  },
+  "534464": {
+    "dongCode": "4482533029",
+    "address": "충남 태안군 근흥면 가의도길 44-71번지"
   },
   "534465": {
-    "address": "충청남도 태안군 원북면 상리길 17-4",
     "dongCode": "4482535021",
-    "sidoName": "충청남도",
-    "gugunName": "태안군",
-    "dongName": "원북면 반계리"
+    "address": "충청남도 태안군 원북면 상리길 17-4"
+  },
+  "534471": {
+    "dongCode": "4481025021",
+    "address": "충남 예산군 예산읍 신흥길 63"
   },
   "534472": {
-    "address": "충청남도 예산군 삽교읍 두리3길 33",
     "dongCode": "4481025321",
-    "sidoName": "충청남도",
-    "gugunName": "예산군",
-    "dongName": "삽교읍 두리"
+    "address": "충청남도 예산군 삽교읍 두리3길 33"
+  },
+  "534481": {
+    "dongCode": "4418010100",
+    "address": "충남 보령시 중앙로 142-16"
+  },
+  "534482": {
+    "dongCode": "4418041021",
+    "address": "충청남도 보령시 주교면 울계큰길 396"
+  },
+  "534484": {
+    "dongCode": "4418032030",
+    "address": "충남 보령시 오천면 외연도리 산64"
+  },
+  "534491": {
+    "dongCode": "4480025000",
+    "address": "충남 홍성군 홍성읍 내포로 136번길"
+  },
+  "534492": {
+    "dongCode": "4480025625",
+    "address": "충청남도 홍성군 홍북읍 홍예공원로 8"
+  },
+  "534501": {
+    "dongCode": "4471025024",
+    "address": "충남 금산군 금산읍 비호로 69"
+  },
+  "534502": {
+    "dongCode": "4479025021",
+    "address": "충남 청양군 청양읍 칠갑산로7길 54"
+  },
+  "534503": {
+    "dongCode": "4479033021",
+    "address": "충청남도 청양군 정산면 칠갑산로 1861"
+  },
+  "534510": {
+    "dongCode": "4425031521",
+    "address": "충청남도 계룡시 엄사면 번영7길 17"
+  },
+  "534901": {
+    "dongCode": "4427038032",
+    "address": "충청남도 당진시 신평면 매산리 976"
+  },
+  "534902": {
+    "dongCode": "4421025027",
+    "address": "충남 서산시 대산읍 대죽리 1114"
+  },
+  "534903": {
+    "dongCode": "4477025024",
+    "address": "충남 서천군 장항읍 장산로 270-3"
+  },
+  "541111": {
+    "dongCode": "3611025029",
+    "address": "세종 조치원읍 군청로 87-16(신흥동)"
+  },
+  "541112": {
+    "dongCode": "3611011300",
+    "address": "세종특별자치시 보듬3로 114"
+  },
+  "541113": {
+    "dongCode": "3611010600",
+    "address": "세종특별자치시 누리로 27"
+  },
+  "541114": {
+    "dongCode": "3611033021",
+    "address": "세종특별자치시 부강면 부강외천로 20"
+  },
+  "632121": {
+    "dongCode": "4213010900",
+    "address": "강원 원주시 충정길 12(학성동 206-6)"
+  },
+  "632122": {
+    "dongCode": "4213011700",
+    "address": "강원도 원주시 배울로 215"
+  },
+  "632124": {
+    "dongCode": "4213025026",
+    "address": "강원도 원주시 문막읍 건등로 11"
   },
   "632126": {
-    "address": "강원도 원주시 지정면 기업도시로 200",
     "dongCode": "4213033023",
-    "sidoName": "강원도",
-    "gugunName": "원주시",
-    "dongName": "지정면 가곡리"
+    "address": "강원도 원주시 지정면 기업도시로 200"
+  },
+  "632132": {
+    "dongCode": "4215010900",
+    "address": "강원 강릉시 경강로 2179(옥천동 327-2)"
+  },
+  "632151": {
+    "dongCode": "4217010100",
+    "address": "강원 동해시 천곡로 77(천곡동 806)"
+  },
+  "632161": {
+    "dongCode": "4223012000",
+    "address": "강원 삼척시 남양길 11(남양동 331-9)"
+  },
+  "632171": {
+    "dongCode": "4276025025",
+    "address": "강원 평창군 평창읍 종부로 61(종부리 504)"
+  },
+  "632371": {
+    "dongCode": "4277034023",
+    "address": "강원 정선군 북평면 남평리"
+  },
+  "632372": {
+    "dongCode": "4277025021",
+    "address": "강원도 정선군 정선읍 정선로 1331"
+  },
+  "632421": {
+    "dongCode": "4282025000",
+    "address": "강원 고성군 간성읍"
+  },
+  "632431": {
+    "dongCode": "4273038021",
+    "address": "강원 횡성군 강림면 강림리(치악산)"
+  },
+  "632432": {
+    "dongCode": "4273025022",
+    "address": "강원도 횡성군 횡성읍 중앙로 30"
+  },
+  "632441": {
+    "dongCode": "4282025025",
+    "address": "강원도 고성군 간성읍 수성로 160"
+  },
+  "632451": {
+    "dongCode": "4283025024",
+    "address": "강원도 양양군 양양읍 남문로 39"
+  },
+  "632461": {
+    "dongCode": "4221010300",
+    "address": "강원도 속초시 중앙시장로 43"
+  },
+  "632472": {
+    "dongCode": "4278025621",
+    "address": "강원도 철원군 갈말읍 삼부연로 51"
+  },
+  "632481": {
+    "dongCode": "4272025029",
+    "address": "강원도 홍천군 홍천읍 연봉동로 27"
+  },
+  "632491": {
+    "dongCode": "4275025022",
+    "address": "강원도 영월군 영월읍 팔괴로 7-3"
+  },
+  "632501": {
+    "dongCode": "4279025021",
+    "address": "강원도 화천군 화천읍 화천새싹길 45"
+  },
+  "632511": {
+    "dongCode": "4219010100",
+    "address": "강원도 태백시 태붐로 21"
+  },
+  "632521": {
+    "dongCode": "4281025022",
+    "address": "강원도 인제군 인제읍 비봉로44번길 93"
+  },
+  "633122": {
+    "dongCode": "4313010700",
+    "address": "충북 충주시 호암동 562(충주시 청소년수련원 옥상)(중원대로 3324)"
+  },
+  "633123": {
+    "dongCode": "4313011600",
+    "address": "충북 충주시 칠금동 874번지(칠금동 주민센터 옥상)(칠금 중랑로 37)"
+  },
+  "633124": {
+    "dongCode": "4313038526",
+    "address": "충청북도 충주시 중앙탑면 기업도시로 237"
+  },
+  "633125": {
+    "dongCode": "4313031021",
+    "address": "충청북도 충주시 살미면 세성양지말길 41"
+  },
+  "633131": {
+    "dongCode": "4315011600",
+    "address": "충북 제천시 장락동 672-8(내제로 318),(시립도서관 주차장 옆, 화단)"
+  },
+  "633132": {
+    "dongCode": "4315011000",
+    "address": "충청북도 제천시 청풍호로8길 7"
+  },
+  "633133": {
+    "dongCode": "4315032041",
+    "address": "충청북도 제천시 청풍면 청풍호로 2115"
+  },
+  "633211": {
+    "dongCode": "4311425346",
+    "address": "충청북도 청주시 청원구 오창읍 오창대로 197"
+  },
+  "633213": {
+    "dongCode": "4311210400",
+    "address": "충청북도 청주시 서원구 원흥로 81"
+  },
+  "633214": {
+    "dongCode": "4311325026",
+    "address": "충청북도 청주시 흥덕구 오송읍 오송생명로 150"
+  },
+  "633215": {
+    "dongCode": "4311133027",
+    "address": "충청북도 청주시 상당구 가덕면 보청대로 4650"
+  },
+  "633311": {
+    "dongCode": "4380025327",
+    "address": "충북 단양군 매포읍 평동리 1274(평동33길 3),(매포 보건지소 마당)"
+  },
+  "633312": {
+    "dongCode": "4380036025",
+    "address": "충북 단양군 단성면 충혼로 52-1"
+  },
+  "633313": {
+    "dongCode": "4380025025",
+    "address": "충청북도 단양군 단양읍 별곡6길 26"
+  },
+  "633361": {
+    "dongCode": "4376036000",
+    "address": "충북 괴산군 청천면 송문로 덕평길"
+  },
+  "633362": {
+    "dongCode": "4376025022",
+    "address": "충북 괴산군 괴산읍 서부리 377-1"
+  },
+  "633363": {
+    "dongCode": "4376031026",
+    "address": "충청북도 괴산군 감물면 충민로신대길 13"
+  },
+  "633411": {
+    "dongCode": "4375025024",
+    "address": "충북 진천군 진천읍 상산로 65 읍내리 370-1"
+  },
+  "633412": {
+    "dongCode": "4375025325",
+    "address": "충청북도 진천군 덕산읍 대월로 90"
+  },
+  "633461": {
+    "dongCode": "4377025300",
+    "address": "충북 음성군 금왕읍 무극로"
+  },
+  "633462": {
+    "dongCode": "4377025021",
+    "address": "충청북도 음성군 음성읍 중앙로 49"
+  },
+  "633463": {
+    "dongCode": "4377031021",
+    "address": "충청북도 음성군 소이면 소이로 409"
+  },
+  "633471": {
+    "dongCode": "4374025021",
+    "address": "충청북도 영동군 영동읍 계산로2길 25"
+  },
+  "633481": {
+    "dongCode": "4374531021",
+    "address": "충청북도 증평군 도안면 문화마을길 8"
   },
   "633482": {
-    "address": "충청북도 증평군 증평읍 남하용강로 16",
     "dongCode": "4374525040",
-    "sidoName": "충청북도",
-    "gugunName": "증평군",
-    "dongName": "증평읍 남하리"
+    "address": "충청북도 증평군 증평읍 남하용강로 16"
+  },
+  "633491": {
+    "dongCode": "4372025021",
+    "address": "충청북도 보은군 보은읍 삼산로 50"
+  },
+  "634111": {
+    "dongCode": "4373025038",
+    "address": "충북 옥천군 옥천읍 중앙로 99(옥천군청 통합관제 센터 옥상)"
+  },
+  "735111": {
+    "dongCode": "4511113700",
+    "address": "전북 전주시 완산구 용리로 107"
+  },
+  "735114": {
+    "dongCode": "4511311000",
+    "address": "전라북도 전주시 덕진구 서귀로 107"
+  },
+  "735115": {
+    "dongCode": "4511312200",
+    "address": "전라북도 전주시 덕진구 동부대로 1183"
+  },
+  "735116": {
+    "dongCode": "4511112900",
+    "address": "전북 전주시 완산구 백제대로 450"
+  },
+  "735117": {
+    "dongCode": "4511313200",
+    "address": "전라북도 전주시 덕진구 중동로 150"
+  },
+  "735121": {
+    "dongCode": "4513011000",
+    "address": "전라북도 군산시 대학로 215"
+  },
+  "735122": {
+    "dongCode": "4513014600",
+    "address": "전북 군산시 외항1길 222. (롯데주류) 3층옥상"
+  },
+  "735123": {
+    "dongCode": "4513014000",
+    "address": "전라북도 군산시 번영로 329"
+  },
+  "735124": {
+    "dongCode": "4513031021",
+    "address": "전북 군산시 옥산면 산성로 200"
+  },
+  "735125": {
+    "dongCode": "4513014800",
+    "address": "전북 군산시 새만금북로 43"
+  },
+  "735126": {
+    "dongCode": "4513039030",
+    "address": "전라북도 군산시 옥도면 말도2길 29"
   },
   "735127": {
-    "address": "전라북도 군산시 동장산2길 6",
     "dongCode": "4513014600",
-    "sidoName": "전라북도",
-    "gugunName": "군산시",
-    "dongName": "소룡동"
+    "address": "전라북도 군산시 동장산2길 6"
+  },
+  "735131": {
+    "dongCode": "4514043021",
+    "address": "전북 익산시 삼기면 황금로 513"
+  },
+  "735133": {
+    "dongCode": "4514012700",
+    "address": "전북 익산시 무왕로 1338. 익산소방서"
+  },
+  "735134": {
+    "dongCode": "4514011500",
+    "address": "전북 익산시 배산로 189-10"
+  },
+  "735135": {
+    "dongCode": "4514044024",
+    "address": "전북 익산시 용동면 용동1길 80-4"
+  },
+  "735136": {
+    "dongCode": "4514025021",
+    "address": "전라북도 익산시 함열읍 함열중앙로 83"
   },
   "735137": {
-    "address": "전라북도 익산시 춘포면 춘포2길 11",
     "dongCode": "4514042032",
-    "sidoName": "전라북도",
-    "gugunName": "익산시",
-    "dongName": "춘포면 춘포리"
+    "address": "전라북도 익산시 춘포면 춘포2길 11"
   },
   "735138": {
-    "address": "전라북도 익산시 여산면 가람로 393",
     "dongCode": "4514039021",
-    "sidoName": "전라북도",
-    "gugunName": "익산시",
-    "dongName": "여산면 여산리"
+    "address": "전라북도 익산시 여산면 가람로 393"
+  },
+  "735141": {
+    "dongCode": "4518010500",
+    "address": "전북 정읍시 조곡천1길 7. 여성문화관 옥상"
+  },
+  "735142": {
+    "dongCode": "4518025021",
+    "address": "전라북도 정읍시 신태인읍 신태인중앙로 40"
   },
   "735143": {
-    "address": "전라북도 정읍시 영파동 232-1",
-    "dongCode": "4518010600",
-    "sidoName": "전라북도",
-    "gugunName": "정읍시",
-    "dongName": "농소동"
+    "dongCode": "4518012000",
+    "address": "전라북도 정읍시 영파동 232-1"
+  },
+  "735151": {
+    "dongCode": "4519010300",
+    "address": "전라북도 남원시 비석길 72"
+  },
+  "735161": {
+    "dongCode": "4579025023",
+    "address": "전라북도 고창군 고창읍 월곡공원1길 36"
+  },
+  "735162": {
+    "dongCode": "4579039028",
+    "address": "전라북도 고창군 심원면 심원로 211"
+  },
+  "735171": {
+    "dongCode": "4580033021",
+    "address": "전북 부안군 행안면 변산로 16"
+  },
+  "735172": {
+    "dongCode": "4580036000",
+    "address": "전북 부안군 변산면 새만금로"
   },
   "735173": {
-    "address": "전라북도 부안군 계화면 간재로 405",
     "dongCode": "4580034022",
-    "sidoName": "전라북도",
-    "gugunName": "부안군",
-    "dongName": "계화면 창북리"
+    "address": "전라북도 부안군 계화면 간재로 405"
+  },
+  "735181": {
+    "dongCode": "4521010100",
+    "address": "전북 김제시 요촌중길 50"
+  },
+  "735191": {
+    "dongCode": "4571036021",
+    "address": "전북 완주군 고산면 고산로 69-13"
+  },
+  "735192": {
+    "dongCode": "4571025328",
+    "address": "전라북도 완주군 봉동읍 삼봉로 933"
   },
   "735193": {
-    "address": "전라북도 완주군 구이면 덕천전원길 232-58",
     "dongCode": "4571035023",
-    "sidoName": "전라북도",
-    "gugunName": "완주군",
-    "dongName": "구이면 덕천리"
+    "address": "전라북도 완주군 구이면 덕천전원길 232-58"
+  },
+  "735201": {
+    "dongCode": "4572025021",
+    "address": "전북 진안군 진안읍 진무로 1189"
+  },
+  "735351": {
+    "dongCode": "4575032022",
+    "address": "전북 임실군 운암면 선거리"
+  },
+  "735361": {
+    "dongCode": "4575025022",
+    "address": "전라북도 임실군 임실읍 운수로 33-50"
+  },
+  "735362": {
+    "dongCode": "4575038026",
+    "address": "전라북도 임실군 관촌면 사선1길 13"
+  },
+  "735371": {
+    "dongCode": "4573025021",
+    "address": "전라북도 무주군 무주읍 향학로 49"
+  },
+  "735381": {
+    "dongCode": "4577025021",
+    "address": "전라북도 순창군 순창읍 경천로 33"
+  },
+  "735391": {
+    "dongCode": "4574025021",
+    "address": "전라북도 장수군 장수읍 호비로 10"
+  },
+  "735520": {
+    "dongCode": "4477025321",
+    "address": "충남 서천군 서천읍 서천로14번길 20"
+  },
+  "735521": {
+    "dongCode": "4477041026",
+    "address": "충남 서천군 서면 서인로 761"
+  },
+  "735522": {
+    "dongCode": "4477025024",
+    "address": "충청남도 서천군 장항읍 장산로 297"
+  },
+  "735601": {
+    "dongCode": "4775025023",
+    "address": "경상북도 청송군 청송읍 금월로 230"
+  },
+  "735901": {
+    "dongCode": "4513014600",
+    "address": "전북 군산시 서해로 194"
+  },
+  "823611": {
+    "dongCode": "2811012700",
+    "address": "인천 중구 서해대로 471(신흥동 2가)"
+  },
+  "823612": {
+    "dongCode": "2811011800",
+    "address": "인천광역시 중구 서해대로 365-1"
+  },
+  "823613": {
+    "dongCode": "2811014500",
+    "address": "인천광역시 중구 하늘중앙로 132"
+  },
+  "823621": {
+    "dongCode": "2814010700",
+    "address": "인천 동구 금곡로 67(송림동)"
+  },
+  "823631": {
+    "dongCode": "2820010100",
+    "address": "인천 남동구 구월말로 7(구월동)"
+  },
+  "823632": {
+    "dongCode": "2817710100",
+    "address": "인천 미추홀구 독정안길 26"
+  },
+  "823633": {
+    "dongCode": "",
+    "address": "인천 미추홀구 주안6동"
+  },
+  "823634": {
+    "dongCode": "2823710100",
+    "address": "인천 부평구 광장로 지하15(부평동)"
+  },
+  "823636": {
+    "dongCode": "2820010100",
+    "address": "인천광역시 남동구 남동대로 668"
+  },
+  "823637": {
+    "dongCode": "2817710500",
+    "address": "인천광역시 미추홀구 구월남로 27"
+  },
+  "823641": {
+    "dongCode": "2823710100",
+    "address": "인천 부평구 부평대로88번길 19(부평동)"
+  },
+  "823651": {
+    "dongCode": "2826010700",
+    "address": "인천 서구 심곡로 98(심곡동)"
+  },
+  "823652": {
+    "dongCode": "2826011300",
+    "address": "인천 서구 검단로502번길 15(마전동)"
+  },
+  "823653": {
+    "dongCode": "2826011000",
+    "address": "인천광역시 서구 중봉대로 274"
+  },
+  "823662": {
+    "dongCode": "2824510200",
+    "address": "인천 계양구 계양산로134번길 18(계산동)"
+  },
+  "823671": {
+    "dongCode": "2820011000",
+    "address": "인천 남동구 은봉로 82"
+  },
+  "823672": {
+    "dongCode": "2820010500",
+    "address": "인천광역시 남동구 서창남로 101"
+  },
+  "823681": {
+    "dongCode": "2826011000",
+    "address": "인천 서구 거북로 116(석남동)"
+  },
+  "823691": {
+    "dongCode": "2871039021",
+    "address": "인천 강화군 송해면 전망대로 29(솔정리)"
+  },
+  "823701": {
+    "dongCode": "2818510500",
+    "address": "인천 연수구 원인재로 115(동춘동)"
+  },
+  "823702": {
+    "dongCode": "2811014700",
+    "address": "인천 중구 영종대로 85(운서동)"
+  },
+  "823703": {
+    "dongCode": "2814010300",
+    "address": "인천 동구 수문통로 77"
+  },
+  "823704": {
+    "dongCode": "2820011000",
+    "address": "인천 남동구 청능대로611번길 54(논현동)"
+  },
+  "823706": {
+    "dongCode": "2818510600",
+    "address": "인천 연수구 갯벌로 12"
+  },
+  "823707": {
+    "dongCode": "2818510600",
+    "address": "인천광역시 연수구 센트럴로 350"
+  },
+  "823801": {
+    "dongCode": "2826011500",
+    "address": "인천 서구 고산후로121번길 7(원당동)"
+  },
+  "823802": {
+    "dongCode": "2871033021",
+    "address": "인천 강화군 길상면 강화동로 15-1"
+  },
+  "823803": {
+    "dongCode": "2823710500",
+    "address": "인천 부평구 충선로 262"
+  },
+  "823902": {
+    "dongCode": "2811011800",
+    "address": "인천 중구 항동7가 1-48"
+  },
+  "831151": {
+    "dongCode": "4119011000",
+    "address": "경기 부천시 경인옛로 73"
+  },
+  "831152": {
+    "dongCode": "4119012300",
+    "address": "경기 부천시 삼작로 109"
+  },
+  "831153": {
+    "dongCode": "4119010800",
+    "address": "경기 부천시 심중로 121"
+  },
+  "831154": {
+    "dongCode": "4119011700",
+    "address": "경기 부천시 성오로 172"
+  },
+  "831155": {
+    "dongCode": "4119010800",
+    "address": "경기 부천시 송내대로 262"
+  },
+  "831481": {
+    "dongCode": "2871041021",
+    "address": "인천 강화군 삼산면 석모리"
+  },
+  "831491": {
+    "dongCode": "2872035022",
+    "address": "인천 옹진군 덕적면 진리"
+  },
+  "831492": {
+    "dongCode": "2872033024",
+    "address": "인천 옹진군 백령면 연화리"
+  },
+  "831493": {
+    "dongCode": "2872036022",
+    "address": "인천광역시 옹진군 영흥면 영흥로251번길 90"
+  },
+  "831494": {
+    "dongCode": "2872038021",
+    "address": "인천 옹진군 연평면 연평리 631"
+  },
+  "831495": {
+    "dongCode": "2872035025",
+    "address": "인천 옹진군 덕적면 울도리 85번지"
   }
 }
